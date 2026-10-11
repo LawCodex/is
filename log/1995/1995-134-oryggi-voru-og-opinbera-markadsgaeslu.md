@@ -1,0 +1,405 @@
+---
+title: "Lög um öryggi vöru og opinbera markaðsgæslu"
+identifier: "134/1995"
+lagasafn_id: "1995134"
+type: act
+jurisdiction: is
+language: is
+date: 1995-12-22
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "28.b. Smásöluverslun og verslunarvarningur"
+source: "https://www.althingi.is/lagas/158a/1995134.html"
+retrieved: 2026-10-12
+---
+
+# Lög um öryggi vöru og opinbera markaðsgæslu
+
+**1995 134 22. desember**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=120&mnr=100) [*Frumvarp til laga.*](https://www.althingi.is/altext/120/s/0105.html)
+
+**Tóku gildi 29. desember 1995.** *EES-samningurinn:* II. viðauki tilskipun 83/189/EBE, XIX. viðauki tilskipun 87/357/EBE og II. viðauki tilskipun 92/59/EBE.
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **atvinnuvegaráðherra** eða **atvinnuvegaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 82/1998](https://www.althingi.is/altext/stjt/1998.082.html) (tóku gildi 1. okt. 1998).
+- [L. 76/2002](https://www.althingi.is/altext/stjt/2002.076.html) (tóku gildi 17. maí 2002).
+- [L. 68/2004](https://www.althingi.is/altext/stjt/2004.068.html) (tóku gildi 18. júní 2004; *EES-samningurinn:* II. viðauki tilskipun 2001/95/EB).
+- [L. 62/2005](https://www.althingi.is/altext/stjt/2005.062.html) (tóku gildi 1. júlí 2005).
+- [L. 108/2006](https://www.althingi.is/altext/stjt/2006.108.html) (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
+- [L. 98/2009](https://www.althingi.is/altext/stjt/2009.098.html) (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 125/2013](https://www.althingi.is/altext/stjt/2013.125.html) (tóku gildi 31. des. 2013).
+- [L. 71/2019](https://www.althingi.is/altext/stjt/2019.071.html) (tóku gildi 5. júlí 2019).
+- [L. 18/2021](https://www.althingi.is/altext/stjt/2021.018.html) (tóku gildi 1. okt. 2021).
+- [L. 11/2026](https://www.althingi.is/altext/stjt/2026.011.html) (tóku gildi 5. mars 2026; um lagaskil sjá 68. gr. og brbákv.).
+
+## I. kafli. Gildissvið.
+
+#### 1. gr.
+
+Lög þessi ná til vöru sem viðskipti eiga sér stað með hér á landi í atvinnuskyni eða er flutt út til [annarra ríkja Evrópska efnahagssvæðisins, aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu eða Færeyja].<sup>1)</sup> Lögin taka einnig til þjónustu sem veitt er í tengslum við vöruviðskipti. Lög þessi gilda jafnt um vörur sem boðnar eru gegn gjaldi eða endurgjaldslaust.
+
+Lög þessi taka ekki til fornmuna eða notaðra lausafjármuna sem þarfnast lagfæringar áður en notkun þeirra hefst enda sé viðtakanda gerð grein fyrir því áður en viðskiptin fara fram eða honum má vera það ljóst.
+
+Ákvæði laga þessara taka til vöru sem boðin er neytendum en ná ekki til vöru eða þjónustu sem nær eingöngu er framleidd eða unnin til frekari framleiðslu …<sup>2)</sup> í atvinnurekstri.
+
+[Ákvæði 8. og 9. gr. laga þessara taka ekki til vöru sem um gilda sérstök lög eða reglur um öryggi vöru. Þar sem ákvæði sérlaga eru ófullnægjandi eða ganga skemmra en ákvæði IV. og V. kafla laga þessara skulu þau ákvæði gilda. Hið sama á við um skyldur framleiðenda og dreifingaraðila eftir því sem við getur átt.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 108/2006, 107. gr.](https://www.althingi.is/altext/stjt/2006.108.html) <sup>2)</sup>[L. 68/2004, 1. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 2. gr.
+
+Framleiðendur mega einungis markaðssetja örugga vöru.
+
+Vörur, sem ætlaðar eru til sölu, leigu eða hvers kyns annarrar afhendingar í atvinnuskyni á markaði, skulu vera þannig úr garði gerðar að þær fullnægi kröfum sem vegna almannahagsmuna eru gerðar til þeirra í lögum og reglugerðum eða stöðlum um öryggi vöru og vernd heilsu og umhverfis.
+
+Með opinberri markaðsgæslu er leitast við að tryggja að vörur á markaði uppfylli settar reglur að þessu leyti.
+
+## II. kafli. Skilgreiningar.
+
+### Hugtakið vara.
+
+#### 3. gr.
+
+Orðið vara merkir í lögum þessum hvers kyns lausafjármuni, svo sem allar framleiðsluvörur og hráefni. Til vöru teljast einnig munir sem orðnir eru hluti annarra lausafjármuna.
+
+### Framleiðandi og dreifingaraðili.
+
+#### 4. gr.
+
+Framleiðandi telst vera sá sem býr til fullunna vöru, býr til hluta vöru eða lætur af hendi hráefni, vinnur eða aflar afurða úr náttúrunni að því tilskildu að hann hafi [staðfestu á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum].<sup>1)</sup> Einnig telst framleiðandi vera sá sem merkir framleiðsluvöruna með nafni sínu, vörumerki eða öðru kennimarki eða aðili sem endurgerir vöruna. Hafi framleiðandi vöru ekki [staðfestu á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum]<sup>1)</sup> skal fulltrúi hans teljast framleiðandi. Hafi hvorki fulltrúi framleiðanda né framleiðandi [staðfestu á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum]<sup>1)</sup> skal innflytjandi teljast framleiðandi. Aðrir fagmenn í aðfangakeðjunni, að því leyti sem starfsemi þeirra snertir öryggiseiginleika framleiðsluvöru sem er markaðssett, teljast og til framleiðenda.
+
+Dreifingaraðili telst hver sá í aðfangakeðjunni sem stundar starfsemi er hefur ekki áhrif á öryggiseiginleika framleiðsluvöru.
+
+> <sup>1)</sup>[L. 108/2006, 108. gr.](https://www.althingi.is/altext/stjt/2006.108.html)
+
+### Opinber markaðsgæsla og markaðseftirlit.
+
+#### 5. gr.
+
+Opinber markaðsgæsla merkir skipulagða viðleitni stjórnvalda til að tryggja að vörur á markaði uppfylli settar reglur um öryggi og heilsu- og umhverfisvernd. Opinber markaðsgæsla greinist í markaðseftirlit og töku stjórnvaldsákvarðana til að framfylgja reglum um vöruöryggi.
+
+Markaðseftirlit merkir skipulagt eftirlit með vörum á markaði. Það greinist í skoðun vöru annars vegar og skipulagða öflun upplýsinga um vörur á markaði hins vegar, m.a. með því að taka á móti ábendingum um vörur sem taldar eru hættulegar. Með skoðun vöru er átt við rannsókn á vöru og ákvörðun um hvort hún samræmist sérstökum eða almennum kröfum.
+
+### Eftirlitsstjórnvald.
+
+#### 6. gr.
+
+Eftirlitsstjórnvald samkvæmt lögum þessum merkir stjórnvald sem hefur samkvæmt lögum þessum eða sérstökum lögum sem gilda um öryggi tiltekinnar vöru eða vöruflokka heimild eða skyldu til eftirlits og stjórnvaldsákvarðana hér á landi.
+
+### Skoðunarstofur.
+
+#### 7. gr.
+
+Skoðunarstofa er hlutlaus aðili sem hlotið hefur faggildingu í samræmi við gildandi lög og reglugerðir um starfsemi faggiltra óháðra skoðunarstofa. [Faggildingarsvið Hugverkastofunnar]<sup>1)</sup> annast faggildingu skoðunarstofa fyrir hönd íslenskra stjórnvalda í samræmi við lög og reglugerðir sem í gildi eru hverju sinni.
+
+> <sup>1)</sup>[L. 18/2021, 6. gr.](https://www.althingi.is/altext/stjt/2021.018.html)
+
+### [Tilkynntur aðili.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 2. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### [7. gr. a.
+
+Tilkynntur aðili er aðili sem stjórnvöld telja hæfan til að meta samræmi vöru við þau ákvæði laga og reglna sem um þær vörur gilda og stjórnvöld hafa tilkynnt til Eftirlitsstofnunar EFTA og framkvæmdastjórnar ESB sem hæfan til að framkvæma samræmismat fyrir tilteknar vörur samkvæmt þeim lögum og reglum sem gilda um hlutaðeigandi vöru.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 2. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+### Örugg vara.
+
+#### 8. gr.
+
+[Örugg vara merkir sérhverja vöru sem við eðlileg eða fyrirsjáanleg notkunarskilyrði, þ.m.t. endingartíma, svo og kröfur sem gerðar eru um uppsetningu, viðhald og hvernig hún skal tekin í notkun, telst vera hættulaus fyrir einstaklinga, heilsu þeirra og eignir enda fullnægi hún almennum kröfum sem gerðar eru vegna almannahagsmuna um öryggi og vernd heilsu, svo og umhverfis. Við mat á öryggi vöru skal einkum haft til hliðsjónar:
+
+1\. Eðli vörunnar, þ.m.t. samsetning hennar, umbúðir og samsetningarleiðbeiningar og, þar sem við á, uppsetningar- og viðhaldsleiðbeiningar.
+
+2\. Áhrif vörunnar á aðrar vörur ef fyrirsjáanlegt er að hún verði notuð með öðrum vörum.
+
+3\. Framsetning vörunnar, merkingar og, ef við á, varnaðarorð og leiðbeiningar um notkun og förgun auk hvers kyns ábendinga eða upplýsinga um vöruna.
+
+4\. Hvort varan er gerð fyrir tiltekinn markhóp neytenda sem getur stafað sérstök hætta af vörunni, t.d. börn og eldra fólk.]<sup>1)</sup>
+
+Vara skal ekki sjálfkrafa teljast hættuleg við það eitt að til er á markaði önnur vara sem er talin fullkomnari með tilliti til öryggis eða unnt er að auka öryggi hennar.
+
+Ákvæði 1. og 2. mgr. eiga við um þjónustu sem veitt er í tengslum við vöruviðskipti eftir því sem við getur átt.
+
+> <sup>1)</sup>[L. 68/2004, 3. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+### [Afturköllun og vara tekin af markaði.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 4. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### [8. gr. a.
+
+Afturköllun merkir hverja þá ráðstöfun sem miðar að því að hættulegri vöru, sem framleiðendur eða dreifingaraðilar hafa þegar afhent eða boðið neytendum, verði skilað.
+
+Að vara sé tekin af markaði merkir hverja þá ráðstöfun sem miðar að því að koma í veg fyrir að hættuleg vara fari í dreifingu eða sé sýnd eða boðin neytendum.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 4. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 9. gr.
+
+Framleiðsla og dreifing vöru, svo og þjónusta sem veitt er í tengslum við vöruviðskipti, skulu ávallt vera í samræmi við ákvæði laga, reglugerða og annarra stjórnvaldsfyrirmæla sem gilda hverju sinni um öryggi vörunnar.
+
+[Vara telst vera örugg ef hún uppfyllir skilyrði sem fram koma í íslenskum stöðlum, sem innleiða Evrópustaðla, sem tilvísun hefur verið birt í hér á landi og í Stjórnartíðindum Evrópubandalagsins í samræmi við ákvæði tilskipunar um öryggi vöru.
+
+Í þeim tilvikum þar sem ákvæði um öryggi vöru er ekki að finna í reglum eða stöðlum í samræmi við 1. og 2. mgr. skal öryggi vörunnar m.a. metið með hliðsjón af eftirfarandi:
+
+1\. Íslenskum stöðlum.
+
+2\. Tilmælum framkvæmdastjórnar Evrópusambandsins þar sem fram koma viðmiðunarreglur um mat á öryggi vöru.
+
+3\. Gildandi lögum og reglum um góðar starfsvenjur varðandi öryggi vöru innan viðkomandi atvinnugreinar.
+
+4\. Evrópustöðlum, öðrum en þeim sem getið er í 2. mgr.
+
+5\. Öðrum viðeigandi atriðum, þar á meðal eðli vöru, öðrum vörum sem hún er notuð með, tæknistigi og tækni og því öryggi sem neytendur geta vænst með réttu.
+
+Ef ekki eru til sérákvæði í tilskipunum Evrópusambandsins um öryggi tiltekinnar vöru telst viðkomandi vara örugg ef hún er í samræmi við sérreglur [í landslögum þess EES-ríkis, aðildarríkis stofnsamnings Fríverslunarsamtaka Evrópu eða Færeyja]<sup>1)</sup> þar sem hún er markaðssett enda séu slíkar reglur í samræmi við grundvallarreglur Evrópusambandsins og EES-samningsins um leyfilegar takmarkanir að því er varðar öryggi vöru.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 108/2006, 109. gr.](https://www.althingi.is/altext/stjt/2006.108.html) <sup>2)</sup>[L. 68/2004, 5. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### [9. gr. a.
+
+Framleiðanda vöru er skylt að upplýsa um hættu sem kann að fylgja notkun hennar ef hættueiginleikarnir eru ekki augljósir og gera varúðarráðstafanir til að takmarka hættuna. Það að slíkar upplýsingar séu veittar leiðir ekki til undanþágu frá öðrum ákvæðum laga þessara.
+
+Framleiðendum og dreifingaraðilum ber að gera viðeigandi ráðstafanir til að koma í veg fyrir að hættuleg vara komist á markað, t.d. með því að fela tilkynntum aðila yfirferð samræmisyfirlýsingar þegar þess er krafist samkvæmt þeim lögum og reglum sem gilda um hlutaðeigandi vöru, gera úrtaksprófanir á markaðssettum vörum, taka kvartanir til meðferðar og veita upplýsingar um hættueiginleika vörunnar, framleiðanda hennar og tilvísunarnúmer vörunnar eða, þar sem við á, framleiðslulotunnar sem hún tilheyrir.
+
+Dreifingaraðila vöru er skylt að gæta þess vandlega að farið sé að gildandi öryggiskröfum og afhenda ekki vörur sem hann veit eða má vita að uppfylli ekki þessar kröfur með hliðsjón af þeim upplýsingum sem hann hefur undir höndum og sem fagmaður.
+
+Ef framleiðendur og dreifingaraðilar vita eða hafa mátt vita að vara sem þeir hafa markaðssett stofni neytendum í hættu eða veruleg áhætta geti fylgt áframhaldandi notkun hennar án frekari öryggisráðstafana eða úrbóta skulu þeir tafarlaust tilkynna eftirlitsstjórnvöldum um það. Í slíkum tilvikum ber þeim að upplýsa eftirlitsstjórnvald um þær aðgerðir sem gripið hefur verið til í því skyni að koma í veg fyrir að neytendum sé stofnað í hættu. Upplýsingar samkvæmt þessari málsgrein er skylt að senda eftirlitsstjórnvöldum [í þeim aðildarríkjum á Evrópska efnahagssvæðinu, aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu eða Færeyjum]<sup>1)</sup> þar sem viðkomandi vörur hafa verið markaðssettar eða afhentar neytendum á annan hátt. Ef um alvarlega áhættu er að ræða skulu þessar upplýsingar fela í sér að minnsta kosti eftirfarandi atriði:
+
+1\. Upplýsingar sem gera kleift að bera nákvæm kennsl á viðkomandi vöru eða framleiðslulotu.
+
+2\. Nákvæma lýsingu á hættunni sem viðkomandi vara hefur í för með sér.
+
+3\. Allar tiltækar upplýsingar sem kunna að vera nauðsynlegar til að rekja uppruna vörunnar.
+
+4\. Lýsingu á aðgerðum sem gripið er til í því skyni að koma í veg fyrir að neytendum sé hætta búin.
+
+Dreifingaraðilum er skylt að halda utan um skjöl sem nauðsynleg eru til að rekja uppruna vöru. Skjöl skulu aldrei geymd skemur en skylt er að geyma skjöl samkvæmt ákvæðum bókhaldslaga.
+
+Ef aðgerðir þær sem kveðið er á um í 1., 2. og 4. mgr. eru ekki nægilegar er framleiðendum og dreifingaraðilum skylt að afturkalla vöru eða taka hana af markaði samkvæmt ákvörðun eftirlitsstjórnvalds.
+
+Framleiðendur og dreifingaraðilar skulu ekki flytja út frá Íslandi vöru til landa utan Evrópska efnahagssvæðisins hafi hún verið tekin af markaði vegna hættu sem neytendum stafar af henni.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 108/2006, 110. gr.](https://www.althingi.is/altext/stjt/2006.108.html) <sup>2)</sup>[L. 68/2004, 6. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 10. gr.
+
+Í þeim tilvikum, þar sem ekki gilda sérstök lög eða reglur er setja sérreglur um öryggi vöru, er ráðherra heimilt, að fenginni umsögn eftirlitsstjórnvalds, að ákveða eftirfarandi í reglugerð<sup>1)</sup> …:<sup>2)</sup>
+
+1\. Kröfur sem vara verður að uppfylla til að teljast örugg.
+
+2\. Aðferðir sem framleiðandi getur beitt til að sýna fram á samræmi vöru við settar reglur, t.d. með merkingu, vottorði, yfirlýsingu um samræmi, prófunarskýrslu, skjali með tæknilegum upplýsingum o.fl.
+
+3\. Merkingar, leiðbeiningar og upplýsingar um notkun og förgun vöru, viðvaranir um hugsanlega hættu við notkun hennar og aðra þætti er varða upplýsingar til neytenda. [Varúðar- og notkunarleiðbeiningar sem tryggja örugga notkun vöru skulu vera í eðlilegri lesstærð og á íslensku ritmáli ef það á við.]<sup>2)</sup>
+
+> <sup>1)</sup>[Rg. 619/2008](https://www.reglugerd.is/reglugerdir/allar/nr/619-2008), sbr. [1066/2008](https://www.reglugerd.is/reglugerdir/allar/nr/1066-2008), [610/2012](https://www.reglugerd.is/reglugerdir/allar/nr/610-2012), [363/2014](https://www.reglugerd.is/reglugerdir/allar/nr/363-2014), [471/2015](https://www.reglugerd.is/reglugerdir/allar/nr/471-2015), [734/2015](https://www.reglugerd.is/reglugerdir/allar/nr/734-2015) og [908/2016](https://www.reglugerd.is/reglugerdir/allar/nr/908-2016). [Rg. 566/2013](https://www.reglugerd.is/reglugerdir/allar/nr/566-2013). [Rg. 944/2014](https://www.reglugerd.is/reglugerdir/allar/nr/944-2014), sbr. [217/2015](https://www.reglugerd.is/reglugerdir/allar/nr/217-2015), [863/2016](https://www.reglugerd.is/reglugerdir/allar/nr/863-2016), [1008/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1008-2018), [983/2019](https://www.reglugerd.is/reglugerdir/allar/nr/983-2019), [1102/2021](https://www.reglugerd.is/reglugerdir/allar/nr/1102-2021) og [281/2023](https://www.reglugerd.is/reglugerdir/allar/nr/281-2023). <sup>2)</sup>[L. 68/2004, 7. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+## III. kafli. Markaðseftirlit og markaðsgæsla.
+
+### Markaðsgæsla.
+
+#### 11. gr.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> og viðeigandi eftirlitsstjórnvöld skulu hafa eftirlit með því að vörur á markaði hverju sinni uppfylli settar reglur um öryggi.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> og önnur eftirlitsstjórnvöld fara með opinbera markaðsgæslu í samræmi við ákvæði 14. og 15. gr. laga þessara og taka stjórnvaldsákvarðanir í samræmi við IV. og V. kafla laga þessara um málsmeðferð og réttarúrræði eftirlitsstjórnvalda, svo og ákvæði sérlaga eftir því sem við getur átt.
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+#### 12. gr. [Skyldur framleiðenda og dreifingaraðila.
+
+Framleiðendum og dreifingaraðilum samkvæmt lögum þessum er skylt að beiðni eftirlitsstjórnvalda að veita þeim aðstoð í tengslum við aðgerðir sem stuðla eiga að öryggi neytenda. Þá er þeim skylt að afhenda skrá með upplýsingum um birgja og þá er bjóða fram vörur þeirra ef eftirlitsstjórnvöld óska eftir því í tengslum við rannsókn máls.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 8. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+### Markaðseftirlit.
+
+#### 13. gr. Skoðunarstofur.
+
+Heimilt er að fela faggiltri skoðunarstofu markaðseftirlit. Skoðunarstofa annast skoðun þeirra vörutegunda sem hún hefur faggildingu fyrir og annast auk þess skipulega öflun upplýsinga um vörur á markaði, svo sem með því að taka á móti ábendingum eða kvörtunum um vörur sem taldar eru hættulegar.
+
+Skoðunarstofu er heimilt að skoða vörur hjá framleiðendum og dreifingaraðilum, taka sýnishorn vöru til rannsóknar, svo og krefja þá um allar nauðsynlegar upplýsingar, svo sem aðgang að skrá yfir þá sem vöruna hafa á boðstólum, vottorð, yfirlýsingar um samræmi vöru við reglur og staðla, prófunarskýrslur, tæknilegar upplýsingar og aðrar nauðsynlegar upplýsingar til að sannreyna öryggi vöru.
+
+Ráðherra er heimilt að setja í reglugerð<sup>1)</sup> nánari ákvæði um eftirlit og framkvæmd eftirlits skoðunarstofu á markaði.
+
+> <sup>1)</sup>[Rg. 944/2014](https://www.reglugerd.is/reglugerdir/allar/nr/944-2014), sbr. [217/2015](https://www.reglugerd.is/reglugerdir/allar/nr/217-2015), [863/2016](https://www.reglugerd.is/reglugerdir/allar/nr/863-2016), [1008/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1008-2018), [983/2019](https://www.reglugerd.is/reglugerdir/allar/nr/983-2019), [1102/2021](https://www.reglugerd.is/reglugerdir/allar/nr/1102-2021) og [281/2023](https://www.reglugerd.is/reglugerdir/allar/nr/281-2023).
+
+#### 14. gr. [Húsnæðis-, mannvirkja- og skipulagsstofnun.]<sup>1)</sup>
+
+Hlutverk [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> í opinberri markaðsgæslu er:
+
+1\. Að vera eftirlitsstjórnvald fyrir alla vöruflokka sem ekki eru á ábyrgð annarra eftirlitsstjórnvalda samkvæmt sérstökum lögum.
+
+2\. Að annast heildarskipulag opinberrar markaðsgæslu í samvinnu við önnur eftirlitsstjórnvöld með það að markmiði að tryggja hagkvæmni og samhæfingu.
+
+3\. Að hafa í samstarfi við önnur eftirlitsstjórnvöld umsjón með samningum við skoðunarstofur og útbúa samningsgögn eftir því sem við á.
+
+4\. Að samhæfa aðgerðir eftirlitsstjórnvalda ef eiginleikar vöru eða vöruflokks eru slíkir að ábyrgð á markaðseftirliti sé í höndum fleiri en eins eftirlitsstjórnvalds.
+
+5\. Að taka stjórnvaldsákvarðanir í samræmi við ákvæði laga þessara, sbr. og IV. og V. kafla þessara laga um málsmeðferð og réttarúrræði eftirlitsstjórnvalda.
+
+6\. Að skoða vöru, taka við kvörtunum eða ábendingum frá einstaklingum eða fyrirtækjum, svo og að afla á skipulegan hátt upplýsinga um vörur á markaði, eftir því sem við getur átt.
+
+7\. [Að gefa út tilkynningar og vara við hættulegum vörum á markaði sem lög þessi taka til ef nauðsyn ber til og annast samskipti við Eftirlitsstofnun EFTA og önnur eftirlitsstjórnvöld á Evrópska efnahagssvæðinu, svo og vera tengiliður við RAPEX-tilkynningakerfi framkvæmdastjórnar ESB um hættulegar vörur á markaði.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 68/2004, 9. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 15. gr. Önnur eftirlitsstjórnvöld.
+
+Hlutverk annarra eftirlitsstjórnvalda en [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> í opinberri markaðsgæslu að því leyti sem ekki er öðruvísi ákveðið í sérlögum er sem hér greinir:
+
+1\. Að starfa að eftirliti sem þeim er falið samkvæmt ákvæðum sérlaga og fjalla um reglur um þá vöruflokka sem þau bera ábyrgð á samkvæmt sérlögum. Slíkar reglur taka að lágmarki til öryggis og verndar heilsu og umhverfis en geta einnig tekið til fleiri atriða.
+
+2\. Að móta meginstefnu um áherslur í markaðsgæslu og umfang eftirlits með þeim vöruflokkum sem þau bera ábyrgð á.
+
+3\. Að taka stjórnvaldsákvarðanir í samræmi við ákvæði sérlaga er gilda hér á landi um tilteknar vörur eða vöruflokka hverju sinni og ákvæði IV. og V. kafla laga þessara, eftir því sem við getur átt.
+
+4\. Að skoða vöru, taka við kvörtunum eða ábendingum frá einstaklingum eða fyrirtækjum, svo og að afla á skipulegan hátt upplýsinga um vörur á markaði, eftir því sem við getur átt.
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+#### 16. gr. Samvinnunefndir.
+
+[[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> skal stofnsetja samvinnunefndir um samstarf við önnur eftirlitsstjórnvöld og skoðunarstofur eftir því sem við getur átt.
+
+Samvinnunefnd skal tryggja skilvirkni í markaðseftirliti með því að fjalla um starfsáætlanir og skipulag markaðseftirlits eftirlitsstjórnvalda, svo og athugasemdir sem þeim berast og gerðar eru um einstakar vörur og vöruflokka, og gera tillögur til [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> og eftirlitsstjórnvalda sem taka endanlega stjórnvaldsákvörðun um skilvirkt eftirlit með vöru samkvæmt lögum þessum eða sérlögum ef það á við.]<sup>2)</sup>
+
+Að jafnaði skulu þó aldrei starfa fleiri en ein samvinnunefnd á verksviði hvers eftirlitsstjórnvalds en heimilt er þó að ákveða aðra skipan, einkum ef vöruflokkar eru ólíkir. Jafnframt er heimilt að hafa sameiginlega samvinnunefnd tveggja eða fleiri eftirlitsstjórnvalda.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> ákveður fjölda fulltrúa í samvinnunefnd. Samvinnunefnd velur formann úr hópi nefndarmanna.
+
+[Ráðherra]<sup>3)</sup> er heimilt að setja í reglugerð nánari ákvæði um skipan og starfsemi samvinnunefnda.
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 68/2004, 10. gr.](https://www.althingi.is/altext/stjt/2004.068.html) <sup>3)</sup>[L. 98/2009, 60. gr.](https://www.althingi.is/altext/stjt/2009.098.html)
+
+## IV. kafli. Málsmeðferð eftirlitsstjórnvalds.
+
+#### 17. gr.
+
+Ákvæði þessa kafla eiga við um málsmeðferð sem gilda skal við beitingu réttarúrræða [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> og annarra eftirlitsstjórnvalda.
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+#### 18. gr.
+
+Eftirlitsstjórnvöld skulu að eigin frumkvæði eða eftir ábendingu taka til meðferðar mál er varða öryggi vöru og heyra undir eftirlit þeirra.
+
+Lögregla skal vera eftirlitsstjórnvöldum til aðstoðar ef nauðsyn krefur vegna rannsóknar mála og við framkvæmd þeirra réttarúrræða sem kveðið er á um í lögum þessum. [Lögregla skal tilkynna [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> um slys sem hún rannsakar ef ætla má að orsök þess sé af völdum vöru eða þjónustu sem lög þessi taka til.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 68/2004, 11. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 19. gr.
+
+Eftirlitsstjórnvöld skulu ávallt gæta þess að málsmeðferð, rannsókn, ákvarðanir og úrskurðir þeirra samkvæmt lögum þessum séu í samræmi við stjórnsýslulög. Í þeim tilvikum sem eftirlitsstjórnvöld kunna að taka ákvarðanir vegna bráðrar eða yfirvofandi hættu skal stjórnvaldsákvörðun tekin til bráðabirgða. Endanlega ákvörðun skal eftirlitsstjórnvald taka eins fljótt og unnt er og tilkynna málsaðila rökstudda ákvörðun sína ásamt upplýsingum um áfrýjunarleiðir og áfrýjunarfresti.
+
+#### [19. gr. a.
+
+[Ákvarðanir sem teknar eru á grundvelli laga þessara sæta kæru til úrskurðarnefndar umhverfis- og auðlindamála. Ákvörðun verður ekki borin undir dómstóla fyrr en úrskurður nefndarinnar liggur fyrir. Ef aðili unir ekki úrskurði nefndarinnar getur hann höfðað mál til ógildingar fyrir dómstólum. Höfða skal mál innan sex mánaða frá því að aðili fékk vitneskju um úrskurð nefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar eða heimild til aðfarar. Um aðild, kærufrest, málsmeðferð og annað er varðar kæruna fer að öðru leyti samkvæmt lögum um úrskurðarnefnd umhverfis- og auðlindamála.]<sup>1)</sup>]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 18/2021, 8. gr.](https://www.althingi.is/altext/stjt/2021.018.html) <sup>2)</sup>[L. 62/2005, 13. gr.](https://www.althingi.is/altext/stjt/2005.062.html)
+
+## V. kafli. Réttarúrræði eftirlitsstjórnvalda.
+
+### Afturköllun og bann við sölu vöru.
+
+#### 20. gr.
+
+[Eftirlitsstjórnvald getur með rökstuðningi afturkallað, tekið af markaði eða bannað sölu eða afhendingu vöru ef hún uppfyllir ekki formleg skilyrði, svo sem um merkingar, leiðbeiningar, vottorð, yfirlýsingar um samræmi eða prófunar- og skoðunarskýrslur.]<sup>1)</sup>
+
+Torveldi framleiðandi eða dreifingaraðili sannanlega rannsókn eftirlitsstjórnvalda og skoðun vöru eða hefur ekki tiltæk fullnægjandi gögn um öryggi hennar getur eftirlitsstjórnvald [afturkallað, tekið af markaði eða]<sup>1)</sup> bannað sölu eða afhendingu hennar.
+
+Eftirlitsstjórnvald getur, ef rökstuddur grunur leikur á að vara uppfylli ekki reglur sem gilda um öryggi vöru, ákveðið tímabundið bann við sölu eða afhendingu hennar á meðan rannsókn, sem ekki skal standa lengur en fjórar vikur, fer fram. Þó er heimilt að framlengja bannið um allt að fjórar vikur ef sérstakar ástæður vegna rannsóknarinnar krefjast að bannið verði framlengt.
+
+Telji eftirlitsstjórnvald að vara sé sérstaklega hættuleg getur það krafist tafarlausrar afturköllunar allra eintaka vörunnar.
+
+> <sup>1)</sup>[L. 68/2004, 12. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 21. gr.
+
+Eftirlitsstjórnvöld skulu [afturkalla, taka af markaði eða]<sup>1)</sup> banna sölu eða afhendingu vöru ef ljóst þykir að hún uppfylli ekki reglur og kröfur sem gerðar eru um öryggi vöru enda sé ekki unnt að beita öðrum og vægari úrræðum.
+
+> <sup>1)</sup>[L. 68/2004, 13. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 22. gr.
+
+Eftirlitsstjórnvaldi er heimilt í tengslum við [afturköllun, þegar vara er tekin af markaði eða]<sup>1)</sup> bann sem það leggur við dreifingu og sölu vöru samkvæmt þessu ákvæði að skylda framleiðendur og dreifingaraðila til að eyðileggja öll eintök vörunnar með öruggum hætti, ef nauðsyn þykir af eðli máls.
+
+Eftirlitsstjórnvaldi er heimilt í tengslum við [afturköllun, þegar vara er tekin af markaði eða]<sup>1)</sup> bann sem það leggur við dreifingu eða sölu vöru samkvæmt þessu ákvæði að skylda framleiðanda eða dreifingaraðila, eftir því sem við getur átt, til að lagfæra vöruna þannig að hún uppfylli settar reglur, afhenda kaupendum sams konar vöru, en hættulausa, eða greiða kaupendum andvirði vörunnar.
+
+Eftirlitsstjórnvald getur jafnframt ákveðið að óheimilt sé að lagfæra vöru eða endurnýta hana á annan hátt ef það telst hættulegt eða varhugavert að mati þess.
+
+> <sup>1)</sup>[L. 68/2004, 14. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### [22. gr. a.
+
+Eftirlitsstjórnvaldi er heimilt að krefjast þess að vara sem getur verið hættuleg við tiltekin skilyrði eða tiltekna notkun sé merkt með upplýsingum á íslensku um þá hættu.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 15. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 23. gr.
+
+Eftirlitsstjórnvald skal, eftir því sem unnt er, hafa samvinnu við framleiðendur eða dreifingaraðila um málsmeðferð, svo sem öflun gagna, skoðun og prófun vöru, svo og undirbúning og töku ákvarðana eins og um stöðvun sölu og afturköllun vöru.
+
+Hafi eftirlitsstjórnvald [afturkallað, tekið af markaði eða]<sup>1)</sup> bannað sölu vöru á grundvelli þess að hún uppfylli ekki öryggiskröfur er framleiðanda og dreifingaraðila heimilt að krefjast þess að varan skuli prófuð af faggiltri prófunarstofu. Slík prófun frestar ekki framkvæmd ákvörðunar eftirlitsstjórnvalds.
+
+Eftirlitsstjórnvaldi ber að endurskoða ákvörðun ef breyttar aðstæður eru fyrir hendi.
+
+> <sup>1)</sup>[L. 68/2004, 16. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+### Kostnaður vegna skoðunar, dagsektir o.fl.
+
+#### 24. gr.
+
+Framleiðandi eða fulltrúi hans ber kostnað vegna þeirra sýnishorna vöru sem tekin eru til rannsóknar. Að lokinni rannsókn skal sýnishornum skilað eða þau eyðilögð með öruggum hætti eftir atvikum. Sýnishorn vöru samkvæmt þessari grein er að jafnaði eitt eintak vöru eða lágmarksfjöldi sem nauðsynlegur er til að framkvæma rannsókn.
+
+Framleiðandi eða fulltrúi hans ber allan kostnað af afturköllun vöru. Sé vara ekki í samræmi við settar reglur skal hann bera þann kostnað sem hlýst af skoðun, rannsókn og prófun, svo og annan kostnað. Framleiðandi eða fulltrúi hans greiðir allan kostnað af tilkynningum um hættulega vöru sem beint er til almennings, svo sem kostnað við tilkynningar í fjölmiðlum. Framleiðanda eða fulltrúa hans er heimilt að annast tilkynningar til almennings enda sé framkvæmd tilkynningar með þeim hætti að eðlilegum varnaðaráhrifum verði náð.
+
+#### 25. gr.
+
+Sé fyrirmælum eftirlitsstjórnvalds við framkvæmd laga þessara ekki hlýtt má fylgja þeim eftir með ákvörðun viðkomandi ráðherra um dagsektir sem lagðar skulu á framleiðanda, dreifingaraðila eða fyrirsvarsmenn hans. Slíkar dagsektir mega nema allt að 50.000 krónum á sólarhring samkvæmt nánari ákvörðun viðkomandi ráðherra. Er ákvörðunin aðfararhæf.
+
+Ef mikil hætta er á að vara valdi verulegu tjóni og fyrirmælum eftirlitsstjórnvalds skv. 20. gr. hefur ekki verið hlýtt skal viðkomandi eftirlitsstjórnvald leitast við að koma í veg fyrir tjónið með tiltækum aðgerðum og getur það kvatt til lögreglu sér til aðstoðar í því sambandi.
+
+## VI. kafli. Þagnarskylda.
+
+#### 26. gr.
+
+[Á starfsmönnum skoðunarstofu og [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> og eftirlitsstjórnvalda hvílir þagnarskylda skv. X. kafla stjórnsýslulaga.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 71/2019, 5. gr.](https://www.althingi.is/altext/stjt/2019.071.html)
+
+## VII. kafli. Gildistaka o.fl.
+
+#### 27. gr.
+
+Framkvæmd laga þessara og almenn mál, er varða öryggi vöru, markaðsgæslu og markaðseftirlit, heyra undir [ráðherra].<sup>1)</sup>
+
+Dagleg framkvæmd laga þessara er í höndum [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>2)</sup> og annarra eftirlitsstjórnvalda.
+
+[Ráðherra]<sup>3)</sup> setur í reglugerð<sup>4)</sup> nánari ákvæði um framkvæmd laga þessara.
+
+> <sup>1)</sup>[L. 126/2011, 214. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>[L. 11/2026, 17. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>3)</sup>[L. 98/2009, 60. gr.](https://www.althingi.is/altext/stjt/2009.098.html) <sup>4)</sup>[Rg. 431/1994](https://www.reglugerd.is/reglugerdir/allar/nr/431-1994), sbr. [1035/2004](https://www.reglugerd.is/reglugerdir/allar/nr/1035-2004), [557/2008](https://www.reglugerd.is/reglugerdir/allar/nr/557-2008) og [981/2010](https://www.reglugerd.is/reglugerdir/allar/nr/981-2010). [Rg. 635/1999](https://www.reglugerd.is/reglugerdir/allar/nr/635-1999). [Rg. 196/2000](https://www.reglugerd.is/reglugerdir/allar/nr/196-2000). [Rg. 810/2006](https://www.reglugerd.is/reglugerdir/allar/nr/810-2006), sbr. [19/2008](https://www.reglugerd.is/reglugerdir/allar/nr/019-2008) og [564/2012](https://www.reglugerd.is/reglugerdir/allar/nr/564-2012). [Rg. 957/2006](https://www.reglugerd.is/reglugerdir/allar/nr/957-2006). [Rg. 566/2013](https://www.reglugerd.is/reglugerdir/allar/nr/566-2013). [Rg. 74/2014](https://www.reglugerd.is/reglugerdir/allar/nr/074-2014). [Rg. 944/2014](https://www.reglugerd.is/reglugerdir/allar/nr/944-2014), sbr. [217/2015](https://www.reglugerd.is/reglugerdir/allar/nr/217-2015), [863/2016](https://www.reglugerd.is/reglugerdir/allar/nr/863-2016), [1008/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1008-2018), [983/2019](https://www.reglugerd.is/reglugerdir/allar/nr/983-2019), [1102/2021](https://www.reglugerd.is/reglugerdir/allar/nr/1102-2021) og [281/2023](https://www.reglugerd.is/reglugerdir/allar/nr/281-2023). [Rg. 1025/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1025-2022). [Rg.769/2024](https://www.reglugerd.is/reglugerdir/allar/nr/769-2024).
+
+#### 28. gr.
+
+Fyrir brot á lögum þessum skal refsa með sektum eða [fangelsi allt að 2 árum]<sup>1)</sup> liggi ekki þyngri refsing við broti samkvæmt öðrum lögum.
+
+> <sup>1)</sup>[L. 82/1998, 224. gr.](https://www.althingi.is/altext/stjt/1998.082.html)
+
+#### [28. gr. a.
+
+Lög þessi eru sett með hliðsjón af ákvörðun sameiginlegu EES-nefndarinnar 9/2003 frá 31. janúar 2003, um að fella inn í EES-samninginn og taka upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2001/95/EB, um öryggi vöru.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2004, 18. gr.](https://www.althingi.is/altext/stjt/2004.068.html)
+
+#### 29. gr.
+
+Lög þessi öðlast þegar gildi. […](https://www.althingi.is/altext/stjt/1995.134.html)

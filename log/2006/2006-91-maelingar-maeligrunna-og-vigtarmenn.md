@@ -1,0 +1,546 @@
+---
+title: "Lög um mælingar, mæligrunna og vigtarmenn"
+identifier: "91/2006"
+lagasafn_id: "2006091"
+type: act
+jurisdiction: is
+language: is
+date: 2006-06-14
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "28.f. Ýmis lög varðandi verslun og viðskipti"
+source: "https://www.althingi.is/lagas/158a/2006091.html"
+retrieved: 2026-10-12
+---
+
+# Lög um mælingar, mæligrunna og vigtarmenn
+
+**2006 nr. 91 14. júní**
+
+*<sup>1)</sup>Lögunum var breytt með [l. 85/2026, 31. gr.](../2026/2026-85-stofnun-atvinnuveganna.md); breytingin tekur gildi 1. janúar 2027.*
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=132&mnr=620) [*Frumvarp til laga.*](https://www.althingi.is/altext/132/s/0906.html)
+
+**Tóku gildi 30. júní 2006.** *EES-samningurinn:* II. viðauki tilskipun 2004/22/EB, 90/384/EBE og 71/316/EBE.
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **atvinnuvegaráðherra** eða **atvinnuvegaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 34/2007](https://www.althingi.is/altext/stjt/2007.034.html) (tóku gildi 30. mars 2007).
+- [L. 98/2009](https://www.althingi.is/altext/stjt/2009.098.html) (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 125/2013](https://www.althingi.is/altext/stjt/2013.125.html) (tóku gildi 31. des. 2013).
+- [L. 71/2019](https://www.althingi.is/altext/stjt/2019.071.html) (tóku gildi 5. júlí 2019).
+- [L. 18/2021](https://www.althingi.is/altext/stjt/2021.018.html) (tóku gildi 1. okt. 2021).
+- [L. 11/2026](https://www.althingi.is/altext/stjt/2026.011.html) (tóku gildi 5. mars 2026; um lagaskil sjá 68. gr. og brbákv.).
+- [L. 85/2026](https://www.althingi.is/altext/stjt/2026.085.html) (taka gildi 1. jan. 2027; um lagaskil sjá 9. gr. og brbákv.).
+
+## I. kafli. Almenn ákvæði.
+
+### 1. gr. Markmið.
+
+Markmið laga þessara er að tryggja að hér á landi sé notað mælifræðikerfi sem nýtur trausts jafnt innan lands sem utan.
+
+Lögin skulu stuðla að því að mælingar og mælifræðilegar niðurstöður séu réttar og nákvæmar og tryggi réttmæta og örugga viðskiptahætti, verndi hagsmuni neytenda og líf og heilsu borgaranna og stuðli auk þess að réttarvernd og umhverfisvernd.
+
+### 2. gr. Gildissvið.
+
+Lög þessi gilda um mælingar, mælitæki og mæligrunna, eftir því sem segir í lögunum eða reglum settum samkvæmt þeim. Þá taka lögin til löggiltra vigtarmanna.
+
+Lögin gilda ekki um mælingar og niðurstöður mælinga til einkanota.
+
+### 3. gr. Skilgreiningar.
+
+Merking orða í lögum þessum er sem hér greinir:
+
+*Alþjóðlega SI-einingakerfið:* Samræmt einingakerfi sem Almenna þingið fyrir vog og mál (CGPM) hefur samþykkt og lagt til að verði notað. SI stendur fyrir „Système International“ og er alþjóðleg skammstöfun fyrir einingakerfið.
+
+*Faggilding:* Formleg viðurkenning þar til bærs stjórnvalds á því að aðili sé hæfur til að vinna tiltekin verkefni varðandi samræmismat.
+
+*Faggilt kvörðunarþjónusta:* Þjónusta einstaklings eða lögaðila sem tekur að sér kvörðun eftir faggiltri aðferð.
+
+*Faggilt mælifræðistofa:* Faggilt rannsóknastofa á sviði mælifræði sem hefur fengið viðurkenningu á gæðum, tæknilegri hæfni og sjálfstæði.
+
+*Gerðarviðurkenning:* Ákvörðun, byggð á matsskýrslu, um það að gerð mælitækis uppfylli viðeigandi kröfur laga og reglugerða og að það sé hæft til notkunar á lögmæltu sviði þannig að vænta megi að það veiti áreiðanlegar mæliniðurstöður um tiltekið tímabil.
+
+*Kvörðun:* Röð aðgerða sem ákvarða, við tiltekin skilyrði, sambandið milli gilda stærða sem mælitæki eða mælikerfi sýna eða gilda sem efnismát eða viðmiðunarefni standa fyrir og samsvarandi gilda sem mæligrunnar hafa.
+
+*Kvörðunarvottorð:* Skjal þar sem niðurstöður kvörðunar eru skráðar í samræmi við nánari reglur sem gilda um útgáfu þeirra.
+
+*Löggilding mælitækis:* Aðgerð til að tryggja og staðfesta formlega að mælitæki fullnægi öllum kröfum laga og reglugerða. Löggilding fer fram með athugun, merkingu og/eða útgáfu vottorðs og er venjulega lokið með innsiglun á aðgengi stillinga.
+
+*Löggilding vigtarmanns:* Formleg staðfesting á að einstaklingur uppfylli skilyrði laga og reglna settra samkvæmt þeim um menntun og önnur skilyrði til að starfa sem vigtarmaður.
+
+*Mælieining:* Ákveðin stærð, skilgreind og viðtekin með samkomulagi, sem aðrar stærðir sömu gerðar eru bornar saman við til að tákna magn þeirra í samanburði við þá stærð.
+
+*Mælifræðilegt eftirlit:* Eftirlit með framleiðslu, innflutningi, uppsetningu, notkun, viðhaldi og viðgerð á mælitækjum, framkvæmt til að athuga hvort tækin séu notuð rétt eins og lög og reglugerðir um mælifræði segja, þ.m.t. hvort forpakkningar innihaldi leyfilega þyngd og hvort hún sé rétt mæld.
+
+*Mæligrunnur:* Efnismát, mælitæki, viðmiðunarefni eða mælikerfi sem ætlað er til að skilgreina, raungera, varðveita, birta eða endurgera mælieiningu eða eina eða fleiri stærðir sem hafa skal til viðmiðunar.
+
+*Mæling:* Aðgerð eða röð aðgerða sem framkvæmdar eru til að ákveða gildi stærðar sem er táknuð sem margfeldi tölu og mælieiningar.
+
+*Mælitæki:* Tæki sem ætlað er, eitt sér eða ásamt tilheyrandi og viðurkenndum viðbótartækjum, til að framkvæma mælingu.
+
+*Rekjanleiki:* Eiginleiki í niðurstöðu mælinga eða gildis á mæligrunni sem gerir unnt að tengja þau við tilteknar viðmiðanir, venjulega lands- eða alþjóðamæligrunna, með óslitinni röð samanburða sem hver fyrir sig hefur skilgreinda óvissu.
+
+*Samræmismat:* Mat á því hvort vara, ferli, kerfi eða aðili uppfylli kröfur.
+
+*Skoðun:* Athugun á vöruhönnun, vöru, ferli eða uppsetningu búnaðar og ákvörðun á samræmi þess við tilgreindar kröfur, eða almennar kröfur, og skal þá byggt á faglegum úrskurði.
+
+*Undireining:* Vélbúnaður sem er tilgreindur sem slíkur í tilskipunum, lögum eða reglum settum samkvæmt þeim, virkar sjálfstætt og myndar mælitæki ásamt öðrum undireiningum sem hann er samhæfður, eða mælitæki sem hann er samhæfður.
+
+*Úrtaksskoðun:* Skoðun einsleits safns mælitækja sem byggð er á niðurstöðum mats á tölfræðilega hæfilegum fjölda sýna völdum af handahófi úr tilgreindri lotu.
+
+*Yfireftirlit:* Eftirlit stjórnvalds með því að ákvæðum í lögum þessum og reglum settum samkvæmt þeim á sviði mælifræði sé fylgt í framkvæmd, yfirumsjón með eftirliti sem einkaaðilar framkvæma í umboði eftirlitsstjórnvalds, svo og taka stjórnvaldsákvarðana á grundvelli laga sem gilda um mælifræðilegt eftirlit.
+
+### 4. gr. Stjórnsýsla.
+
+[Ráðherra]<sup>1)</sup> fer með yfirstjórn mála samkvæmt lögum þessum, en [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>2)</sup> fer í umboði ráðherra með framkvæmd laganna.
+
+Hlutverk [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>2)</sup> samkvæmt lögum þessum er:
+
+a. að annast töku stjórnvaldsákvarðana og kveða upp stjórnvaldsúrskurði á grundvelli ákvæða þessara laga eða sérlaga sem henni hefur verið falið eftirlit með;
+
+b. að veita stjórnvöldum og öðrum ráðgjöf um mælifræðileg málefni, veita umsagnir um mæligrunna og reglur stjórnvalda á sviði mælinga og lögmælifræði og stuðla að útbreiðslu þekkingar hér á landi á sviði mælifræði;
+
+c. að vera stjórnvald á sviði mælifræði og annast rekstur þeirra mæligrunna sem stjórnvöld fela henni umsjón með skv. 7. gr., sbr. 6. gr., og veita kvörðunarþjónustu í samræmi við ákvæði VIII. kafla;
+
+d. að annast markaðseftirlit og samskipti við önnur eftirlitsstjórnvöld á Evrópska efnahagssvæðinu, sbr. III. kafla laga þessara, og yfireftirlit á sviði mælifræði í samræmi við ákvæði laga og reglna settra samkvæmt þeim;
+
+e. að annast löggildingu vigtarmanna o.fl., sbr. ákvæði VII. kafla;
+
+f. að vera í fyrirsvari fyrir Íslands hönd í alþjóðlegu samstarfi um mælifræðileg málefni;
+
+g. að hafa samstarf við aðra aðila sem fást við verkefni á sviði mælifræði.
+
+> <sup>1)</sup>[L. 126/2011, 433. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## II. kafli. Mælieiningar og mæligrunnar.
+
+### 5. gr.
+
+Á Íslandi skal nota alþjóðlega SI-einingakerfið.
+
+Þrátt fyrir ákvæði 1. mgr. getur ráðherra heimilað að notaðar séu mælieiningar utan alþjóðlega SI-einingakerfisins. Þær skulu þó ávallt hafa viðmiðun í alþjóðlega SI-einingakerfinu.
+
+### 6. gr.
+
+Mælitæki sem notuð eru til lögboðinna mælinga og eftirlits og ákvörðunar stjórnvalda eða dómstóla á viðurlögum eða sá búnaður sem notaður er til löggildingar þessara mælitækja skal kvarðaður með rekjanlegum kvörðunum af faggiltum aðilum.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> annast öflun og viðhald rekjanlegra mæligrunna vegna mælitækja og eftirlits skv. 1. mgr. eða hefur milligöngu um aðgang að slíkum mæligrunnum hafi öðrum aðilum ekki verið falið það í sérlögum.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> annast einnig öflun og viðhald rekjanlegra mæligrunna sem mikilvægir eru til þess að uppfylla þarfir atvinnulífsins fyrir faggilta kvörðunarþjónustu, sbr. 2. mgr. 29. gr.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 7. gr.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> ákveður með hliðsjón af gildandi lögum á hverjum tíma, að fenginni umsögn fagráðs og í samstarfi við hlutaðeigandi ráðuneyti, fyrir hvaða mælifræðisvið halda skal rekjanlega mæligrunna og birtir upplýsingar um hvar þeir eru vistaðir.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## III. kafli. Sala og markaðssetning mælitækja.
+
+### 8. gr. Kröfur um sölu og markaðssetningu mælitækja.
+
+Mælitæki sem eru seld og markaðssett á Íslandi, og undireiningar þeirra, skulu uppfylla kröfur sem gerðar eru til þeirra í lögum og reglugerðum settum samkvæmt þeim.
+
+Framleiðendur, seljendur og dreifingaraðilar bera ábyrgð á að mælitæki sem þeir markaðssetja eða selja uppfylli ákvæði laga og reglna settra samkvæmt þeim.
+
+### 9. gr. Merkingar mælitækja.
+
+Í reglugerð sem ráðherra setur er heimilt að setja nánari reglur í samræmi við ákvæði laga eða alþjóðlega samninga sem Ísland er aðili að um merkingar mælitækja sem heimilt er að selja, markaðssetja og taka í fyrstu notkun hér á landi.
+
+### 10. gr. Samræmismat.
+
+Í reglugerð<sup>1)</sup> sem ráðherra setur skal kveðið á um mat á samræmi við grunnkröfur til að sannreyna hvort mælitæki sem sett eru á markað uppfylli kröfur.
+
+Samræmismatinu skal lokið og það sannanlega skrásett áður en mælitæki er boðið til sölu eða tekið í notkun í fyrsta sinn.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>2)</sup> er heimilt að veita tímabundna undanþágu frá samræmismati, svo sem ef nota á vöruna á vörusýningum eða á vörukynningum.
+
+> <sup>1)</sup>[Rg. 877/2016](https://www.reglugerd.is/reglugerdir/allar/nr/877-2016), sbr. [487/2018](https://www.reglugerd.is/reglugerdir/allar/nr/487-2018). <sup>2)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 11. gr.
+
+Samræmismat getur fallið úr gildi áður en gildistími þess rennur út þegar ljóst er að kröfur sem gerðar voru til tækisins og samræmismatið er byggt á eru ekki uppfylltar.
+
+Þegar samræmismat hefur verið fellt úr gildi skv. 1. mgr. er óheimilt að bjóða viðkomandi mælitæki til sölu eða selja það hér á landi að liðnum hæfilegum fresti.
+
+## IV. kafli. Notkun mælitækja.
+
+### 12. gr. Mælitæki í notkun.
+
+Eigandi mælitækis eða ábyrgðaraðili, ef það á við, ber ábyrgð á að mælitæki í notkun uppfylli ávallt reglur sem kveðið er á um í lögum og reglum settum samkvæmt þeim og er ábyrgur fyrir greiðslu eftirlitsgjalds í samræmi við ákvæði IX. kafla um eftirlitsgjald.
+
+### 13. gr. Sérkröfur um mælitæki og mælingar til ákveðinna nota.
+
+Ráðherra getur ákveðið í reglugerð<sup>1)</sup> að mælitæki og mælingar til ákveðinna nota skuli uppfylla ítarlegri kröfur en almennt eru gerðar til mælinga og mælitækja og hvernig eftirliti með þeim skuli háttað, sbr. 14. gr. og VI. kafla um framkvæmd eftirlits með mælitækjum.
+
+Eftirlitsskyld mælitæki í notkun eru:
+
+1\. Vatnsmælar.
+
+2\. Gasmælar.
+
+3\. Raforkumælar fyrir raunorku.
+
+4\. Varmaorkumælar.
+
+5\. Mælikerfi fyrir vökva aðra en vatn.
+
+6\. Vogir.
+
+7\. Gjaldmælar leigubifreiða.
+
+8\. Mæliáhöld fyrir lengd og rúmmál.
+
+9\. Víddamælitæki.
+
+10\. Greiningartæki fyrir útblástursloft.
+
+11\. Vogarlóð.
+
+12\. Mælitæki fyrir loftþrýsting í hjólbörðum.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>2)</sup> setur reglur sem gilda skulu um slík mælitæki. Þá getur [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>2)</sup> sett reglur um nákvæmnisflokka mælitækja ef nauðsyn krefur.
+
+Mælitæki önnur en þau sem getið er um í 2. mgr. skulu eigi að síður uppfylla þær sérstöku kröfur sem gerðar eru til mælitækis sem er á sama stað, ef unnt er að nota þau í sama tilgangi.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>2)</sup> skal birta á aðgengilegan hátt og uppfæra reglulega nánari upplýsingar um hvaða mælitæki eru eftirlitsskyld samkvæmt lögum og reglum sem gilda hér á landi.
+
+> <sup>1)</sup>[Rg. 1060/2008](https://www.reglugerd.is/reglugerdir/allar/nr/1060-2008). [Rg. 1061/2008](https://www.reglugerd.is/reglugerdir/allar/nr/1061-2008), sbr. [1071/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1071-2023). [Rg. 1062/2008](https://www.reglugerd.is/reglugerdir/allar/nr/1062-2008), sbr. [1072/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1072-2023). [Rg. 252/2009](https://www.reglugerd.is/reglugerdir/allar/nr/252-2009). [Rg. 253/2009](https://www.reglugerd.is/reglugerdir/allar/nr/253-2009), sbr. [467/2009](https://www.reglugerd.is/reglugerdir/allar/nr/467-2009). [Rg. 254/2009](https://www.reglugerd.is/reglugerdir/allar/nr/254-2009), sbr. [467/2009](https://www.reglugerd.is/reglugerdir/allar/nr/467-2009) og [712/2012](https://www.reglugerd.is/reglugerdir/allar/nr/712-2012). [Rg. 561/2012](https://www.reglugerd.is/reglugerdir/allar/nr/561-2012), sbr. [1070/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2023). <sup>2)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 14. gr. Staðfesting á að mælitæki í notkun og mælingar uppfylli skilyrði laga og reglna.
+
+Staðfesta skal með löggildingu að mælitæki í notkun uppfylli kröfur eftir því sem nánar er kveðið á um í reglugerðum. Birta skal lista um þessa flokka mælitækja á aðgengilegan hátt.
+
+Eigandi mælitækja eða ábyrgðaraðili mælinga getur þó óskað samþykkis [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> fyrir því að gæðakerfi eða önnur tilhögun formlegs innra eftirlits verði tekin gild í stað löggildingar.
+
+Ráðherra getur sett reglur um notkun úrtaks við eftirlit með safni mælitækja. Skal þar byggt á stöðlum um úrtaksskoðanir og alþjóðlega viðurkenndum reglum um hvernig stöðlunum skuli beitt.
+
+Eftirlit með magni í forpakkaðri vöru fer fram á markaði með sýnatöku, hvort sem innlendir eða erlendir aðilar hafa pakkað vörunni, í samræmi við ákvæði reglugerða um forpakkaðar vörur.
+
+Pökkunaraðilar sem pakka í samræmi við 2. mgr. 16. gr. skulu sæta reglubundnu eftirliti. Þeir skulu nota löggilt mælitæki við pökkunina eða við gæðatryggingu hennar.
+
+Í reglugerðum sem ráðherra setur skal kveðið nánar á um framkvæmd allra aðferða samkvæmt þessari grein.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## V. kafli. Niðurstöður mælinga.
+
+### 15. gr. Tilgreining á niðurstöðum mælinga.
+
+Hvarvetna þar sem viðskipti fara fram að viðskiptavinum viðstöddum og notuð eru mælitæki sem lög þessi gilda um skal þannig um búið að viðskiptavinurinn sjái greinilega þegar mæling fer fram og geti lesið mæliniðurstöður fyrirhafnarlaust, sjá þó 16. gr.
+
+Þegar sjálfvirk mæling viðskipta sem lög þessi ná til fer fram skulu viðskipta- og eftirlitsaðilar hafa aðgang að mælingagögnum.
+
+### 16. gr. Magn forpakkaðrar vöru.
+
+Í reglugerð sem ráðherra setur skulu vera reglur um mesta leyfilega frávik þegar vara er seld eftir magni í samræmi við ákvæði tilskipana um forpakkaðar vörur.
+
+Í reglugerð<sup>1)</sup> sem ráðherra setur skal nánar kveðið á um rétt og skyldur þeirra sem merkja forpakkaðar vörur með e-merki í samræmi við ákvæði tilskipana Evrópusambandsins, þ.m.t. reglur um viðurkenningu á kerfum sem framleiðandi notar við magnmælingar. Ráðherra getur í reglugerð einnig kveðið á um að vörur megi einungis selja í ákveðnum magnstærðum og magn skuli tilgreint á framleiðsluvöru.
+
+> <sup>1)</sup>[Rg. 437/2009](https://www.reglugerd.is/reglugerdir/allar/nr/437-2009).
+
+## VI. kafli. Framkvæmd eftirlits með mælitækjum.
+
+### 17. gr. Umboð til eftirlits.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> fer með eftirlit samkvæmt lögum þessum. Stofnuninni er þó heimilt að fela öðrum að framkvæma eftirlitið með samningi. Skulu þeir aðilar vera óháðir eftirlitsskyldum aðilum og hafa sérþekkingu og hæfni á viðkomandi sviði.
+
+Ákvæði kaflans eiga jafnframt við um þá aðila sem [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> veitir umboð til eftirlits, nema sérstaklega sé kveðið á um annað í umboði til viðkomandi aðila.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 18. gr. Gjaldskrá eftirlitsaðila.
+
+Gjaldskrá þeirra aðila sem [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> felur framkvæmd mælifræðilegs eftirlits skal vera opinber. Ráðherra er heimilt að setja gjaldskrá ef einungis einn aðili veitir þjónustu til löggildingar á viðkomandi mælitæki.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 19. gr. Óhindrað aðgengi.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> skal hafa óhindraðan aðgang að öllum starfsstöðvum og innréttingum við framkvæmd eftirlits samkvæmt ákvæðum þessara laga og reglna settra samkvæmt þeim.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 20. gr. Réttur til upplýsinga.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> getur krafið þá aðila sem eru eftirlitsskyldir samkvæmt lögum þessum um allar upplýsingar sem nauðsynlegar þykja við framkvæmd eftirlits.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> getur í starfi sínu krafist upplýsinga og gagna frá öðrum stjórnvöldum óháð þagnarskyldu þeirra.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 21. gr. Aðstoð við framkvæmd eftirlits.
+
+Framleiðendur, seljendur, dreifingaraðilar, eigendur og umsjónarmenn mælitækja sem lög þessi taka til og aðrir eftirlitsskyldir aðilar skulu auðvelda framkvæmd eftirlits samkvæmt þessum lögum og veita nauðsynlega aðstoð eftir því sem við getur átt.
+
+Eftirlitsskyldur aðili getur ekki krafið [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> um greiðslu vegna þess kostnaðar sem hann kann að verða fyrir við framkvæmd eftirlits samkvæmt lögunum.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 22. gr. Þagnarskylda.
+
+[Þeir sem starfa af hálfu stjórnvalda að framkvæmd laga þessara og þeir sem [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> hefur veitt umboð til að framkvæma eftirlit á grundvelli laganna eru bundnir þagnarskyldu skv. X. kafla stjórnsýslulaga.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 71/2019, 5. gr.](https://www.althingi.is/altext/stjt/2019.071.html)
+
+## VII. kafli. Um löggilta vigtarmenn o.fl.
+
+### 23. gr. Skilyrði til löggildingar vigtarmanns o.fl.
+
+Löggiltir vigtarmenn geta þeir orðið sem uppfylla eftirtalin skilyrði:
+
+a. eru búsettir hér á landi,
+
+b. eru fullra tuttugu ára,
+
+c. eru sjálfráða og fjárráða,
+
+d. hafa sótt námskeið til löggildingar vigtarmanna og staðist próf.
+
+Vigtarmenn skulu hafa löggildingu [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> sem gefur út skírteini þeim til handa um að þeir megi taka að sér störf sem löggiltum vigtarmönnum eru einum falin samkvæmt ákvæðum í lögum eða reglum settum samkvæmt þeim. Synja skal manni um löggildingu ef 68. gr. almennra hegningarlaga á við um hagi hans.
+
+Löggilding vigtarmanns gildir í tíu ár. [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> heldur skrá yfir löggilta vigtarmenn.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> er heimilt að veita einstaklingi bráðabirgðalöggildingu til starfa að löggiltri vigtun að fenginni umsögn hlutaðeigandi stjórnvalda. Skilyrði fyrir undanþágu og bráðabirgðalöggildingu er að óframkvæmanlegt sé að fá löggiltan vigtarmann til starfans og brýna nauðsyn beri til að vigtun fari fram lögum samkvæmt. Það skilyrði skal sett að leyfishafi samkvæmt ákvæði þessu sæki fyrsta námskeið eftir að undanþága er veitt. Standist leyfishafi ekki próf fellur bráðabirgðalöggilding hans niður.
+
+Í reglugerð<sup>2)</sup> sem ráðherra setur skal setja nánari reglur um námskeið, próf, endurnýjun réttinda, endurmenntunarnámskeið og starfshætti vigtarmanna.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[Rg. 441/2010](https://www.reglugerd.is/reglugerdir/allar/nr/441-2010). Rgl. 515/2021.
+
+### 24. gr. Prófnefnd, námskeið og próf.
+
+Prófnefnd vigtarmanna hefur umsjón með prófi til löggildingar vigtarmanna. Ráðherra skipar þriggja manna prófnefnd til fimm ára í senn og skal [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> tilnefna einn fulltrúa, Fiskistofa einn en ráðherra skipar einn fulltrúa án tilnefningar og er hann jafnframt formaður nefndarinnar. Til að standa straum af kostnaði við framkvæmd prófa skulu próftakar greiða gjald sem ráðherra ákveður. Skal fjárhæðin taka mið af kostnaði af námskeiðum og framkvæmd prófsins. Í reglugerð<sup>2)</sup> sem ráðherra setur að fengnum tillögum frá prófnefnd skal kveðið á um prófkröfur skv. d-lið 1. mgr. 23. gr. og önnur skilyrði eftir því sem við getur átt.
+
+Í reglum sem prófnefnd setur skal kveða nánar á um framkvæmd námskeiða, svo sem lágmarksárangur til að standast próf, lágmarksþátttakendafjölda á námskeiði og önnur atriði er varða framkvæmd eftir því sem við getur átt. Heimilt er að skipta réttindum til löggildingar vigtarmanna eftir eðli réttinda í samræmi við reglur prófnefndar um námskeið og próf samkvæmt ákvæði þessarar greinar. Þá getur prófnefnd skipað prófdómara til að endurskoða prófúrlausn próftaka óski hann eftir því.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[Rg. 441/2010](https://www.reglugerd.is/reglugerdir/allar/nr/441-2010).
+
+### 25. gr. Fullgild vottorð.
+
+Vottorð löggiltra vigtarmanna teljast vera fullgild ef í þeim koma fram eftirfarandi upplýsingar:
+
+a. nafn verkbeiðanda, staður og dagsetning;
+
+b. gildi töru;
+
+c. þyngd þess sem vegið var og hvað var vegið;
+
+d. tilvísun til þeirrar vogar sem vigtað var á;
+
+e. númer ökutækis, þegar það á við;
+
+f. nafn löggilts vigtarmanns og undirritun hans, svo og nafn lögaðila sem hann starfar hjá, þegar það á við;
+
+g. aðrar upplýsingar sem krafist er samkvæmt ákvæðum sérlaga og reglna settra samkvæmt þeim, eftir því sem við getur átt.
+
+### 26. gr. Um starfsskyldur vigtarmanns.
+
+Löggiltur vigtarmaður ber ábyrgð á vigtun sem hann vottar í samræmi við viðurkennda starfshætti þeirrar vigtunaraðferðar sem notuð er hverju sinni. Í því felst að löggiltur vigtarmaður skal sjálfur vera viðstaddur vigtun, hann tryggir alla framkvæmd hennar og staðfestir hana með undirritun sinni á vigtarvottorð sem hann ber ábyrgð á í samræmi við lög og reglur settar samkvæmt þeim.
+
+Um starfshætti vigtarmanna gilda að öðru leyti ákvæði þessara laga og sérlaga eftir því sem við getur átt, og reglur settar samkvæmt þeim. Í erindisbréfi sem ráðherra setur skal að öðru leyti kveðið á um starfsskyldur vigtarmanna.
+
+### 27. gr. Um sönnunargildi vottorða löggilts vigtarmanns.
+
+Fullgilt vottorð löggilts vigtarmanns er sönnun um þyngd þess sem vegið var og hvað var vegið. Í stjórnvaldsfyrirmælum er unnt að tilgreina að ákveðin störf skuli unnin af löggiltum vigtarmönnum.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> setur nánari reglur<sup>2)</sup> að fenginni umsögn fagráðs, sbr. 35. gr., um almennt og sérstakt hæfi löggiltra vigtarmanna, þ.m.t. hvaða störf séu ósamrýmanleg störfum löggiltra vigtarmanna o.fl.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>Rgl. 650/2007, sbr. rgl. 20/2008.
+
+### 28. gr. Svipting löggildingar o.fl.
+
+Brot á reglum um starfsskyldur vigtarmanns eru grundvöllur tafarlausrar sviptingar réttinda löggilts vigtarmanns. Hið sama á við um ásetningsbrot um fölsun vigtunarvottorða. Um málsmeðferð og úrskurð um sviptingu samkvæmt þessari grein skal farið eftir ákvæðum [stjórnsýslulaga, nr. 37/1993](../1993/1993-37-stjornsyslulog.md).
+
+Nú er einstaklingur sviptur réttindum löggilts vigtarmanns vegna brota er varða við XVII. kafla almennra hegningarlaga og getur hann þá eigi setið námskeið að nýju og tekið próf fyrr en að tveimur árum liðnum frá dagsetningu úrskurðar um sviptingu réttindanna nema mál hans sé látið niður falla af hálfu saksóknara eða máli hans lokið með sátt eða dómi. Leyfissviptingu má kæra til [úrskurðarnefndar umhverfis- og auðlindamála].<sup>1)</sup> Kærufrestur er 30 dagar og verður mál ekki borið undir dómstóla fyrr en úrskurður [úrskurðarnefndar umhverfis- og auðlindamála]<sup>1)</sup> liggur fyrir.
+
+> <sup>1)</sup>[L. 18/2021, 15. gr.](https://www.althingi.is/altext/stjt/2021.018.html)
+
+## VIII. kafli. Um faggilta kvörðunarþjónustu.
+
+### 29. gr.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> skal starfrækja faggilta mælifræðistofu svo að hægt sé að sinna lögbundnu eftirliti eða tryggja að öðrum kosti með samningi aðgang að rekjanlegum kvörðunum.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> er einnig heimilt að starfrækja faggilta kvörðunarþjónustu fyrir atvinnulífið.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 30. gr.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> skal taka gjald fyrir þjónustu sem hún veitir samkvæmt ákvæðum þessa kafla.
+
+Að fenginni tillögu [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> samþykkir og birtir ráðherra gjaldskrá fyrir kvörðunarþjónustu sem hún veitir í samræmi við ákvæði þessa kafla.
+
+Gjaldskrá samkvæmt þessari grein skal byggð á eftirfarandi kostnaðarliðum:
+
+a. vinnutímagjaldi faggiltu mælifræðistofunnar;
+
+b. efniskostnaði og öðrum útlögðum kostnaði, þegar það á við;
+
+c. gjaldi vegna viðhalds faggildingar;
+
+d. hlutdeild í venjulegum stjórnunarkostnaði, þ.m.t. kostnaði vegna húsnæðis, aðgangs, viðhalds og endurnýjunar mæligrunna og kvörðunarbúnaðar.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## IX. kafli. Löggildingargjald og eftirlitsgjald með gæðakerfum og forpökkuðum vörum.
+
+### 31. gr. Löggildingargjald.
+
+Í gjaldskrá sem ráðherra setur skal kveða á um löggildingargjald sem innheimta skal þegar [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> eða aðili sem fengið hefur umboð hennar til löggildingar framkvæmir löggildingu mælitækis. Aðili sem annast löggildingu skal innheimta löggildingargjald af eigendum mælitækis þegar innheimt er greiðsla fyrir veitta þjónustu við mælitækið. Löggildingargjald skal greiða af mælitækjum sem um getur í 5.–8. og 11. tölul. 2. mgr. 13. gr.
+
+Löggildingargjald skal nema 15–25% af því þjónustugjaldi sem innheimt er af eiganda mælitækis þegar löggilding fer fram.
+
+Í gjaldskrá sem ráðherra staðfestir skal kveðið nánar á um löggildingargjald fyrir einstakar tegundir mælitækja samkvæmt þessari grein.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 32. gr. Eftirlitsgjald með gæðakerfum og forpökkuðum vörum.
+
+Gjöld samkvæmt þessari grein skulu skiptast í eftirfarandi flokka:
+
+a. *Umsóknargjald:* Gjald fyrir móttöku, skráningu og yfirferð umsóknar og fylgiskjala, auk álitsgerðar um niðurstöður fyrstu yfirferðar á umsókn og fylgigögnum hennar, svo og undirbúningsheimsókn til umsækjanda þegar það á við.
+
+b. *Leyfisgjald:* Gjald fyrir formlegt samþykki [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> á gæðakerfum eða kerfum til forpakkningar á vörum en það felur í sér kostnað vegna mats á kerfum, gerðar verk- og tímaáætlunar, mats á gæðakerfi og tæknilegri starfsemi umsækjanda, skýrslugerðar og leyfisveitingar.
+
+c. *Eftirlitsgjald:* Gjald vegna vinnu við árlegt eftirlit með kerfum samkvæmt þessari grein en það felur í sér gerð verk- og tímaáætlunar, vinnu við reglubundið mat á gæðakerfi og tæknilegri starfsemi umsækjanda, skýrslugerð og endurútgáfu leyfis.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 33. gr. Framkvæmd álagningar og innheimta.
+
+Löggildingargjald skv. 31. gr. skal aðili sem annast framkvæmd eftirlits með mælitækjum í notkun, sbr. 17. gr., innheimta þegar eftirlit fer fram með löggildingu mælitækis. Um uppgjörstímabil og gjalddaga á eftirlitsgjöldum til [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> samkvæmt þessari grein fer nánar eftir ákvæði 34. gr.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 34. gr. Um gjalddaga, dráttarvexti og skýrslu.
+
+Aðili sem annast framkvæmd löggildingar í umboði [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> innheimtir löggildingargjald af eigendum mælitækja, sbr. 31. gr. Löggildingargjaldi skal skila inn til [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> ársþriðjungslega þannig að gjalddagi fyrsta ársþriðjungs er 1. maí, gjalddagi annars ársþriðjungs er 1. september og gjalddagi þriðja ársþriðjungs er 1. febrúar.
+
+Sé eftirlitsgjald skv. 32. gr. ekki greitt innan 15 daga frá gjalddaga skal greiða í ríkissjóð dráttarvexti í samræmi við vaxtalög, svo og innheimtukostnað.
+
+Gjaldskyldir aðilar skv. 33. gr. skulu við uppgjör á eftirlitsgjaldi samkvæmt lögum þessum og eigi síðar en á gjalddaga hvers uppgjörstímabils skila ótilkvaddir skýrslu í því formi sem [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> ákveður vegna mælitækja sem bera gjald á uppgjörstímabilinu.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## X. kafli. Fagráð atvinnulífsins og [Húsnæðis-, mannvirkja- og skipulagsstofnunar].<sup>1)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 35. gr.
+
+Ráðherra skipar sex fulltrúa í fagráð sem sinna skal ráðgjöf fyrir atvinnulífið og [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> á sviði mælifræði. Hlutverk þess er að veita stjórnvöldum og atvinnulífi ráðgjöf um þróun og aðgerðir til að tryggja að hagnýtt sé alþjóðlegt og innlent samstarf sem miðar að því að greiða fyrir trausti og gagnkvæmum viðurkenningum í milliríkjaviðskiptum á sviði mælinga og mælifræði. Fagráð veitir umsagnir um drög að stjórnvaldsfyrirmælum þegar það á við, þ.m.t. um gjaldskrár [Húsnæðis-, mannvirkja- og skipulagsstofnunar].<sup>1)</sup>
+
+Ráðherra skipar formann án tilnefningar en aðrir fulltrúar í fagráði skulu tilnefndir af Samtökum iðnaðarins, Samtökum verslunar og þjónustu, Samorku, Neytendasamtökunum og einn fulltrúi sameiginlega af Landssambandi íslenskra útvegsmanna og Samtökum fiskvinnslustöðva. Forstjóri og sérfræðingar [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> á sviði mælifræði sitja fundi ráðsins eftir því sem við á með málfrelsi og tillögurétt. Aðilar sem tilnefna í fagráð bera kostnað af þátttöku fulltrúa síns í fagráði og tryggja þekkingu og færni þeirra á sviði mælifræði.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## XI. kafli. Réttarúrræði, viðurlög o.fl.
+
+### 36. gr. Krafa um nauðsynlegar úrbætur og bann við notkun.
+
+Við brot á ákvæðum laga þessara eða reglna settra samkvæmt þeim getur [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> krafist þess að eftirlitsskyldur aðili geri nauðsynlegar úrbætur innan ákveðins frests. Við veruleg brot er heimilt að leggja bann við frekari notkun eða starfsemi.
+
+Eftirlitsskyldur aðili ber allan kostnað sem hlýst af stöðvun starfsemi samkvæmt þessum lögum.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 37. gr. Bann við sölu og afturköllun.
+
+Þegar framleiðsluvörur og mælitæki uppfylla ekki skilyrði laga þessara og reglna settra samkvæmt þeim getur [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> bannað sölu þeirra.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> getur einnig krafist þess að framleiðsluvörur og mælitæki sem dreift hefur verið til söluaðila skuli afturkallaðar. Afturköllun og sölubann er heimilt að leggja á einstakar tegundir framleiðsluvöru og mælitækja eða á framleiðslulotur, eftir því sem við getur átt.
+
+Um réttarúrræði [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> vegna brota á sviði lögmælifræði fer að öðru leyti samkvæmt ákvæðum [IV](https://www.althingi.is/altext/stjt/1995.134.html). og [V. kafla laga nr. 134/1995](../1995/1995-134-oryggi-voru-og-opinbera-markadsgaeslu.md), um öryggi vöru og opinbera markaðsgæslu, eftir því sem við getur átt.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 38. gr. Um afturköllun á löggildingu og annarri viðurkenningu.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> skal afturkalla löggildingu og aðra viðurkenningu sem hún veitir samkvæmt lögum þessum eða reglum settum samkvæmt þeim þegar sá sem hlotið hefur löggildingu eða viðurkenningu, eða aðili sem starfar á hans vegum, brýtur ákvæði þessara laga eða reglna settra samkvæmt þeim.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### [38. gr. a. Málsmeðferð.
+
+[Ákvarðanir [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> sem teknar eru á grundvelli laga þessara sæta kæru til úrskurðarnefndar umhverfis- og auðlindamála. Ákvörðun verður ekki borin undir dómstóla fyrr en úrskurður nefndarinnar liggur fyrir. Ef aðili unir ekki úrskurði nefndarinnar getur hann höfðað mál til ógildingar fyrir dómstólum. Höfða skal mál innan sex mánaða frá því að aðili fékk vitneskju um úrskurð nefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar eða heimild til aðfarar. Um aðild, kærufrest, málsmeðferð og annað er varðar kæruna fer að öðru leyti samkvæmt lögum um úrskurðarnefnd umhverfis- og auðlindamála.]<sup>2)</sup>]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 18/2021, 16. gr.](https://www.althingi.is/altext/stjt/2021.018.html) <sup>3)</sup>[L. 34/2007, 8. gr.](https://www.althingi.is/altext/stjt/2007.034.html)
+
+### 39. gr. Dagsektir.
+
+Ef ekki er farið að ákvörðun sem tekin hefur verið samkvæmt þessum lögum og reglum settum samkvæmt þeim getur [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> ákveðið að sá sem ákvörðunin beinist gegn greiði dagsektir þar til farið verður að henni. Dagsektir geta numið frá 10–500 þús. kr. á dag. Ákvörðun um dagsektir skal tilkynnt bréflega á sannanlegan hátt þeim sem hún beinist að.
+
+Ákvörðun um dagsektir má skjóta til [úrskurðarnefndar umhverfis- og auðlindamála]<sup>2)</sup> innan fjórtán daga frá því að hún er kynnt þeim er hún beinist að. Dagsektir reiknast ekki fyrr en frestur er liðinn. Ef ákvörðun er skotið til [úrskurðarnefndar umhverfis- og auðlindamála]<sup>2)</sup> falla dagsektir ekki á fyrr en niðurstaða hennar liggur fyrir.
+
+…<sup>3)</sup>
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 18/2021, 17. gr.](https://www.althingi.is/altext/stjt/2021.018.html) <sup>3)</sup>[L. 34/2007, 9. gr.](https://www.althingi.is/altext/stjt/2007.034.html)
+
+### 40. gr. Stjórnvaldssektir.
+
+[Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> getur lagt stjórnvaldssektir á einstaklinga og fyrirtæki fyrir brot sem framin eru af ásetningi eða gáleysi gegn:
+
+a. ákvæðum III. kafla, um sölu og markaðssetningu mælitækja, og reglum settum samkvæmt þeim;
+
+b. ákvæðum IV. kafla, um notkun mælitækja, og reglum settum samkvæmt þeim, ef um ítrekuð brot er að ræða;
+
+c. ákvæðum V. kafla, um niðurstöður mælinga, og reglum settum samkvæmt lögum sem gilda um það efni.
+
+Stjórnvaldssektir geta numið allt að 10 millj. kr.
+
+…<sup>2)</sup> Málskot til [úrskurðarnefndar umhverfis- og auðlindamála]<sup>3)</sup> frestar aðför. Við aðför samkvæmt ákvörðunum [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> skal kveðja gerðarþola fyrir héraðsdóm og um málsmeðferð fer skv. 13. kafla aðfararlaga.
+
+Frestur til að greiða stjórnvaldssektir er fjórar vikur nema annað sé sérstaklega ákveðið í hlutaðeigandi lagaákvæðum eða reglum.
+
+Ráðherra getur í reglugerð sett nánari reglur um fjárhæð og framkvæmd stjórnvaldssekta. Í reglugerðinni skal jafnframt kveðið á um vexti og kostnað ef stjórnvaldssekt er ekki greidd á eindaga svo og um hver annar en sá sem stjórnvaldssekt er lögð á geti borið ábyrgð á greiðslu gjaldsins.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html) <sup>2)</sup>[L. 34/2007, 10. gr.](https://www.althingi.is/altext/stjt/2007.034.html) <sup>3)</sup>[L. 18/2021, 17. gr.](https://www.althingi.is/altext/stjt/2021.018.html)
+
+### 41. gr. Refsingar.
+
+Sá sem af ásetningi eða gáleysi brýtur gegn ákvæðum III. kafla, 12. og 13. gr. IV. kafla, V. kafla, 20. og 22. gr. VI. kafla, 25.–27. gr. VII. kafla og 33. gr. IX. kafla laga þessara eða reglum og fyrirmælum settum samkvæmt þeim skal sæta fésektum eða fangelsi allt að sex mánuðum ef sakir eru miklar. Dæma má sviptingu réttinda skv. 68. gr. almennra hegningarlaga og fésekt jafnframt fangelsi ef skilyrði 49. gr. almennra hegningarlaga eru fyrir hendi.
+
+Sá sem gefur aðilum, sem annast framkvæmd laga þessara, rangar skýrslur skal sæta refsingu skv. XV. kafla almennra hegningarlaga.
+
+Sektir samkvæmt lögum þessum má gera jafnt lögaðila sem einstaklingi. Lögaðila má ákvarða sekt án tillits til þess hvort sök verður sönnuð á starfsmann lögaðilans. Hafi starfsmaður lögaðilans framið brot á lögum þessum eða reglum settum samkvæmt þeim má einnig gera lögaðila þessum sekt og sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða hann hefur notið hagnaðar af brotinu. Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er dæmdur til að greiða vegna brota á lögum þessum, enda séu brot tengd starfi hans hjá lögaðilanum.
+
+Dæma má sviptingu réttinda skv. 68. gr. almennra hegningarlaga og upptöku eigna skv. 69. gr. sömu laga í máli er rís vegna brota á lögum þessum eða reglum settum samkvæmt þeim.
+
+### 42. gr.
+
+Nú varðar meint lögbrot bæði stjórnvaldssektum skv. 40. gr. og refsingum skv. 41. gr. og metur [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> þá með tilliti til grófleika brots og réttarvörslusjónarmiða hvort mál skuli kært til lögreglu eða lokið með stjórnvaldsákvörðun hjá [Húsnæðis-, mannvirkja- og skipulagsstofnun].<sup>1)</sup> Gæta skal samræmis við úrlausn sambærilegra mála.
+
+Ákvæði IV. og VII. kafla stjórnsýslulaga gilda ekki um ákvörðun [Húsnæðis-, mannvirkja- og skipulagsstofnunar]<sup>1)</sup> að kæra mál til lögreglu.
+
+> <sup>1)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## XII. kafli. Gildistaka.
+
+### 43. gr.
+
+Lög þessi eru sett með hliðsjón af ákvörðun sameiginlegu EES-nefndarinnar nr. 31/2005, um að fella inn í EES-samninginn og taka upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins nr. 2004/22/EB, um mælitæki, og með hliðsjón af tilskipun nr. 90/384/EBE um ósjálfvirkar vogir ásamt síðari breytingum og með hliðsjón af tilskipun nr. 71/316/EBE um mælitæki og aðferðir við mælifræðilegt eftirlit ásamt síðari breytingum og þeim tilskipunum sem af henni eru leiddar. Í reglugerð<sup>1)</sup> sem ráðherra setur skal kveðið nánar á um mælitæki og innleiðingu á viðaukum framantalinna tilskipana að fenginni umsögn [Húsnæðis-, mannvirkja- og skipulagsstofnunar].<sup>2)</sup>
+
+> <sup>1)</sup>[Rg. 877/2016](https://www.reglugerd.is/reglugerdir/allar/nr/877-2016). <sup>2)</sup>[L. 11/2026, 35. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+### 44. gr.
+
+Ráðherra er heimilt í reglugerð<sup>1)</sup> að setja nánari ákvæði um framkvæmd laga þessara.
+
+Í reglugerð sem ráðherra setur skal innleiða nánari reglur um mælitækjaflokka sem taldir eru upp í tilskipun 2004/22/EB, um mælitæki, sbr. 13. gr. laga þessara. Taki ráðherra ákvörðun við setningu reglugerðar skv. 1. málsl. um að setja ekki reglur um alla mælitækjaflokka sem taldir eru upp í tilskipuninni skal ákvörðunin rökstudd og send til Eftirlitsstofnunar EFTA. Hið sama gildir um mælitæki sem falla undir gildissvið tilskipunar 71/316/EBE.
+
+> <sup>1)</sup>[Rg. 130/1994](https://www.reglugerd.is/reglugerdir/allar/nr/130-1994) (um gildistöku tiltekinna tilskipana Evrópubandalagsins um mælitæki), sbr. [428/1994](https://www.reglugerd.is/reglugerdir/allar/nr/428-1994) og [79/2013](https://www.reglugerd.is/reglugerdir/allar/nr/079-2013). [Rg. 955/2006](https://www.reglugerd.is/reglugerdir/allar/nr/955-2006) (um löggildingartákn og merkingar eftirlitsskyldra mælitækja), sbr. [192/2007](https://www.reglugerd.is/reglugerdir/allar/nr/192-2007) og [461/2009](https://www.reglugerd.is/reglugerdir/allar/nr/461-2009). [Rg. 956/2006](https://www.reglugerd.is/reglugerdir/allar/nr/956-2006) (um starfshætti þeirra sem annast löggildingar mælitækja í umboði Neytendastofu), sbr. [1664/2021](https://www.reglugerd.is/reglugerdir/allar/nr/1664-2021) og [1637/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1637-2022). [Rg. 1160/2011](https://www.reglugerd.is/reglugerdir/allar/nr/1160-2011) (um mælieiningar), sbr. [199/2020](https://www.reglugerd.is/reglugerdir/allar/nr/199-2020). [Rg. 561/2012 (um mælifræðilegt eftirlit](https://www.reglugerd.is/reglugerdir/allar/nr/561-2012) með varmaorkumælum), sbr. [1070/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2023). [Rg. 876/2016](https://www.reglugerd.is/reglugerdir/allar/nr/876-2016) (um mælitæki), sbr. [486/2018](https://www.reglugerd.is/reglugerdir/allar/nr/486-2018). [Rg. 877/2016](https://www.reglugerd.is/reglugerdir/allar/nr/877-2016) (um gerð og framleiðslu ósjálfvirks vogarbúnaðar).
+
+### 45. gr.
+
+Lög þessi öðlast þegar gildi. […](https://www.althingi.is/altext/stjt/2006.091.html)
+
+### Ákvæði til bráðabirgða.
+
+Þrátt fyrir ákvæði 10. gr. er heimilt að setja á markað og taka í fyrstu notkun hér á landi mælitæki sem uppfyllir kröfur fyrir 30. október 2006 á meðan gerðarviðurkenning þess heldur gildi sínu, þó eigi lengur en til 30. október 2016.

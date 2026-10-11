@@ -1,0 +1,154 @@
+---
+title: "Lög um ávana- og fíkniefni"
+identifier: "65/1974"
+lagasafn_id: "1974065"
+type: act
+jurisdiction: is
+language: is
+date: 1974-05-21
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "24.f. Lyfsala o.fl."
+source: "https://www.althingi.is/lagas/158a/1974065.html"
+retrieved: 2026-10-12
+---
+
+# Lög um ávana- og fíkniefni
+
+**1974 65 21. maí**
+
+*<sup>1)</sup>Lögunum var breytt með [l. 85/2026, 51. gr.](../2026/2026-85-stofnun-atvinnuveganna.md); breytingin tekur gildi 1. janúar 2027.*
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=94&mnr=286) [*Frumvarp til laga.*](https://www.althingi.is/altext/pdf/94/s/0588.pdf)
+
+**Tóku gildi 11. júní 1974.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **heilbrigðisráðherra** eða **heilbrigðisráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 60/1980](https://www.althingi.is/altext/stjtnr.html#1980060) (tóku gildi 16. júní 1980).
+- [L. 75/1982](https://www.althingi.is/altext/stjtnr.html#1982075) (tóku gildi 10. júní 1982).
+- [L. 13/1985](https://www.althingi.is/altext/stjtnr.html#1985013) (tóku gildi 31. maí 1985).
+- [L. 49/1993](https://www.althingi.is/altext/stjt/1993.049.html) (tóku gildi 27. maí 1993).
+- [L. 10/1997](https://www.althingi.is/altext/stjt/1997.010.html) (tóku gildi 26. mars 1997).
+- [L. 82/1998](https://www.althingi.is/altext/stjt/1998.082.html) (tóku gildi 1. okt. 1998).
+- [L. 68/2001](https://www.althingi.is/altext/stjt/2001.068.html) (tóku gildi 13. júní 2001).
+- [L. 88/2008](https://www.althingi.is/altext/stjt/2008.088.html) (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 42/2011](https://www.althingi.is/altext/stjt/2011.042.html) (tóku gildi 13. maí 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 48/2020](https://www.althingi.is/altext/stjt/2020.048.html) (tóku gildi 5. júní 2020).
+- [L. 93/2021](https://www.althingi.is/altext/stjt/2021.093.html) (tóku gildi 9. júlí 2021).
+- [L. 41/2025](https://www.althingi.is/altext/stjt/2025.041.html) (tóku gildi 4. júlí 2025).
+- [L. 85/2026](https://www.althingi.is/altext/stjt/2026.085.html) (taka gildi 1. jan. 2027; um lagaskil sjá 9. gr. og brbákv.).
+
+## 1. gr.
+
+Ríkisstjórninni er heimilt fyrir Íslands hönd að gerast aðili að alþjóðasamningum um ávana- og fíkniefni.
+
+Hugtakið ávana- og fíkniefni í lögum þessum tekur einnig til ávana- og fíknilyfja.
+
+## 2. gr.
+
+Varsla og meðferð ávana- og fíkniefna, sem talin eru upp í 6. gr. laga þessara, er óheimil á íslensku forráðasvæði samkvæmt því sem nánar segir í 4. mgr.
+
+[Ráðherra]<sup>1)</sup> er heimilt að mæla svo fyrir í reglugerð,<sup>2)</sup> að varsla og meðferð annarra ávana- og fíkniefna, sem sérstaklega mikil hætta er talin stafa af samkvæmt alþjóðasamningum, sé á sama hátt óheimil á íslensku forráðasvæði.
+
+[Lyfjastofnun getur veitt undanþágu frá ákvæðum 1. og 2. mgr. þegar sérstaklega stendur á. Slíkar undanþágur eru ávallt afturtækar. Ráðherra er heimilt með reglugerð að setja frekari skilyrði og takmarkanir á veitingu undanþágna og mæla fyrir um önnur atriði er varða framkvæmd þessa ákvæðis.]<sup>3)</sup>
+
+Innflutningur, útflutningur, sala, kaup, skipti, afhending, móttaka, framleiðsla, tilbúningur og varsla efna, er greinir í 1. og 2. mgr., er bannaður, með þeirri undantekningu, sem getur um í 3. mgr.
+
+> <sup>1)</sup>[L. 126/2011, 62. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>Augl. 232/2001. [Rg. 233/2001](https://www.reglugerd.is/reglugerdir/allar/nr/233-2001), sbr. [490/2001](https://www.reglugerd.is/reglugerdir/allar/nr/490-2001), [248/2002](https://www.reglugerd.is/reglugerdir/allar/nr/248-2002), [848/2002](https://www.reglugerd.is/reglugerdir/allar/nr/848-2002), [480/2005](https://www.reglugerd.is/reglugerdir/allar/nr/480-2005), [516/2006](https://www.reglugerd.is/reglugerdir/allar/nr/516-2006), [789/2010](https://www.reglugerd.is/reglugerdir/allar/nr/789-2010), [513/2012](https://www.reglugerd.is/reglugerdir/allar/nr/513-2012), [624/2012](https://www.reglugerd.is/reglugerdir/allar/nr/624-2012), [138/2017](https://www.reglugerd.is/reglugerdir/allar/nr/138-2017), [808/2018](https://www.reglugerd.is/reglugerdir/allar/nr/808-2018), [355/2020](https://www.reglugerd.is/reglugerdir/allar/nr/355-2020), [105/2021](https://www.reglugerd.is/reglugerdir/allar/nr/105-2021), [803/2021](https://www.reglugerd.is/reglugerdir/allar/nr/803-2021), [310/2022](https://www.reglugerd.is/reglugerdir/allar/nr/310-2022), [1371/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1371-2022), [29/2023](https://www.reglugerd.is/reglugerdir/allar/nr/029-2023) og [408/2024](https://www.reglugerd.is/reglugerdir/allar/nr/408-2024). <sup>3)</sup>[L. 42/2011, 1. gr.](https://www.althingi.is/altext/stjt/2011.042.html)
+
+## [2. gr. a.
+
+Þrátt fyrir ákvæði 1. mgr. 2. gr. getur embætti landlæknis veitt sveitarfélagi, [heilbrigðisstofnun eða frjálsum félagasamtökum]<sup>1)</sup> leyfi til að stofna og reka neyslurými þar sem varsla og meðferð ávana- og fíkniefna, sbr. 6. gr., er heimil. Notanda neyslurýmis er heimilt að hafa í vörslu sinni það magn ávana- og fíkniefna sem hann ætlar að neyta í neyslurýminu.
+
+[Sveitarfélagi, heilbrigðisstofnun eða frjálsum félagasamtökum sem fengið hafa]<sup>1)</sup> leyfi skv. 1. mgr. og lögreglu er heimilt að gera samkomulag um að lögregla grípi ekki til aðgerða gegn notendum neyslurýmis á tilteknu svæði í kringum húsnæði neyslurýmis.
+
+[Neyslurými er lagalega verndað umhverfi þar sem fólk sem er 18 ára og eldra getur notað ávana- og fíkniefni undir eftirliti starfsfólks og gætt er fyllsta hreinlætis, öryggis og sýkingarvarna.]<sup>1)</sup>
+
+Eingöngu er unnt að veita sveitarfélagi, [heilbrigðisstofnun eða frjálsum félagasamtökum]<sup>1)</sup> leyfi skv. 1. mgr. ef skilyrði reglugerðar<sup>2)</sup> sem ráðherra setur um neyslurými eru uppfyllt. Í reglugerðinni skal m.a. kveðið á um:
+
+a. Þjónustu sem veitt skal í neyslurými.
+
+b. Hollustuhætti, svo sem um förgun sprautuúrgangs.
+
+c. Verkefni, öryggi og hæfni starfsfólks.
+
+d. Upplýsingaskyldu rekstraraðila gagnvart embætti landlæknis.
+
+e. Setningu húsreglna.
+
+f. Eftirlit með starfsemi neyslurýmis.
+
+Í neyslurými er vinnsla persónuupplýsinga heimil, þar á meðal um tegund og magn efna sem notandi ætlar að neyta í neyslurými, í þeim tilgangi að uppfylla skilyrði laga þessara og reglugerðar sem sett er með stoð í þeim.
+
+Sveitarfélagi [eða heilbrigðisstofnun]<sup>1)</sup> er heimilt að fengnu samþykki landlæknis að semja við félagasamtök um rekstur neyslurýmis að uppfylltum skilyrðum 4. mgr.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 41/2025, 1. gr.](https://www.althingi.is/altext/stjt/2025.041.html) <sup>2)</sup>[Rg. 170/2021](https://www.reglugerd.is/reglugerdir/allar/nr/170-2021). <sup>3)</sup>[L. 48/2020, 1. gr.](https://www.althingi.is/altext/stjt/2020.048.html)
+
+## [2. gr. b.
+
+Þrátt fyrir ákvæði 4. mgr. 2. gr. er Matvælastofnun heimilt að leyfa innflutning á fræjum af tegundinni Cannabis sativa.
+
+Eingöngu er heimilt að veita leyfi skv. 1. mgr. ef skilyrði í reglugerð skv. 3. mgr. eru uppfyllt.
+
+Ráðherra sem fer með málefni landbúnaðar skal setja reglugerð<sup>1)</sup> um veitingu undanþágu til innflutnings fræja. Í reglugerðinni skal m.a. kveða á um veitingu leyfis til innflutnings ásamt skilyrðum og takmörkunum á innflutningi.
+
+Matvælastofnun skal hafa eftirlit með innflutningi á fræjum skv. 3. gr., sbr. 7. gr. laga um eftirlit með fóðri, áburði og sáðvöru, 22/1994.]<sup>2)</sup>
+
+> <sup>1)</sup>[Rg. 804/2021](https://www.reglugerd.is/reglugerdir/allar/nr/804-2021). <sup>2)</sup>[L. 93/2021, 1. gr.](https://www.althingi.is/altext/stjt/2021.093.html)
+
+## 3. gr.
+
+Ráðherra er heimilt að ákveða í reglugerð,<sup>1)</sup> að efni, sem ekki falla undir 2. gr., en geta haft hættu í för með sér vegna eiginleika þeirra sem ávana- og fíkniefna og skráð eru sem slík í alþjóðasamningum, megi aðeins nota hér á landi í læknisfræðilegum og vísindalegum tilgangi. Sama er um efni, sem vísindalegar rannsóknir benda til, að haft gætu slíka hættu í för með sér.
+
+[Inn- og útflutningur, sala, kaup, skipti, afhending, móttaka, framleiðsla, tilbúningur og varsla efna þeirra er greinir í 1. mgr. er einungis heimil lyfsölum, lyfjaheildsölum, lyfjaframleiðendum og þeim sem Lyfjastofnun hefur veitt sérstakt leyfi til slíks. Sækja þarf um sérstakt leyfi til Lyfjastofnunar í hvert sinn. Slík leyfi eru ávallt afturtæk. Ráðherra er heimilt með reglugerð að setja frekari skilyrði og mæla fyrir um takmarkanir á slíkri starfsemi og önnur atriði er varða framkvæmd þessa ákvæðis.]<sup>2)</sup>
+
+Kaup og móttaka efna, er greinir í 1. mgr., frá lyfsölum, svo og varsla efnanna er einnig heimil þeim, sem við þeim tekur samkvæmt lögum og almennum reglum um lyfseðla og aðrar lyfjaávísanir.
+
+Að öðru leyti er inn- og útflutningur, sala, kaup, skipti, afhending, móttaka, framleiðsla, tilbúningur og varsla þessara efna bönnuð.
+
+> <sup>1)</sup>[Rg. 233/2001](https://www.reglugerd.is/reglugerdir/allar/nr/233-2001), sbr. [789/2010](https://www.reglugerd.is/reglugerdir/allar/nr/789-2010), [513/2012](https://www.reglugerd.is/reglugerdir/allar/nr/513-2012), [624/2012](https://www.reglugerd.is/reglugerdir/allar/nr/624-2012), [138/2017](https://www.reglugerd.is/reglugerdir/allar/nr/138-2017), [808/2018](https://www.reglugerd.is/reglugerdir/allar/nr/808-2018) og [408/2024](https://www.reglugerd.is/reglugerdir/allar/nr/408-2024). <sup>2)</sup>[L. 42/2011, 2. gr.](https://www.althingi.is/altext/stjt/2011.042.html)
+
+## 4. gr.
+
+Ákvæðum 2. og 3. gr. verður einnig beitt, eftir því sem við á, um hráefni, sem unnt er að vinna úr eða breyta í ávana- og fíkniefni. [Sama gildir um sölt, esta, peptíð og hvers konar afleiður (afbrigði) efna, sbr. 2. og 3. gr., þar með taldar afleiður sem eru frábrugðnar upprunalega efninu (viðmiðunarefninu) að því er varðar staðsetningu efnahóps eða efnahópa á kolefni, köfnunarefni, súrefni og/eða brennisteini.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2001, 1. gr.](https://www.althingi.is/altext/stjt/2001.068.html)
+
+## [4. gr. a.
+
+Inn- og útflutningur, sala, kaup, skipti, afhending, móttaka, framleiðsla og varsla tækja, hluta eða efna til notkunar við ólöglega ræktun, framleiðslu eða tilbúning ávana- og fíkniefna er bönnuð.
+
+Ráðherra er heimilt að tilgreina nánar í reglugerð hvaða efni falla undir 1. mgr. og sérstaklega mikil hætta er talin stafa af samkvæmt alþjóðasamningum.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 10/1997, 6. gr.](https://www.althingi.is/altext/stjt/1997.010.html)
+
+## 5. gr.
+
+[[Brot á lögum þessum og reglugerðum og öðrum fyrirmælum settum samkvæmt þeim varða sektum …<sup>1)</sup> eða fangelsi allt að 6 árum.]<sup>2)</sup> Sömu refsingu skal sá sæta, sem fær eða reynir að fá leyfi (undanþágu) samkvæmt lögum þessum eða reglum settum samkvæmt þeim með því að gefa rangar eða villandi upplýsingar eða með því að leggja í sviksamlegum tilgangi launung á atriði, er máli skipta í þessu, eða brýtur skilyrði fyrir veittu leyfi. Enn fremur skal sá sæta sömu refsingu, sem gefur rangar skriflegar upplýsingar um nafn sitt, heimilisfang eða stöðu sína, er hann leitar eftir lyfseðli eða annarri ávísun á þau lyf eða efni, sem um getur í 3. og 4. gr.]<sup>3)</sup>
+
+[Meðferð ávinnings af brotum á lögum þessum er refsiverð eftir því sem segir í 264. gr. almennra hegningarlaga.]<sup>4)</sup>
+
+…<sup>5)</sup>
+
+Heimilt er að refsa fyrir brot á lögum þessum, ef þau eru framin af ásetningi eða gáleysi.
+
+Tilraun og hlutdeild í brotum á lögum þessum eru refsiverð, eftir því sem segir í III. kafla almennra hegningarlaga.
+
+Gera skal upptæk til ríkissjóðs efni þau, er lög þessi taka til og aflað hefur verið á [ólögmætan]<sup>6)</sup> hátt eða eru á annan hátt í ólögmætri vörslu.
+
+[Heimilt er að gera upptækt til ríkissjóðs andvirði ólögmætrar sölu efna sem lögin taka til. Það sama gildir um ávinning af öðrum brotum á lögum þessum, fjárhæð sem svarar til slíks ávinnings og muni sem eru keyptir eru fyrir ávinninginn. Ef ekki er unnt að færa fullar sönnur á fjárhæð ávinnings er dómara heimilt að áætla fjárhæðina. Þá skal og heimilt að gera upptæka hvers konar muni sem notaðir hafa verið eða ætlaðir eru til ólögmætrar meðferðar efna sem lögin taka til.
+
+Ítrekuð brot gegn lögum þessum skulu varða aukinni refsingu, enda sé um að ræða innflutning eða dreifingu þeirra efna sem um getur í 2.–4. gr. a.]<sup>4)</sup>
+
+> <sup>1)</sup>[L. 82/1998, 166. gr.](https://www.althingi.is/altext/stjt/1998.082.html) <sup>2)</sup>[L. 13/1985, 1. gr.](https://www.althingi.is/altext/stjtnr.html#1985013?g1) <sup>3)</sup>[L. 60/1980, 1. gr.](https://www.althingi.is/altext/stjtnr.html#1980060?g1) <sup>4)</sup>[L. 10/1997, 7. gr.](https://www.althingi.is/altext/stjt/1997.010.html) <sup>5)</sup>[L. 88/2008, 233. gr.](https://www.althingi.is/altext/stjt/2008.088.html#G233) <sup>6)</sup>[L. 68/2001, 2. gr.](https://www.althingi.is/altext/stjt/2001.068.html)
+
+## 6. gr.
+
+[Eftirtalin ávana- og fíkniefni falla undir 1. mgr. 2. gr.: 1-Fenyl-2-butylamine, 4-metylaminorex, 4-MTA, A1-fenyl-1-piperidyl-(2)-metyl acetat, Acetorphine, Acetylmeskaline, Allobarbital, Brallobarbital, Brolamfetamine, Brotizolam, Brom-STP, Butobarbital, Cannabis (Kannabis, Marihuana, Hass), Cannabis harpix, Carfentanil, Cathinone, Chlorali hydras, Chloralodolum, Clomethiazolum, Cocainum, Desornorphinum, DET, Dexamfetamine, DMA, DMHP, DMT, DOET, Enhexymalum, Eticyclideine, Etilamfetamine, Etorphine, Fenetylline, GHB, Heptamalum, Heroin, Hexapropymatum, Hydroxyamfetamine, Hydroxytetrahydrokannabinolar, Ibogain, Kat, Levonantradol, Lysergide, MDA, MDE, MDMA, Mescaline, Methamfetamine, Methandriolum, Methaqualone, Methcathinone, Methylpentynolum, Metohexital, Metylmeskaline, MMDA, Modafinil, Nabilon, N-ethyl MDA, N-hydroxyamfetamine, Parahexyl, PHP, PCPY, PMA, Propylhexedrinum, Psilocybinum, Psilocine, Pyrityldion, STP, DOM, TCP, TMA, Tybamatum, Vinylbital.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2001, 3. gr.](https://www.althingi.is/altext/stjt/2001.068.html)

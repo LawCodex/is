@@ -1,0 +1,171 @@
+---
+title: "Lög um gatnagerðargjald"
+identifier: "153/2006"
+lagasafn_id: "2006153"
+type: act
+jurisdiction: is
+language: is
+date: 2006-12-15
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "7.c. Tekjustofnar og fjármál sveitarfélaga"
+source: "https://www.althingi.is/lagas/158a/2006153.html"
+retrieved: 2026-10-12
+---
+
+# Lög um gatnagerðargjald
+
+**2006 nr. 153 15. desember**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=133&mnr=219) [*Frumvarp til laga.*](https://www.althingi.is/altext/133/s/0220.html)
+
+**Tóku gildi 1. júlí 2007 nema 1. tölul. ákvæðis til bráðabirgða sem tók gildi 1. janúar 2007.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **innviðaráðherra** eða **innviðaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 167/2007](https://www.althingi.is/altext/stjt/2007.167.html) (tóku gildi 1. jan. 2008).
+- [L. 6/2009](https://www.althingi.is/altext/stjt/2009.006.html) (tóku gildi 5. mars 2009).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 136/2012](https://www.althingi.is/altext/stjt/2012.136.html) (tóku gildi 1. jan. 2013).
+- [L. 115/2015](https://www.althingi.is/altext/stjt/2015.115.html) (tóku gildi 16. des. 2015).
+- [L. 127/2015](https://www.althingi.is/altext/stjt/2015.127.html) (tóku gildi 31. des. 2015).
+- [L. 43/2021](https://www.althingi.is/altext/stjt/2021.043.html) (tóku gildi 1. jan. 2022).
+
+## 1. gr. Markmið laganna.
+
+Markmið laga þessara er að lögbinda gjaldstofn fyrir sveitarfélög til töku sérstaks skatts, gatnagerðargjalds, af fasteignum og rétt sveitarfélaga til að ákveða innan marka laganna hvernig sá gjaldstofn er nýttur.
+
+## 2. gr. Gjaldskylda.
+
+Lóðarhafi, eða byggingarleyfishafi þar sem það á við, er gjaldskyldur samkvæmt lögum þessum og ber ábyrgð á greiðslu gatnagerðargjalds.
+
+## 3. gr. Gjaldstofn gatnagerðargjalds.
+
+Sveitarstjórn skal innheimta gatnagerðargjald af fasteignum í þéttbýli. Um skil þéttbýlis og dreifbýlis vísast til samþykkts deiliskipulags eða staðfests aðalskipulags á hverjum tíma.
+
+Stofn til álagningar gatnagerðargjalds er fermetrafjöldi byggingar á tiltekinni lóð og getur sveitarstjórn ákveðið hann á eftirfarandi hátt í samþykkt, sbr. 12. gr.:
+
+a. Þegar sveitarstjórn úthlutar eða selur lóð eða byggingarrétt á lóð skal leggja á gatnagerðargjald í samræmi við fermetrafjölda þeirra bygginga sem heimilt er að reisa á viðkomandi lóð samkvæmt gildandi deiliskipulagi.
+
+b. Verði ekki lagt á gatnagerðargjald skv. a-lið, eða ef veitt er byggingarleyfi fyrir stærri byggingu en álagning skv. a-lið var upphaflega miðuð við, skal við útgáfu byggingarleyfis leggja á gatnagerðargjald í samræmi við fermetrafjölda þeirrar byggingar sem byggingarleyfi tekur til.
+
+Gatnagerðargjald skal innheimt vegna stækkunar byggingar sem nemur fermetrafjölda stækkunar, sbr. þó ákvæði 3. mgr. 5. gr.
+
+Gatnagerðargjald skal innheimt ef reist er ný og stærri bygging í stað annarrar á sömu lóð sem stækkuninni nemur. Gildir þessi regla um byggingar sem samþykkt er byggingarleyfi fyrir allt að fimm árum eftir að leyfi er gefið fyrir niðurrifi byggingar. Að öðrum kosti skal greiða fullt gatnagerðargjald. Ef hin nýja bygging er annarrar tegundar eða til annarrar notkunar en hið eldra húsnæði gilda ákvæði 5. mgr. þessarar greinar.
+
+Þegar veitt er byggingarleyfi fyrir endurbyggingu, breytingu eða breyttri notkun byggingar þannig að hún færist í hærri gjaldflokk samkvæmt samþykkt sveitarfélagsins, sbr. 4. gr., skal greiða gatnagerðargjald af fermetrafjölda viðkomandi húsnæðis sem svarar til mismunar hærri og lægri gjaldflokksins. Lóðarhafi, eða byggingarleyfishafi þar sem það á við, á ekki rétt á endurgreiðslu ef bygging færist í lægri gjaldflokk við slíka breytingu.
+
+## 4. gr. Fjárhæð gatnagerðargjalds.
+
+[Gatnagerðargjald er 15% af verðgrunni skv. 3. mgr. sem Hagstofa Íslands uppfærir með mældri breytingu vísitölu byggingarkostnaðar í næstliðnum mánuði, nema sveitarstjórn hafi mælt fyrir um lægra gjald í samþykkt sinni.]<sup>1)</sup>
+
+Sveitarstjórn skal í samþykkt sinni, sbr. 12. gr., ákveða hundraðshluta gatnagerðargjalds sem leggst á gjaldstofn þann sem mælt er fyrir um í 3. gr. Gjaldið má aldrei vera hærra en mælt er fyrir um í 1. mgr.
+
+[Verðgrunnur fyrir gatnagerðargjald er verð fyrir fermetra í vísitöluhúsi fjölbýlis samkvæmt mælingu Hagstofu Íslands frá 20. desember 2021.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 43/2021, 3. gr.](https://www.althingi.is/altext/stjt/2021.043.html)
+
+## 5. gr. Almenn lækkunarheimild.
+
+Sveitarstjórn er heimilt að ákveða í samþykkt sinni um gatnagerðargjald, sbr. 12. gr., að mishátt gatnagerðargjald skuli greiða vegna eftirtalinna bygginga eftir notkun:
+
+1\. Íbúðarhúsnæðis.
+
+2\. Verslunar-, skrifstofu- og þjónustuhúsnæðis.
+
+3\. Iðnaðar- og geymsluhúsnæðis og annars atvinnuhúsnæðis.
+
+4\. Annarra bygginga.
+
+Sveitarstjórn er einnig heimilt að ákveða í samþykkt sinni um gatnagerðargjald að gjald af íbúðarhúsnæði megi vera mishátt eftir því hvort um er að ræða:
+
+1\. Einbýlishús.
+
+2\. Par-, rað-, tvíbýlis- og keðjuhús.
+
+3\. Fjölbýlishús.
+
+Sveitarstjórn er einnig heimilt að ákveða í samþykkt sinni um gatnagerðargjald að lækka eða fella niður gatnagerðargjald:
+
+1\. Þegar grafið er út kjallararými íbúðarhúsa enda sé húsrýmið gluggalaust og aðeins gengt í það innan frá.
+
+2\. Af yfirbyggðum göngugötum eða léttum tengibyggingum í eða á milli verslunar-, skrifstofu- og þjónustuhúsnæðis sem teljast til sameignar viðkomandi húsnæðis og eru til almenningsnota á afgreiðslutíma. Skilyrði þessa er þó að húsnæði sem yfirbygging eða tengibygging er byggð við sé svo sjálfstætt að það fullnægi kröfum byggingarlaga og byggingarreglugerðar án hennar og jafnframt að yfirbyggingin eða tengibyggingin sé þannig úr garði gerð að hún fullnægi ekki ein og sér kröfum byggingarlaga og byggingarreglugerðar.
+
+3\. Vegna stækkunar íbúðarhúss sem er a.m.k. 15 ára enda nemi stækkunin ekki meira en 30 fermetrum á hverja íbúð á hverju 10 ára tímabili. Tilheyri stækkunin sameign fjöleignarhúss skal meta hana eins og ef um stækkun vegna einnar íbúðar væri að ræða. Ef stækkunin er meiri en 30 fermetrar skal greiða fullt gatnagerðargjald af því sem umfram er.
+
+4\. Svalaskýla íbúðarhúsa sem eru 20 fermetrar eða minni.
+
+5\. Sameiginlegra bifreiðageymslna fyrir þrjár eða fleiri bifreiðar.
+
+6\. Óeinangraðra smáhýsa sem eru minni en 6 fermetrar.
+
+## 6. gr. Sérstök lækkunarheimild.
+
+Sveitarstjórn er heimilt að lækka eða fella niður gatnagerðargjald af einstökum lóðum í sveitarfélaginu við sérstakar aðstæður, svo sem vegna þéttingar byggðar, atvinnuuppbyggingar, lítillar ásóknar í viðkomandi lóð eða eftirspurnar eftir leiguhúsnæði.
+
+Sveitarstjórn er enn fremur heimilt að lækka eða fella niður gjöld vegna sérhæfðs félagslegs húsnæðis, svo sem sambýla fyrir [fatlað fólk],<sup>1)</sup> þjónustuíbúða fyrir aldraða og félagslegs leiguhúsnæðis enda sé slíkt húsnæði í eigu stofnana, félagasamtaka eða félaga sem ekki eru rekin í ágóðaskyni. Þinglýsa skal kvöð á umrætt húsnæði um að greiða skuli gatnagerðargjald af því ef það fellur af einhverjum ástæðum ekki lengur undir ákvæði þetta. Stafi það af breyttri notkun, sem er háð samþykki byggingaryfirvalda, skulu gjalddagi og eindagi fara eftir 2. mgr. 7. gr. en að öðrum kosti er gjalddaginn 30 dögum eftir að forsendur lækkunar eða niðurfellingar gatnagerðargjalds eru ekki lengur fyrir hendi, svo sem vegna sölu húsnæðis, og eindagi einum mánuði síðar.
+
+Sveitarstjórn er heimilt að mæla nánar fyrir um skilyrði framangreindra lækkunarheimilda í samþykkt sinni um gatnagerðargjald, sbr. 2. mgr. 4. gr.
+
+> <sup>1)</sup>[L. 115/2015, 3. gr.](https://www.althingi.is/altext/stjt/2015.115.html)
+
+## 7. gr. Gjalddagi og eindagi gatnagerðargjalds.
+
+Gatnagerðargjald skv. a-lið 2. mgr. 3. gr. fellur í gjalddaga við úthlutun lóðar eða sölu byggingarréttar sem er í eigu sveitarfélags eða sveitarfélagið hefur ráðstöfunarrétt á. Eindagi er 30 dögum eftir gjalddaga.
+
+Gatnagerðargjald skv. b-lið 2. mgr. 3. gr. og 5. mgr. 3. gr. fellur í gjalddaga við útgáfu byggingarleyfis. Eindagi er hinn sami og gjalddagi.
+
+Sveitarstjórn getur í samþykkt sinni um gatnagerðargjald ákveðið gjalddaga og eindaga gatnagerðargjalds með öðrum hætti. Sveitarstjórn er heimilt að mæla svo fyrir í samþykkt sinni að gjaldið skuli innheimt á fleiri en einum gjalddaga.
+
+## 8. gr. Innheimta vangreidds gatnagerðargjalds.
+
+Gatnagerðargjald ber dráttarvexti samkvæmt ákvæðum [laga nr. 38/2001](../2001/2001-38-vexti-og-verdtryggingu.md), um vexti og verðtryggingu, frá gjalddaga.
+
+Gatnagerðargjald, ásamt áföllnum vöxtum og kostnaði, er tryggt með lögveðsrétti í viðkomandi fasteign með forgangsrétti fyrir hvers konar samningsveði og aðfararveði í tvö ár frá gjalddaga. Gatnagerðargjald er aðfararhæft án undangengins dóms eða stjórnvaldsúrskurðar.
+
+Sveitarstjórn er heimilt að afturkalla lóðarúthlutun ef lóðarhafi greiðir ekki gatnagerðargjald á tilskildum tíma, enda sé kveðið á um það í úthlutunar- eða byggingarskilmálum. Sveitarstjórn skal með 30 daga fyrirvara senda lóðarhafa með sannanlegum hætti viðvörun um hina fyrirhuguðu afturköllun áður en lóðarúthlutun er afturkölluð.
+
+## 9. gr. Endurgreiðsla gatnagerðargjalds.
+
+Sveitarfélagi ber að endurgreiða gatnagerðargjald innan [90 daga]<sup>1)</sup> ef lóðarúthlutun er afturkölluð eða ógilt eða lóð er skilað. Sama gildir um gatnagerðargjald sem lagt hefur verið á í tengslum við samþykkt byggingarleyfis, sbr. b-lið 2. mgr. 3. gr., en í þeim tilvikum skal endurgreiða gatnagerðargjaldið innan [90 daga]<sup>1)</sup> frá því að byggingarleyfishafi hefur sannanlega krafist greiðslu. …<sup>1)</sup> Við greiðsludrátt reiknast dráttarvextir á fjárhæðina samkvæmt ákvæðum [laga nr. 38/2001](../2001/2001-38-vexti-og-verdtryggingu.md), um vexti og verðtryggingu, frá gjalddaga.
+
+> <sup>1)</sup>[L. 6/2009, 2. gr.](https://www.althingi.is/altext/stjt/2009.006.html)
+
+## 10. gr. Um ráðstöfun gatnagerðargjalds.
+
+Sveitarstjórn skal verja gatnagerðargjaldi til gatnagerðar í sveitarfélaginu og til viðhalds gatna og annarra gatnamannvirkja. Ráðstöfun til viðhalds er óháð eignarhaldi gatna.
+
+Um skyldu sveitarstjórnar til gatnagerðar og viðhalds gatna fer eftir ákvæðum skipulags- og [byggingarlaga, nr. 73/1997](https://www.althingi.is/lagas/nuna/1997073.html).
+
+## 11. gr. Kæruheimild.
+
+Aðili máls getur skotið ákvörðun sveitarstjórnar samkvæmt lögum þessum til úrskurðar [ráðherra er fer með sveitarstjórnarmál].<sup>1)</sup> Kærufrestur er þrír mánuðir frá því að aðili fékk vitneskju um ákvörðunina. Kæruheimild þessi skerðir þó eigi rétt aðila til að höfða mál fyrir dómstólum.
+
+Komist ráðherra að þeirri niðurstöðu að ákvörðun sveitarfélags hafi ekki verið í samræmi við lög getur hann ógilt ákvörðunina og eftir atvikum lagt fyrir sveitarstjórn að taka nýja ákvörðun.
+
+> <sup>1)</sup>[L. 126/2011, 443. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+## 12. gr. Samþykkt sveitarfélags um gatnagerðargjald og birting hennar.
+
+Sveitarstjórn skal setja samþykkt um gatnagerðargjald fyrir sveitarfélagið þar sem eftir atvikum er kveðið á um álagningu gjaldsins, undanþágur frá því og afslætti, gjalddaga og eindaga gjaldsins, greiðslufyrirkomulag og annað er varðar innheimtu þess.
+
+Samþykktina skal birta í B-deild Stjórnartíðinda.
+
+## 13. gr. Gildistaka og lagaskil.
+
+Lög þessi taka gildi 1. júlí 2007 að frátöldum 1. tölul. ákvæðis til bráðabirgða sem tekur gildi 1. janúar 2007. […](https://www.althingi.is/altext/stjt/2006.153.html)
+
+Um álagningu og innheimtu gatnagerðargjalds sem gjaldfallið er í tíð eldri laga fer samkvæmt þeim lögum.
+
+## Ákvæði til bráðabirgða.
+
+1\. Þrátt fyrir ákvæði 2. málsl. 1. mgr. 13. gr. skal 1. tölul. ákvæðis til bráðabirgða við [lög um gatnagerðargjald, nr. 17/1996](https://www.althingi.is/lagas/nuna/1996017.html), gilda um innheimtu og álagningu gatnagerðargjalda vegna framkvæmda á grundvelli [3](https://www.althingi.is/altext/stjtnr.html#1974051?g3). og [4. gr. laga nr. 51/1974](https://www.althingi.is/lagas/nuna/1974051.html), um gatnagerðargjöld, sem lokið er við fyrir [31. desember 2017].<sup>1)</sup> Ákvæði þetta gildir aðeins um lóðir sem úthlutað var eða veitt var byggingarleyfi á fyrir 1. janúar 1997.
+
+2\. Samningar um gatnagerðargjald af tilteknum lóðum, sem lóðarhafar eða lóðareigendur hafa gert við sveitarstjórnir, svo og skilmálar varðandi gatnagerðargjald sem sveitarstjórn hefur sett og lóðarhafi eða lóðareigandi hefur undirgengist, halda gildi sínu þrátt fyrir ákvæði laga þessara, nema aðilar séu um annað sáttir.
+
+[3. Endurgreiðsla gatnagerðargjalda vegna lóða sem úthlutað var eða byggingarleyfi var veitt á fyrir gildistöku laga þessara skal verðbætt miðað við vísitölu neysluverðs frá greiðsludegi til endurgreiðsludags.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 127/2015, 1. gr.](https://www.althingi.is/altext/stjt/2015.127.html) <sup>2)</sup>[L. 6/2009, 4. gr.](https://www.althingi.is/altext/stjt/2009.006.html)

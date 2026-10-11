@@ -1,0 +1,118 @@
+---
+title: "Lög um happdrætti"
+identifier: "38/2005"
+lagasafn_id: "2005038"
+type: act
+jurisdiction: is
+language: is
+date: 2005-05-13
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+source: "https://www.althingi.is/lagas/158a/2005038.html"
+retrieved: 2026-10-12
+---
+
+# Lög um happdrætti
+
+**2005 nr. 38 13. maí**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=131&mnr=675) [*Frumvarp til laga.*](https://www.althingi.is/altext/131/s/1028.html)
+
+**Tóku gildi 1. júlí 2005.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **dómsmálaráðherra** eða **dómsmálaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 143/2006](https://www.althingi.is/altext/stjt/2006.143.html) (tóku gildi 1. jan. 2007).
+- [L. 61/2010](https://www.althingi.is/altext/stjt/2010.061.html) (tóku gildi 19. júní 2010).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+
+## 1. gr. Gildissvið.
+
+Lög þessi gilda um hvers konar happdrætti með þátttöku almennings, með eða án framlags, þar sem vinningur er valinn að nokkru eða öllu leyti með tilviljunarkenndum hætti eða vinningur ræðst af úrslitum keppni eða atburðar. Lögin gilda enn fremur um happdrætti sem rekin eru í atvinnuskyni þótt þau séu ekki opin almenningi.
+
+Ráðherra mælir nánar fyrir um skilgreiningu, gerðir og flokka happdrætta í reglugerð.
+
+## 2. gr. Starfræksla happdrætta.
+
+[Til þess að halda uppi allsherjarreglu og hamla gegn skaðlegum áhrifum á almenning er óheimilt að reka happdrætti nema með leyfi sýslumanns eða öðruvísi sé mælt fyrir um í lögum þessum. Ráðherra er heimilt að ákveða að leyfisveitingar verði á hendi eins sýslumanns. Happdrættisleyfið skal bundið nánari skilyrðum í samræmi við lög þessi og reglugerðir settar samkvæmt þeim. Þá eru hlutaveltur óheimilar nema með leyfi sýslumanns.]<sup>1)</sup>
+
+Happdrætti þar sem spilað er um peninga eða peningaígildi er óheimilt að reka nema samkvæmt sérstakri lagaheimild. Skal í lögunum kveðið á um fyrirkomulag happdrættis, gjöld, rekstrarskilyrði og rekstrarform. Um happdrætti samkvæmt þessari málsgrein skulu að öðru leyti gilda ákvæði 1. mgr. 3. gr., 1. mgr. 5. gr., 6. gr. og 9.–11. gr.
+
+[Ákvarðanir sýslumanns um leyfi samkvæmt lögum þessum eru kæranlegar til [ráðuneytisins].<sup>2)</sup>]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 143/2006, 25. gr.](https://www.althingi.is/altext/stjt/2006.143.html) <sup>2)</sup>[L. 126/2011, 399. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+## 3. gr. Leyfisveiting.
+
+Leyfi til að reka happdrætti eða hlutaveltu, sbr. 1. mgr. 2. gr., má einungis veita félagi, samtökum eða stofnun sem hefur staðfestu á Evrópska efnahagssvæðinu, í þeim tilgangi að afla fjár til almannaheilla hér á landi, svo sem til þjóðfélags-, líknar-, menningar-, íþrótta- eða góðgerðarmála, svo og til alþjóðlegs mannúðarstarfs. Óheimilt er að veita leyfi til aðila er hyggjast reka happdrætti í öðru skyni.
+
+Leyfi fyrir happdrætti má eigi veita sama aðila oftar en þrisvar sinnum á hverju almanaksári.
+
+Ráðherra getur ákveðið með reglugerð að sýslumenn annist leyfisveitingar fyrir minni háttar happdrættum þar sem heildarfjárhæð vinninga fer eigi fram úr nánar tilteknum fjárhæðarmörkum. Þá getur ráðherra heimilað með reglugerð að sýslumenn veiti leyfi fyrir staðbundnum veðmálahappdrættum.
+
+## 4. gr. Undanþága frá leyfisskyldu.
+
+Ráðherra getur undanþegið leyfisskyldu minni háttar happdrætti sem félag eða hópur efnir til í skemmtana- eða fjáröflunarskyni. Skal þá miðað við að vinningar séu vara eða þjónusta. Ráðherra kveður nánar á um framkvæmd þeirra í reglugerð.
+
+## 5. gr. Skilyrði leyfisveitingar.
+
+Happdrættisleyfi er heimilt að binda því skilyrði að leyfishafi leggi fé af mörkum til rannsókna og aðgerða sem miða að því að sporna við spilafíkn og afleiðingum hennar.
+
+Happdrættisleyfi skal að jafnaði bundið því skilyrði að ekki megi draga oftar en einu sinni í happdrættinu. Skal sölutímabil happdrættisins að hámarki vera þrír mánuðir frá þeim degi sem tiltekinn er í happdrættisleyfi. Ráðherra kveður nánar á um fyrirkomulag útdráttar í reglugerð.
+
+## 6. gr. Lágmarksaldur.
+
+[Sýslumaður]<sup>1)</sup> getur við leyfisveitingu kveðið á um lágmarksaldur þeirra sem taka mega þátt í happdrætti en skal hann þó eigi vera lægri en 18 ár.
+
+> <sup>1)</sup>[L. 143/2006, 26. gr.](https://www.althingi.is/altext/stjt/2006.143.html)
+
+## 7. gr. Verðmæti vinninga.
+
+Í reglugerð skal kveðið á um hlutfall verðmætis vinninga af heildarsöluverði útgefinna miða í hverjum einstökum happdrættisflokki. Skal hlutfallið þó vera að lágmarki 16,67%.
+
+## 8. gr. Leyfisgjald.
+
+Fyrir happdrættisleyfi skal greiða leyfisgjald í samræmi við ákvæði laga um aukatekjur ríkissjóðs.
+
+## 9. gr. Skyldur leyfishafa.
+
+Leyfishafi happdrættis skal sjá til þess að skilyrðum laga þessara og reglugerða sem settar eru samkvæmt þeim sé framfylgt. Skal hann skila skýrslum eða reikningum um rekstur sinn samkvæmt nánari ákvörðun ráðherra.
+
+## 10. gr. Eftirlit.
+
+[Eftirlit með framkvæmd laga þessara er í höndum sýslumanns. Þó skal [ráðuneytið]<sup>1)</sup> fara með eftirlit með happdrættum skv. 2. mgr. 2. gr. Nú er stofnað til sérstaks kostnaðar vegna eftirlitsins með þátttöku sérfróðra manna til að fara yfir skýrslur eða reikninga leyfishafa, sbr. 9. gr., til að fara yfir hugbúnað eða tækjakost leyfishafa eða athuga sérstaklega hvort skilyrðum laga þessara sé fullnægt, og er þá heimilt að krefja viðkomandi leyfishafa um greiðslu á kostnaði sem stofnað er til í þessu skyni.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 179. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 143/2006, 27. gr.](https://www.althingi.is/altext/stjt/2006.143.html)
+
+## 11. gr. Refsingar.
+
+Það varðar sektum eða fangelsi allt að sex mánuðum, nema þyngri refsing liggi við samkvæmt öðrum lögum, ef maður
+
+a. af ásetningi eða stórfelldu gáleysi rekur happdrættis- eða veðmálastarfsemi hér á landi án þess að hafa til þess happdrættisleyfi samkvæmt lögum þessum,
+
+b. af ásetningi eða stórfelldu gáleysi auglýsir, kynnir eða miðlar hvers konar upplýsingum um happdrætti sem ekki hefur verið veitt leyfi fyrir samkvæmt lögum þessum eða uppfyllir ekki skilyrði laganna, [óháð því hvort starfsemi þess er rekin hérlendis eða erlendis].<sup>1)</sup>
+
+Nú er brotastarfsemi sem fellur undir 1. mgr. umfangsmikil eða ítrekuð og getur hún þá varðað fangelsi allt að einu ári.
+
+Það varðar sektum ef maður af ásetningi eða stórfelldu gáleysi
+
+a. í atvinnuskyni og án heimildar happdrættisleyfishafa auglýsir, kynnir, miðlar eða stuðlar að þátttöku í happdrætti sem rekið er samkvæmt lögum þessum,
+
+b. falbýður án heimildar happdrættisleyfishafa hvers konar happdrættisgögn.
+
+Nú er brot framið í starfsemi lögaðila og má þá gera lögaðilanum fésekt skv. II. kafla A almennra hegningarlaga.
+
+> <sup>1)</sup>[L. 61/2010, 1. gr.](https://www.althingi.is/altext/stjt/2010.061.html)
+
+## 12. gr. Reglugerð.
+
+Ráðherra getur sett nánari reglur<sup>1)</sup> um framkvæmd laga þessara.
+
+> <sup>1)</sup>[Rg. 530/2006](https://www.reglugerd.is/reglugerdir/allar/nr/530-2006). [Rg. 1124/2006](https://www.reglugerd.is/reglugerdir/allar/nr/1124-2006), sbr. [1152/2014](https://www.reglugerd.is/reglugerdir/allar/nr/1152-2014).
+
+## 13. gr. Gildistökuákvæði og brottfall eldri laga.
+
+Lög þessi öðlast gildi 1. júlí 2005. […](https://www.althingi.is/altext/stjt/2005.038.html)

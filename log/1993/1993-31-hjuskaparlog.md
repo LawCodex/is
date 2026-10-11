@@ -1,0 +1,1300 @@
+---
+title: "Hjúskaparlög"
+identifier: "31/1993"
+lagasafn_id: "1993031"
+type: act
+jurisdiction: is
+language: is
+date: 1993-04-14
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+source: "https://www.althingi.is/lagas/158a/1993031.html"
+retrieved: 2026-10-12
+---
+
+# Hjúskaparlög
+
+**1993 31 14. apríl**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=116&mnr=273) [*Frumvarp til laga.*](https://www.althingi.is/altext/116/s/0369.html)
+
+**Tóku gildi 1. júlí 1993.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **dómsmálaráðherra** eða **dómsmálaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 150/1998](https://www.althingi.is/altext/stjt/1998.150.html) (tóku gildi 30. des. 1998).
+- [L. 65/2001](https://www.althingi.is/altext/stjt/2001.065.html) (tóku gildi 1. okt. 2001).
+- [L. 69/2006](https://www.althingi.is/altext/stjt/2006.069.html) (tóku gildi 30. júní 2006).
+- [L. 143/2006](https://www.althingi.is/altext/stjt/2006.143.html) (tóku gildi 1. jan. 2007).
+- [L. 65/2010](https://www.althingi.is/altext/stjt/2010.065.html) (tóku gildi 27. júní 2010).
+- [L. 77/2010](https://www.althingi.is/altext/stjt/2010.077.html) (tóku gildi 1. júlí 2010).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 6/2013](https://www.althingi.is/altext/stjt/2013.006.html) (tóku gildi 1. jan. 2013, birt í Stjtíð. 13. febr. 2013).
+- [L. 145/2013](https://www.althingi.is/altext/stjt/2013.145.html) (tóku gildi 1. febr. 2014 nema 2.–4. mgr. 24. gr. sem tóku gildi 1. júní 2014).
+- [L. 117/2016](https://www.althingi.is/altext/stjt/2016.117.html) (tóku gildi 1. jan. 2018, nema 52., 53., 75., 76. og 79.–81. gr. sem tóku gildi 28. okt. 2016).
+- [L. 80/2018](https://www.althingi.is/altext/stjt/2018.080.html) (tóku gildi 1. jan. 2019 nema 3. mgr. 2. gr. og 7. gr. sem tóku gildi 1. jan. 2020 og brbákv. I sem tók gildi 28. júní 2018).
+- [L. 153/2020](https://www.althingi.is/altext/stjt/2020.153.html) (tóku gildi 6. jan. 2021).
+- [L. 28/2021](https://www.althingi.is/altext/stjt/2021.028.html) (tóku gildi 1. jan. 2022 nema b-liður 31. gr. sem tók gildi 30. apríl 2021).
+- [L. 40/2022](https://www.althingi.is/altext/stjt/2022.040.html) (tóku gildi 7. júlí 2022 nema 4. og 5. gr. sem tóku gildi 1. sept. 2022).
+- [L. 71/2022](https://www.althingi.is/altext/stjt/2022.071.html) (tóku gildi 1. júlí 2023).
+
+## I. kafli. Efnissvið laganna og almenn ákvæði.
+
+### A. Gildissvið laganna.
+
+#### 1. gr.
+
+Lög þessi gilda um hjúskap [tveggja einstaklinga].<sup>1)</sup> Þau taka ekki til óvígðrar sambúðar.
+
+> <sup>1)</sup>[L. 65/2010, 1. gr.](https://www.althingi.is/altext/stjt/2010.065.html)
+
+### B. Jafnstaða hjóna.
+
+#### 2. gr.
+
+Hjón eru í hvívetna jafnrétthá í hjúskap sínum og bera jafnar skyldur hvort gagnvart öðru og börnum sínum. Þeim ber að sýna hvort öðru trúmennsku, styðja hvort annað og gæta sameiginlega hagsmuna heimilisins og fjölskyldu.
+
+Hjón eiga í sameiningu að annast uppeldi barna sinna, sjá þeim farborða og hjálpast að við að framfæra fjölskylduna með fjárframlögum, vinnu á heimili og á annan hátt.
+
+### C. Verkefnaskipting og upplýsingar um efnahag.
+
+#### 3. gr.
+
+Hjón skulu skipta milli sín verkefnum á heimili eftir föngum, svo og útgjöldum vegna heimilisrekstrar og framfærslu fjölskyldu.
+
+Hjónum er skylt að veita hvort öðru upplýsingar um efnahag sinn og afkomu.
+
+### D. Forræði eigna og skuldaábyrgð.
+
+#### 4. gr.
+
+Hvort hjóna ræður yfir eign sinni og svarar til skulda sinna eftir því sem nánar er fyrir mælt í lögum.
+
+### E. Lok hjúskapar.
+
+#### 5. gr.
+
+Hjúskap lýkur við andlát maka, vegna ógildingar hjúskapar eða lögskilnaðar.
+
+### F. Fjárskipti vegna fjárslita milli hjóna.
+
+#### 6. gr.
+
+Nú skilja hjón að borði og sæng eða skilja lögskilnaði eða annað þeirra andast. Skal skírri hjúskapareign hvors um sig þá skipt til helminga, svo sem nánar segir í lögum þessum. Hjón geta samið um fjárskipti sín vegna skilnaðar að borði og sæng og lögskilnaðar, en ella getur annað þeirra eða þau bæði krafist opinberra skipta til fjárslita milli þeirra.
+
+Um fjárskipti vegna ógildingar hjúskapar segir í 30. gr. og um fjárskipti vegna fjárslita án hjúskaparloka í XIII. kafla.
+
+## II. kafli. Hjónavígsluskilyrði.
+
+### A. Aldur hjónaefna.
+
+#### 7. gr.
+
+[Tveir einstaklingar mega stofna til hjúskapar þegar þeir hafa náð 18 ára aldri.]<sup>1)</sup> …<sup>2)</sup>
+
+> <sup>1)</sup>[L. 65/2010, 2. gr.](https://www.althingi.is/altext/stjt/2010.065.html) <sup>2)</sup>[L. 40/2022, 1. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+### B. Hjónaefni er lögræðissvipt.
+
+#### 8. gr.
+
+Nú er [einstaklingur]<sup>1)</sup> sviptur lögræði og getur hann þá eigi stofnað til hjúskapar án samþykkis lögráðamanns síns. Bera má synjun um samþykki undir [sýslumann]<sup>2)</sup> sem leyft getur hjónavígsluna ef ekki þykir gild ástæða til synjunar.
+
+> <sup>1)</sup>[L. 65/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.065.html) <sup>2)</sup>[L. 40/2022, 2. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+### C. Skyldleiki hjónaefna.
+
+#### 9. gr.
+
+Hvorki má vígja skyldmenni í beinan legg né systkin.
+
+### D. Ættleiðing.
+
+#### 10. gr.
+
+Kjörforeldri og kjörbarn mega ekki giftast hvort öðru nema ættleiðing sé niður felld.
+
+### E. Tvíkvæni.
+
+#### 11. gr.
+
+Eigi má vígja [þann]<sup>1)</sup> sem er í hjúskap.
+
+> <sup>1)</sup>[L. 65/2010, 4. gr.](https://www.althingi.is/altext/stjt/2010.065.html)
+
+### F. Fjárskipti milli hjónaefnis og fyrri maka.
+
+#### 12. gr.
+
+Nú hefur hjónaefni verið í hjúskap og má þá eigi vígja það nema opinber skipti séu hafin eða einkaskiptum lokið vegna fjárskipta hjónaefnis og fyrri maka. Þetta gildir þó ekki ef fullkomin séreignaskipan hefur verið á fjármálum hjóna. [Sýslumaður]<sup>1)</sup> getur leyst undan þessu skilyrði ef sérstaklega stendur á.
+
+> <sup>1)</sup>[L. 40/2022, 3. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+## III. kafli. Könnun á hjónavígsluskilyrðum.
+
+### A. Að hverju könnun lúti.
+
+#### 13. gr.
+
+Áður en hjónavígsla fer fram skulu hjónaefni leggja fram vottorð þess efnis að könnun hafi átt sér stað á hjónavígsluskilyrðum samkvæmt því sem segir í II. kafla og að lög tálmi ekki ráðahagnum.
+
+[Hjónaefni skulu lýsa því yfir, með skriflegri yfirlýsingu eða á rafrænu eyðublaði undirrituðu með fullgildum rafrænum skilríkjum, að viðlögðum drengskap, að þau viti ekki um tálma á fyrirhuguðum hjúskap sínum. Könnunarmaður krefur hjónaefni til tryggingar um vottorð tveggja áreiðanlegra svaramanna er báðir ábyrgjast að enginn lagatálmi sé á fyrirhuguðum hjúskap. Sýslumaður getur leyft ef sérstaklega stendur á að vikið sé frá þessu, þar á meðal að aðeins einn svaramaður undirriti vottorð.
+
+Ráðherra setur reglugerð<sup>1)</sup> um könnun á hjónavígsluskilyrðum, þar á meðal um þau skilríki sem krefja skal hjónaefni um við gæslu þessara skilyrða, svo sem gögn til staðfestingar á fæðingu, hjúskaparstöðu og um lok fyrri hjúskapar frá þar til bæru yfirvaldi. Könnunarmanni er heimilt að afla framangreindra upplýsinga eða gagna hjá Þjóðskrá Íslands, sýslumönnum og dómstólum með rafrænum hætti. Framangreindum aðilum ber að veita könnunarmanni rafrænan aðgang að umbeðnum upplýsingum eða gögnum búi þeir yfir þeim.
+
+Afli könnunarmaður nauðsynlegra upplýsinga eða gagna við könnun hjónavígsluskilyrða skv. 2. málsl. 3. mgr. ber honum að upplýsa hjónaefni um fyrirhugaða upplýsingaöflun í samræmi við 2. mgr. 17. gr. laga um persónuvernd og vinnslu persónuupplýsinga.]<sup>2)</sup>
+
+> <sup>1)</sup>[Rg. 55/2013](https://www.reglugerd.is/reglugerdir/allar/nr/055-2013), sbr. [662/2020](https://www.reglugerd.is/reglugerdir/allar/nr/662-2020) og [987/2022](https://www.reglugerd.is/reglugerdir/allar/nr/987-2022). <sup>2)</sup>[L. 40/2022, 4. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+### B. Hverjir annast könnun. Synjun um útgáfu könnunarvottorðs.
+
+#### 14. gr.
+
+[Sýslumenn og löglærðir fulltrúar þeirra annast könnun á hjónavígsluskilyrðum. Fer könnunin fram í lögsagnarumdæmi þar sem annað hjónaefna á lögheimili. Nú á hvorugt lögheimili hér á landi og fer könnun þá fram í umdæmi þar sem annað þeirra dvelst. Heimilt er að taka gjald fyrir útgáfu könnunarvottorðs.]<sup>1)</sup>
+
+[Nú eiga ákvæði [9.–11. gr. laga um lögheimili og aðsetur]<sup>2)</sup> við um hagi hjónaefnis og telst það þá ekki hafa glatað lögheimili hér á landi þótt það hafi tilkynnt flutning samkvæmt Norðurlandasamningi um almannaskráningu.]<sup>3)</sup>
+
+Nú synjar [könnunarmaður]<sup>3)</sup> um útgáfu könnunarvottorðs og getur hvort hjónaefni um sig þá skotið úrlausn hans til [ráðuneytisins],<sup>4)</sup> sbr. 132. gr. Ef ráðuneytið fellst á sjónarmið aðila fellir það synjun [könnunarmanns]<sup>3)</sup> úr gildi og er hjónavígsla þá heimil á grundvelli úrlausnar þess.
+
+> <sup>1)</sup>[L. 40/2022, 5. gr.](https://www.althingi.is/altext/stjt/2022.040.html) <sup>2)</sup>[L. 80/2018, 20. gr.](https://www.althingi.is/altext/stjt/2018.080.html#G20) <sup>3)</sup>[L. 65/2001, 2. gr.](https://www.althingi.is/altext/stjt/2001.065.html) <sup>4)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### C. Könnunarvottorð er forsenda hjónavígslu. Heimild til að víkja frá því ef hjónaefni er alvarlega sjúkt.
+
+#### 15. gr.
+
+Hjónavígsla má ekki fara fram nema fyrir liggi vottorð löggilds [könnunarmanns]<sup>1)</sup> um að enginn lagatálmi sé á fyrirhuguðum hjúskap. Vottorð þetta má þó ekki vera meira en [30 daga]<sup>1)</sup> gamalt.
+
+Nú er annað hjónaefna eða bæði alvarlega sjúk og má hjónavígsla þá fara fram þótt sérstök könnun hjónavígsluskilyrða hafi ekki átt sér stað.
+
+Nú er vígslumanni kunnugt um hjúskapartálma og má hann þá eigi vígja hjónaefni þótt fullgildu könnunarvottorði skv. 1. mgr. sé til að dreifa.
+
+> <sup>1)</sup>[L. 65/2001, 3. gr.](https://www.althingi.is/altext/stjt/2001.065.html)
+
+## IV. kafli. Hjónavígsla.
+
+### A. Vígslumenn.
+
+### 1. Almennt.
+
+#### 16. gr.
+
+Stofna má til hjúskapar fyrir presti, forstöðumanni skráðs trúfélags [eða lífsskoðunarfélags eða fyrir einstaklingi sem starfar í umboði forstöðumanns skráðs trúfélags eða lífsskoðunarfélags]<sup>1)</sup> er hefur vígsluheimild, sbr. 17. gr., eða borgaralegum vígslumanni.
+
+> <sup>1)</sup>[L. 6/2013, 14. gr.](https://www.althingi.is/altext/stjt/2013.006.html)
+
+### [2. Prestar og forstöðumenn skráðra trúfélaga og lífsskoðunarfélaga.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 6/2013, 14. gr.](https://www.althingi.is/altext/stjt/2013.006.html)
+
+#### 17. gr.
+
+[Kirkjulega hjónavígslu annast prestar þjóðkirkjunnar og prestar og forstöðumenn skráðra trúfélaga hér á landi. Hjónavígslu, sem er ekki kirkjuleg eða borgaraleg, annast forstöðumenn skráðra trúfélaga og lífsskoðunarfélaga hér á landi. Prestar og forstöðumenn skráðra trúfélaga eða lífsskoðunarfélaga skulu hafa fengið löggildingu [sýslumanns].<sup>1)</sup>
+
+Þá er þeim einstaklingum sem starfa í umboði forstöðumanna skráðra trúfélaga eða lífsskoðunarfélaga og fengið hafa löggildingu [sýslumanns]<sup>1)</sup> og uppfylla skilyrði 7. gr. laga um skráð trúfélög og lífsskoðunarfélög einnig heimilt að annast hjónavígslu.]<sup>2)</sup>
+
+Þjóðkirkjupresti, sem látið hefur af prestsembætti, er rétt að gefa saman hjón, að fenginni heimild tiltekins prests þjóðkirkju er kannað hefur hjónavígsluskilyrði og tekist á hendur ábyrgð á færslu hjónavígslu í kirkjubók og skýrsluskilum í því sambandi.
+
+[Ráðuneytið]<sup>3)</sup> getur löggilt íslenska presta til að framkvæma hjónavígslur erlendis.
+
+> <sup>1)</sup>[L. 145/2013, 26. gr.](https://www.althingi.is/altext/stjt/2013.145.html) <sup>2)</sup>[L. 6/2013, 14. gr.](https://www.althingi.is/altext/stjt/2013.006.html) <sup>3)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### 3. Borgaralegir vígslumenn.
+
+#### 18. gr.
+
+Borgaralega hjónavígslu framkvæma sýslumenn og löglærðir fulltrúar þeirra.
+
+### 4. Hjónavígsluheimild starfsmanna íslenskra sendiráða.
+
+#### 19. gr.
+
+[Ráðuneyti er fer með málefni sendiráða, fastanefnda og ræðisskrifstofa Íslands erlendis]<sup>1)</sup> getur, að höfðu samráði við [ráðuneytið],<sup>2)</sup> sett reglur um heimild starfsmanna í íslenskum sendiráðum, er hafa diplómatíska stöðu, til að framkvæma hjónavígslur erlendis, svo og um vígsluheimild ræðismanna Íslands erlendis með sama fyrirvara.
+
+Ákvæði laga þessara um hjónavígsluskilyrði, könnun þeirra, svo og hjónavígslu, gilda einnig um hjónavígslu skv. 1. mgr., svo og skv. 4. mgr. 17. gr.
+
+> <sup>1)</sup>[L. 126/2011, 174. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### 5. Heimild erlendra vígslumanna til að framkvæma hjónavígslu hér á landi.
+
+#### 20. gr.
+
+Heimilt er að ákveða með samningi við erlent ríki að prestar frá viðkomandi ríki eða útsendir ræðismenn þess hér á landi, er hafa diplómatíska stöðu, geti framkvæmt hjónavígslu hér á landi, enda sé a.m.k. annað hjónaefna ríkisborgari þess ríkis.
+
+### 6. Hæfi vígslumanns.
+
+#### 21. gr.
+
+Skyldleiki (kjörsifjar) eða tengdir vígslumanns við hjónaefni gera hann ekki vanhæfan til að framkvæma könnun á hjónavígsluskilyrðum eða til að gefa saman hjón.
+
+### B. Réttur til hjónavígslu og skylda prests til að framkvæma hjónavígslu.
+
+#### 22. gr.
+
+Hjónaefni eiga rétt á að stofna til hjúskapar fyrir borgaralegum vígslumanni hvort sem þau eiga kröfu á kirkjulegri hjónavígslu eða ekki.
+
+[Ráðuneytið]<sup>1)</sup> getur, að fengnum tillögum biskups, sett reglur um hvenær prestum sé skylt að framkvæma hjónavígslu og nánari reglur um hvenær þeim sé þetta heimilt.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### C. Hvar hjónavígsla fari fram.
+
+#### 23. gr.
+
+Borgaraleg hjónavígsla fer fram á skrifstofu vígslumanns nema vígslumaður og hjónaefni verði á annað sátt.
+
+Kirkjuleg hjónavígsla fer fram í kirkju nema vígslumaður og hjónaefni samþykki annað.
+
+### D. Hjónavígsluathöfnin.
+
+#### 24. gr.
+
+Hjónavígsla skal fara fram í viðurvist tveggja vitna.
+
+Vígslumaður spyr hjónaefni, sem bæði eru viðstödd, hvort fyrir sig hvort þau vilji stofna til hjúskaparins og lýsir þau hjón er þau hafa játað því.
+
+[Ráðuneytið]<sup>1)</sup> setur nánari reglur um framkvæmd borgaralegrar og kirkjulegrar hjónavígslu að höfðu samráði við biskup Íslands og [það ráðuneyti er fer með málefni sendiráða, fastanefnda og ræðisskrifstofa Íslands erlendis].<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 126/2011, 174. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+### E. Gildi hjónavígsluathafnar.
+
+#### 25. gr.
+
+Hjónavígsla er gild ef lögmætur vígslumaður hefur framkvæmt hana, enda hafi hann gætt þeirra reglna sem greinir í 2. mgr. 24. gr.
+
+Nú er hjónavígsla eigi gild skv. 1. mgr. og getur [ráðuneytið]<sup>1)</sup> þá lýst hana gilda ef sérstakar ástæður mæla með því. Á þetta einnig við þótt annað hjóna eða bæði séu látin.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+#### [25. gr. a.
+
+Hjón sem gengið hafa í hjúskap erlendis eiga rétt á að fá hjúskapinn viðurkenndan hér á landi ef hjúskapurinn uppfyllir hjónavígsluskilyrði og reglur um stofnun hjúskapar í vígslulandinu.
+
+Hjúskapur sem stofnað er til erlendis verður þó ekki viðurkenndur hér á landi ef annað hjóna eða bæði voru yngri en 18 ára þegar vígsla fór fram. Þegar sérstaklega stendur á og ótvíræðir hagsmunir þess sem var yngri en 18 ára krefjast þess er þó heimilt að viðurkenna hjúskap hér á landi ef viðkomandi hafði náð 16 ára aldri þegar hjónavígsla fór fram og hjúskapurinn er viðurkenndur í því landi þar sem hjónavígslan fór fram.
+
+Hjúskapur sem að öðru leyti en getið er um í 2. mgr. brýtur í bága við grunnreglur íslenskrar réttarskipunar eða allsherjarreglu verður ekki viðurkenndur hér á landi.
+
+Hjón sem óska viðurkenningar og skráningar á hjónavígslu sem hefur farið fram erlendis skulu beina erindi sínu til Þjóðskrár Íslands. Ef vafi leikur á því hvort uppfyllt eru skilyrði fyrir skráningu hjónavígslunnar skv. 2. og 3. mgr. skal Þjóðskrá Íslands beina málinu til sýslumanns sem úrskurðar um skráningu hjónavígslu. Bera má synjun sýslumanns undir ráðuneytið. Sýslumaður tilkynnir Þjóðskrá Íslands um niðurstöðu málsins.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 40/2022, 6. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+### F. Færsla embættisbóka o.fl.
+
+#### 26. gr.
+
+Um færslu embættisbóka í sambandi við hjónavígslur og skil á skýrslum um það efni fer eftir þeim lögum og öðrum réttarreglum sem um það efni gilda eða sett kunna að verða. Heimilt er að kveða nánar á um þessi efni í reglugerð er [ráðuneytið]<sup>1)</sup> setur.
+
+[Nú annast einstaklingur skv. 1.–3. mgr. 17. gr. hjónavígslu og gilda þá framangreindar reglur um þá vígslu, en heimilt er að öðru leyti að viðhafa þá helgisiði eða framgöngu er reglur eða venjur trúfélags eða lífsskoðunarfélags segja til um.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 145/2013, 26. gr.](https://www.althingi.is/altext/stjt/2013.145.html)
+
+## V. kafli. Ógilding hjúskapar.
+
+### A. Hvenær hjúskapur verði ógiltur.
+
+#### 27. gr.
+
+Nú brýtur hjúskapur í bága við ákvæði 9. eða 11. gr. og skal þá ógilda hann með dómi, sbr. 116. gr. Ef hjúskapur gengur í berhögg við ákvæði 11. gr. er ekki unnt að ógilda hann ef fyrra hjúskap er lokið áður en mál er höfðað.
+
+#### 28. gr.
+
+Annað hjóna getur krafist ógildingar hjúskapar síns:
+
+1\. Hafi það verið viti sínu fjær þegar vígsla fór fram eða að öðru leyti svo ástatt um það að það mátti þá eigi skuldbinda sig til hjúskapar að lögum.
+
+2\. Hafi það af vangá látið vígja sig öðrum en þeim sem það hafði bundist hjúskaparorði eða hafi það verið vígt án þess að það ætlaðist til þess.
+
+3\. Hafi [maki þess]<sup>1)</sup> komið því til að eiga sig með því að villa vísvitandi á sér heimildir eða leyna atvikum úr lífi sínu er mundu hafa fælt hitt frá hjúskapnum ef vitað hefði.
+
+4\. Hafi það verið neytt til vígslunnar.
+
+Mál til ógildingar verður ekki höfðað eftir að sex mánuðir eru liðnir frá því að ástandi því lauk sem lýst er í 1. lið, frá því að sóknaraðili komst að raun um ógildingarástæðu skv. 2. eða 3. lið eða frá því að nauðung létti skv. 4. lið. Hvernig sem á stendur verður ógildingarmál ekki höfðað eftir að liðin eru þrjú ár frá hjónavígslu.
+
+> <sup>1)</sup>[L. 153/2020, 12. gr.](https://www.althingi.is/altext/stjt/2020.153.html)
+
+### B. Réttaráhrif ógildingar.
+
+#### 29. gr.
+
+Ógilding hjúskapar hefur sömu áhrif að lögum og lögskilnaður nema lög greini annað.
+
+### C. Fjárskipti vegna ógildingar.
+
+#### 30. gr.
+
+Við skipti vegna ógildingar hjúskapar tekur hvort hjóna að óskiptu verðmæti úr hjúskapareign sem svarar til þess er það átti er til hjúskapar var stofnað og til þess sem síðar hefur bæst því vegna gjafar eða arfs og enn fremur virði þess sem það hefur flutt frá séreign sinni til hjúskapareignar sinnar. Nú hrökkva eigur hjóna ekki til að fullnægja kröfum hvors um sig og ber þá að lækka þær að tiltölu. Nú hefur annað hjóna gefið hinu eitthvað til séreignar og er þá sú gjöf afturtæk.
+
+### D. Andlát maka áður en hjúskapur, sem ógildanlegur er, hefur verið ógiltur.
+
+#### 31. gr.
+
+Nú deyr annað hjóna áður en hjónaband, sem ógildanlegt er skv. 27. gr., sætir ógildingu og getur þá hitt, eða erfingjar hins látna, krafist þess að sérreglum um fjárskipti vegna ógildingar verði beitt.
+
+Sama rétt á það hjóna sem gat höfðað mál skv. 28. gr. þegar hitt hjóna andast áður en ógilding hefur átt sér stað, enda séu málshöfðunarfrestir ekki liðnir. Nú er ógildingarmál höfðað og maki andast eftir það og er þá erfingum hans heimilt að krefjast þess að sérreglum um fjárskipti vegna ógildingar verði beitt.
+
+Kröfu skv. 1. og 2. mgr. ber að hafa uppi innan sex mánaða frá andláti.
+
+#### 32. gr.
+
+Nú andast það hjóna sem stofnað hefur til hjúskapar andstætt ákvæði 11. gr. áður en hjúskapur sætir ógildingu og skal þá líta svo á að réttur gagnvart þriðja manni til bóta, lífeyris og eftirlauna eða annars verðmætis, sem því hjóna er lifir er ætlað, beri eftirlifandi maka úr þeim hjúskap sem tvíkvænishjúskapur braut í bága við nema annað sé ljóst af atvikum.
+
+## VI. kafli. Hjónaskilnaðir.
+
+### A. Skilnaður að borði og sæng.
+
+### 1. Samkomulag hjóna um að leita skilnaðar að borði og sæng.
+
+#### 33. gr.
+
+Nú eru hjón sammála um að leita skilnaðar að borði og sæng og ber þá að veita þeim leyfi til slíks skilnaðar.
+
+### 2. Annað hjóna krefst skilnaðar að borði og sæng.
+
+#### 34. gr.
+
+[Maki sem telur sig ekki geta haldið áfram hjúskap getur leitað skilnaðar að borði og sæng og ber að veita honum leyfi til slíks skilnaðar.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 71/2022, 1. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+### 3. Réttaráhrif skilnaðar að borði og sæng falla niður.
+
+#### 35. gr.
+
+[Réttaráhrif skilnaðar að borði og sæng falla niður ef beiðni þess efnis berst sýslumanni frá báðum hjóna.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 71/2022, 2. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+### B. Lögskilnaður.
+
+### 1. Að undangengnum skilnaði að borði og sæng.
+
+#### 36. gr.
+
+Nú eru hjón á einu máli um að leita lögskilnaðar og er hann þá kræfur er liðnir eru sex mánuðir frá því að leyfi var gefið út til skilnaðar að borði og sæng eða dómur gekk, sbr. þó 35. gr.
+
+Hvor maki um sig á rétt á lögskilnaði eftir að [sex mánuðir eru liðnir]<sup>1)</sup> frá því að leyfi var veitt til skilnaðar að borði og sæng eða dómur gekk, sbr. þó 35. gr.
+
+> <sup>1)</sup>[L. 71/2022, 3. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+### 2. Samvistaslit hjóna.
+
+#### 37. gr.
+
+Nú hafa hjón slitið samvistir vegna ósamlyndis og getur þá hvort þeirra krafist lögskilnaðar þegar samvistaslit hafa staðið í [eitt]<sup>1)</sup> ár hið skemmsta.
+
+> <sup>1)</sup>[L. 71/2022, 4. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+### 3. Tvíkvæni.
+
+#### 38. gr.
+
+Nú hefur annað hjóna stofnað til hjúskapar andstætt ákvæðum 11. gr. og getur þá hitt krafist lögskilnaðar á hjúskap sínum er tvíkvænishjúskapur gengur í berhögg við.
+
+### 4. Hjúskaparbrot.
+
+#### 39. gr.
+
+Nú fremur annað hjóna hjúskaparbrot eða sýnir af sér atferli sem jafna má til þess og getur þá hitt krafist lögskilnaðar nema það hafi samþykkt brotið eða stutt að framgangi þess eða fallið frá því að hafa uppi lögskilnaðarkröfu af þessu tilefni.
+
+Lögskilnaðar verður ekki krafist skv. 1. mgr. vegna háttsemi sem á sér stað eftir skilnað að borði og sæng.
+
+[Höfða skal mál eða setja fram kröfu um leyfi til lögskilnaðar innan tveggja ára frá því að háttsemi átti sér stað eða frá því að maka varð kunnugt um hana.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 71/2022, 5. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+### [5. Heimilisofbeldi.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 71/2022, 6. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+#### 40. gr.
+
+[Þrátt fyrir ákvæði 36. gr. getur annað hjóna krafist lögskilnaðar án undangengins skilnaðar að borði og sæng hafi makinn beitt það, eða barn sem býr hjá þeim, ofbeldi.
+
+Veita skal leyfi til skilnaðar á grundvelli ákvæðisins ef:
+
+a. maki gengst við broti sínu eða hefur hlotið dóm fyrir það,
+
+b. fyrir liggja upplýsingar frá lögreglu sem staðfesta útkall lögreglu vegna heimilisofbeldis,
+
+c. önnur gögn á borð við áverkavottorð eða mat sálfræðings benda til þess að það hjóna er krefst skilnaðar, eða barn sem býr hjá þeim, hafi mátt þola ofbeldi af hálfu makans, eða
+
+d. heildarmat á aðstæðum og upplýsingum gefur af öðrum ástæðum tilefni til þess að ætla að það hjóna er krefst skilnaðar, eða barn sem býr hjá þeim, hafi mátt þola ofbeldi af hálfu hins.
+
+Mál samkvæmt ákvæðum þessarar greinar fyrir dómstólum skulu sæta flýtimeðferð í samræmi við ákvæði XIX. kafla laga um meðferð einkamála.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 71/2022, 6. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+### C. Úrlausn um kröfu til skilnaðar.
+
+#### 41. gr.
+
+Leyfi til skilnaðar að borði og sæng skv. 33. gr. og lögskilnaðar skv. 1. mgr. 36. gr. [og a-lið 2. mgr. 40. gr.]<sup>1)</sup> veita sýslumenn og löglærðir fulltrúar þeirra.
+
+Skilnaðar samkvæmt öðrum ákvæðum má leita hjá sýslumönnum ef hjón eru sammála um það, en ella hjá dómstólum.
+
+Nú synjar sýslumaður um leyfi til skilnaðar og getur aðili þá skotið synjuninni til [ráðuneytisins],<sup>2)</sup> sbr. 132. gr. Synjun er ekki því til fyrirstöðu að skilnaðar sé leitað fyrir dómstólum.
+
+> <sup>1)</sup>[L. 71/2022, 7. gr.](https://www.althingi.is/altext/stjt/2022.071.html) <sup>2)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### D. Sáttaumleitan.
+
+#### 42. gr.
+
+Hjón, sem ákveðið hafa að leita skilnaðar, eiga þess ávallt kost að leitað sé um sættir með þeim samkvæmt þessari grein.
+
+Skylt er að leita um sættir með hjónum sem eiga ósjálfráða barn, annað eða bæði, er þau hafa forsjá fyrir. Þetta á þó ekki við ef hjón krefjast sameiginlega lögskilnaðar að undangengnum skilnaði að borði og sæng, sbr. 1. mgr. 36. gr., [eða þegar skilnaðar er krafist á grundvelli a-liðar 2. mgr. 40. gr.]<sup>1)</sup>
+
+Í sáttatilraun felst að kanna skal grundvöll að framhaldi hjúskaparins.
+
+[Sýslumaður eða dómari leitar um sættir eftir því hvar mál er til meðferðar. Heimilt er að fela presti eða löggiltum forstöðumanni trúfélags eða lífsskoðunarfélags eða einstaklingi sem starfar í umboði forstöðumanns skráðs trúfélags eða lífsskoðunarfélags og hefur fengið löggildingu ráðuneytisins að leita um sættir ef hjón eru sammála um að óska þess.]<sup>1)</sup>
+
+Þeir sem leita um sættir samkvæmt þessu ákvæði skulu gæta trúnaðar um einkahagi sem þeir öðlast vitneskju um í sáttastarfi sínu.
+
+Sáttatilraun prests eða löggilts forstöðumanns trúfélags [eða lífsskoðunarfélags eða einstaklinga sem starfa í umboði forstöðumanns skráðs trúfélags eða lífsskoðunarfélags og fengið hafa löggildingu ráðuneytisins]<sup>2)</sup> skal að jafnaði hafa farið fram á síðustu sex mánuðum áður en mál er höfðað eða sett fram krafa um skilnað að borði og sæng eða lögskilnað fyrir sýslumanni, en í síðasta lagi áður en skilnaður er veittur.
+
+Nú sækir annað hjóna ekki sáttafund þótt það hafi fengið kvaðningu tvívegis og er þá nægilegt að reyna sættir með hinu. Um lögmæt forföll hjóna frá sáttafundi fer skv. 1. mgr. a- til e-liða [97. gr. laga um meðferð einkamála, 91/1991](../1991/1991-91-medferd-einkamala.md). Nú eru hjón búsett hvort í sínum landshluta og er þá heimilt að reyna sættir með þeim hvoru í sínu lagi. Nú býr annað hjóna erlendis og þarf þá ekki að reyna sættir að því er það varðar.
+
+[Heimilt er að reyna sættir með hjónum hvoru í sínu lagi komi fram ósk um það.]<sup>1)</sup>
+
+[Ráðuneytið]<sup>3)</sup> getur ákveðið í reglugerð að sáttaumleitan í stofnun um fjölskylduráðgjöf geti komið í stað sáttaumleitunar samkvæmt þessari grein.
+
+> <sup>1)</sup>[L. 71/2022, 8. gr.](https://www.althingi.is/altext/stjt/2022.071.html) <sup>2)</sup>[L. 6/2013, 14. gr.](https://www.althingi.is/altext/stjt/2013.006.html) <sup>3)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### E. Skilnaðarkjör.
+
+#### 43. gr.
+
+[Hjón skulu staðfesta samkomulag um skipan forsjár barna sinna, um framfærslueyri eða lífeyrisgreiðslur sín á milli og um aðra skilnaðarskilmála fyrir sýslumanni eða dómara.]<sup>1)</sup>
+
+Ákvæði 1. málsl. 1. mgr. á ekki við ef óskað er lögskilnaðar á grundvelli skilnaðar að borði og sæng, sbr. 36. gr., með óbreyttum skilnaðarskilmálum.
+
+[Ráðuneytið]<sup>2)</sup> getur sett nánari reglur um umleitun skv. 1. mgr.
+
+> <sup>1)</sup>[L. 71/2022, 9. gr.](https://www.althingi.is/altext/stjt/2022.071.html) <sup>2)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+#### [43. gr. a.
+
+Nú eru hjón sammála um að leita lögskilnaðar og ber þá að veita þeim leyfi til slíks skilnaðar án undanfarandi skilnaðar að borði og sæng komi fram ósk þess efnis frá þeim báðum, enda eigi þau hvorki sameiginlegar eignir né börn undir 18 ára aldri, eða hjón hafa náð samkomulagi um skipan forsjár fyrir börnum, um framfærslueyri og aðra skilnaðarskilmála, sem staðfest hefur verið, sbr. 1. mgr. 43. gr.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 71/2022, 10. gr.](https://www.althingi.is/altext/stjt/2022.071.html)
+
+#### 44. gr.
+
+Forsjá barns og [lögheimili þess]<sup>1)</sup> skal skipa við skilnað að borði og sæng og við lögskilnað í samræmi við ákvæði barnalaga, enn fremur framfærslueyri með maka í samræmi við ákvæði VII. kafla. Áður en skilnaður er veittur skal annað tveggja vera samkomulag milli hjóna um fjárskipti eða opinber skipti hafin vegna fjárslita.
+
+Ágreiningur foreldra um forsjá og [lögheimili barns]<sup>1)</sup> kemur ekki í veg fyrir að skilnaður verði veittur að kröfu annars hjóna, að öðrum skilyrðum fullnægðum.
+
+> <sup>1)</sup>[L. 28/2021, 33. gr.](https://www.althingi.is/altext/stjt/2021.028.html)
+
+### F. Um gildi skilnaðarkjara vegna skilnaðar að borði og sæng.
+
+#### 45. gr.
+
+Þeir skilnaðarskilmálar, sem hjón hafa komið sér saman um eða ákveðnir hafa verið með öðrum hætti í tilefni skilnaðar að borði og sæng, skulu einnig gilda eftir að lögskilnaður er fenginn nema annars hafi verið getið þegar skilnaður að borði og sæng var veittur. Framfærslueyrir með maka eftir lögskilnað kemur þó ekki til greina nema því aðeins að ákvörðun um hann hafi verið tekin skv. 2. mgr. 50. gr.
+
+## VII. kafli. Ábyrgð hjóna á framfærslu fjölskyldu sinnar.
+
+### A. Framfærsluskylda hjóna meðan á hjúskap stendur.
+
+### 1. Sameiginleg ábyrgð hjóna á framfærslu fjölskyldu.
+
+#### 46. gr.
+
+Hjón bera sameiginlega ábyrgð á framfærslu fjölskyldunnar. Til framfærslu telst það sem með sanngirni verður krafist til sameiginlegs heimilishalds og annarra sameiginlegra þarfa, uppeldis og menntunar barna og sérþarfa hvors hjóna. Um framfærsluskyldu gagnvart börnum gilda að öðru leyti ákvæði barnalaga.
+
+Framlag annars maka til sérþarfa hins verður hjúskapareign viðtakanda nema sérstök heimild sé til að telja það séreign.
+
+### 2. Framfærsluframlög.
+
+#### 47. gr.
+
+Framfærsluframlög hjóna eru fólgin í peningagreiðslum, vinnu á heimili eða öðrum stuðningi við fjölskyldu. Framlög skiptast milli hjóna eftir getu þeirra og aðstæðum.
+
+Nú nægja fjárframlög þau, sem annað hjóna á að inna af hendi skv. 1. mgr., ekki til að fullnægja sérþörfum þess og barna eða þörfum heimilisins og á viðkomandi þá kröfu á að hitt láti honum eða henni í té peningafjárhæð sem með þarf, hæfilega upphæð í hvert skipti, miðað við getu og hagi aðila.
+
+### 3. Vanræksla á framfærsluskyldum.
+
+#### 48. gr.
+
+Nú vanrækir annað hjóna framfærsluskyldu sína skv. 46. og 47. gr. og skal þá eftir kröfu hins gera því að greiða hinu fé samkvæmt ákvæðum 47. gr. ef það eftir öllum aðstæðum þykir sanngjarnt.
+
+### 4. Úrlausn sýslumanns um fjárframlög til framfærslu.
+
+#### 49. gr.
+
+Sýslumaður leysir úr kröfum skv. 48. gr., sbr. 46. og 47. gr., og ákveður fjárframlög með úrskurði. Hann getur, ef annað hjóna krefst þess, breytt úrskurði sínum ef aðstæður hafa breyst að mun eða atvik mæla að öðru leyti með því.
+
+Sýslumaður getur enn fremur, ef annað hjóna krefst þess, breytt samningi hjóna um fjárframlög skv. 46. og 47. gr. ef sá samningur er bersýnilega ósanngjarn eða hagir hjóna breyttir að mun.
+
+Fjárframlög skv. 48. gr. er aðeins hægt að ákveða fyrir síðasta árið áður en krafa var sett fram nema alveg sérstaklega standi á.
+
+### B. Lífeyrir með maka eftir skilnað að borði og sæng og lögskilnað.
+
+### 1. Framfærsluskylda.
+
+#### 50. gr.
+
+Gagnkvæm framfærsluskylda hjóna helst eftir skilnað að borði og sæng. Við skilnað að borði og sæng skal taka ákvörðun um skyldu hjóna til að greiða lífeyri hvort með öðru og um fjárhæð hans.
+
+Eftir að lögskilnaður er veittur verður öðru hjóna ekki gert að greiða lífeyri með hinu nema alveg sérstaklega standi á.
+
+### 2. Úrlausn um lífeyri.
+
+#### 51. gr.
+
+Nú næst ekki samkomulag um greiðslu lífeyris skv. 50. gr. og leysir þá sýslumaður eða dómstóll úr ágreiningnum. Ef skilnaðarmál er til úrlausnar hjá sýslumanni kveður hann á um skyldu til greiðslu lífeyris, svo og fjárhæð hans. Dómstóll, sem hefur skilnaðarmál til úrlausnar, kveður á um skyldu til greiðslu lífeyris, en fjárhæð hans úrskurðar sýslumaður.
+
+Við úrlausn skv. 1. mgr. skal við það miða hvað ætla megi að krefjandi geti aflað sér sjálfur, svo og við það hvað telja megi hitt hjóna aflögufært um. Þá skal einnig taka tillit til atvika að öðru leyti, þar á meðal hversu lengi hjúskapur hafi staðið og hvort þeim er kröfu hefur uppi sé þörf á menntun eða endurhæfingu.
+
+Skylda til greiðslu lífeyris fellur niður þegar sá sem rétt á til hans giftist að nýju, svo og þegar annað hvort hjónanna andast.
+
+Dómstóll getur að kröfu aðila breytt úrlausn sinni um skyldu til greiðslu lífeyris ef aðstæður hafa breyst að mun eða atvik mæla að öðru leyti með því.
+
+Um breytingu á úrskurði sýslumanns samkvæmt þessari grein fer eftir því sem segir í 1. mgr. 49. gr.
+
+### 3. Breyting á samningi um lífeyri.
+
+#### 52. gr.
+
+Nú hafa hjón komið sér saman um skyldu til greiðslu lífeyris eða fjárhæð hans og er þá unnt að breyta samningi með dómi, enda sé sýnilega ósanngjarnt vegna breyttra aðstæðna að halda samningnum til streitu.
+
+Dómsmál skal höfða innan eins árs frá fullnaðardómi til skilnaðar eða frá útgáfu leyfisbréfs. Þessir tímafrestir gilda þó ekki ef freistað er að hnekkja samningi með stoð í almennum reglum um fjármunaréttarsamninga.
+
+### [C. Fjárnámsheimild.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 69/2006, 10. gr.](https://www.althingi.is/altext/stjt/2006.069.html)
+
+#### [52. gr. a.
+
+Gera má fjárnám fyrir fjárframlögum til framfærslu skv. 49. gr. og lífeyri skv. 51. gr. á grundvelli úrskurðar sýslumanns. Sýslumaður getur staðfest samning milli hjóna um fjárframlag til framfærslu. Fyrir slíkum fjárframlögum og lífeyri, sem samningur staðfestur af sýslumanni tekur til, má einnig gera fjárnám.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 69/2006, 10. gr.](https://www.althingi.is/altext/stjt/2006.069.html)
+
+## VIII. kafli. Eignir hjóna.
+
+### Yfirlit yfir eignadeildir í hjúskap.
+
+#### 53. gr.
+
+Eignir hjóna skiptast í hjúskapareignir og séreignir sem geta verið samningsbundnar eða lögmæltar.
+
+Hjón geta átt eign í sameign. Enn fremur getur hvort þeirra fyrir sig átt persónubundin réttindi.
+
+### A. Hjúskapareign.
+
+#### 54. gr.
+
+Eign maka verður hjúskapareign nema sérstakar heimildir standi til annars. Á þetta við um eignir sem maki flytur í búið við hjúskaparstofnun eða öðlast síðar og gegnir einu með hverjum hætti eignar er aflað að lögum.
+
+### B. Séreign.
+
+#### 55. gr.
+
+Séreign getur myndast með kaupmála hjóna eða hjónaefna, sbr. 74., 75. og 76. gr., eða fyrir ákvörðun gefanda eða arfleiðanda, sbr. 77. gr. Þá getur séreign verið lögmælt, sbr. 94. gr., svo og ákvæði annarra laga þar um.
+
+### C. Sameign.
+
+#### 56. gr.
+
+Eignarhlutdeild maka í verðmæti, sem er sameign þeirra, er hjúskapareign eða séreign eftir því hver skipan er á fjármálum þeirra.
+
+### D. Persónubundin réttindi.
+
+#### 57. gr.
+
+Reglurnar um hjúskapareignir eiga við um réttindi sem eigi má afhenda eða eru að öðru leyti persónulegs eðlis, að svo miklu leyti sem þær koma ekki í bága við sérreglur þær sem um þau réttindi gilda, enda séu þessi réttindi ekki séreign samkvæmt lögum þessum eða öðrum lagaákvæðum. Um fjárskipti varðandi þessi réttindi segir í 102. gr.
+
+## IX. kafli. Forræði maka á eign sinni.
+
+### A. Almenn ákvæði.
+
+### 1. Ráðstöfunarréttur.
+
+#### 58. gr.
+
+Maki hefur ráðstöfunarrétt yfir eign sinni og getur gert samninga við aðra um hana nema sérstakar réttarreglur leiði til annars.
+
+### 2. Ótilhlýðileg meðferð á eignum.
+
+#### 59. gr.
+
+Hvoru hjóna um sig er skylt að fara svo með hjúskapareign sína, þar á meðal eign sem er sameign hjónanna að hún skerðist ekki vegna ótilhlýðilegrar háttsemi þess.
+
+### B. Takmarkanir á forræði maka yfir eign sinni.
+
+### 1. Samþykki til ráðstöfunar fasteignar.
+
+#### 60. gr.
+
+Öðru hjóna er óheimilt án skriflegs samþykkis hins að afhenda eða veðsetja fasteign sína, þar á meðal sumarbústað, leigja hana eða byggja, ef hún er ætluð til bústaðar fyrir fjölskylduna eða er notuð við atvinnurekstur beggja hjóna eða hins. Sama gegnir um uppsögn leigusamnings um húsnæði sem ætlað er til bústaðar fyrir fjölskylduna eða til nota við atvinnurekstur beggja eða annars, svo og framleigu slíks húsnæðis.
+
+Ákvæði 1. mgr. gilda um afhendingu á hlutabréfum, öðrum eignarskilríkjum eða réttindum sem tengjast þess konar húsnæði.
+
+### 2. Samþykki til ráðstöfunar á innbúi eða lausafé.
+
+#### 61. gr.
+
+Öðru hjóna er óheimilt án skriflegs samþykkis hins að afhenda, veðsetja eða leigja innbú á sameiginlegu heimili þeirra eða annað lausafé sem ætlað er til persónulegra nota fyrir hinn makann eða börn þeirra eða fyrir sameiginlegan atvinnurekstur þeirra.
+
+### 3. Nánar um samþykki skv. 60. og 61. gr.
+
+#### 62. gr.
+
+Ákvæði 60. og 61. gr. eiga við hvort sem eign er hjúskapareign eða séreign annars hjóna.
+
+Ákvæði 60. og 61. gr. gilda einnig um sameignir hjóna, svo og þótt samningur lúti aðeins að hluta af eign maka.
+
+Ákvæði 60. og 61. gr. gilda einnig þótt hjón hafi slitið samvistir, svo og eftir skilnað að borði og sæng eða lögskilnað, uns úr því er skorið hvort hjóna fái verðmæti í sinn hlut.
+
+Nú er sá maki, sem samþykkja á löggerning, sviptur lögræði, sjálfræði eða fjárræði og þarf þá samþykki lögráðamanns.
+
+#### 63. gr.
+
+Nú synjar maki eða lögráðamaður hans um samþykki til löggernings skv. 60. og 61. gr. eða eigi er unnt án verulegs dráttar að afla samþykkis þeirra og getur hinn makinn eða viðsemjandi hans þá krafist þess að sýslumaður samþykki hann. Getur hann veitt samþykki sitt ef hann telur rök mæla með því.
+
+### 4. Þinglýsing löggerninga skv. 60. gr.
+
+#### 64. gr.
+
+Nú er óskað þinglýsingar á löggerningum er greinir í 60. gr. og skal skjalið þá geyma yfirlýsingu um hvort sá er skjal stafar frá sé í hjúskap og hvort eign sé bústaður fjölskyldu hans eða notuð við atvinnurekstur hjóna eða sé ætluð til þess.
+
+[Ráðuneytið]<sup>1)</sup> getur sett nánari reglur um könnun þeirra efna er í 1. mgr. greinir.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### 5. Ógilding samninga er ganga í berhögg við 60.–62. gr.
+
+#### 65. gr.
+
+Nú hefur annað hjóna gert samning án samþykkis hins þar sem þessa var þörf og getur hitt þá fengið samningnum hrundið með dómi. Þetta á þó ekki við um samninga skv. 61. gr. ef viðsemjandi sýnir fram á að honum hafi hvorki verið ljóst né átt að vera ljóst þegar samningurinn var gerður að makanum væri samningsgerðin óheimil.
+
+Dómsmál skal höfða innan sex mánaða frá því að það hjóna, sem samþykkja skyldi löggerninginn, fékk vitneskju um hann og í síðasta lagi innan árs frá því að honum var þinglýst eða lausafé afhent.
+
+### 6. Gjöf til þriðja manns.
+
+#### 66. gr.
+
+Nú hefur maki gefið þriðja manni gjöf úr hjúskapareign sinni sem er úr hófi miðað við efnahag hjóna og telst ekki eðlileg eða sanngjörn eins og á stendur. Getur þá hitt hjóna eða erfingjar þess krafist þess að gjöfinni verði hrundið, enda hafi gjafþega verið ljóst eða mátt vera ljóst að gefanda væri gerningurinn óheimill.
+
+Dómsmál skv. 1. mgr. skal höfða innan árs frá því að hinum makanum eða erfingjum þess maka varð kunnugt um gjöfina og í síðasta lagi innan þriggja ára frá afhendingu gjafar.
+
+## X. kafli. Skuldaábyrgð hjóna.
+
+### Heimild annars hjóna til að skuldbinda hitt.
+
+#### 67. gr.
+
+Hvort hjóna ber ábyrgð á þeim skuldbindingum sem á því hvíla hvort sem þær hafa stofnast fyrir hjúskapinn eða síðar.
+
+#### 68. gr.
+
+Annað hjóna getur ekki skuldbundið hitt með samningsgerð sinni nema sérstaklega sé heimilað í lögum eða samningi hjóna.
+
+#### 69. gr.
+
+Meðan sambúðin varir er hvoru hjóna heimilt gagnvart þriðja manni að gera á ábyrgð beggja samninga sem venjulegir eru vegna sameiginlegs heimilishalds, svo og vegna þarfa barna og sérþarfa þess maka er stendur að samningi. Þetta gildir einnig um leigu húsnæðis sem ætlað er til sameiginlegs heimilis hjónanna. Slíkir samningar teljast gerðir á ábyrgð beggja hjóna nema atvik segi öðruvísi til.
+
+Ef viðsemjandi sá eða átti að sjá að samningurinn lá utan heimildar maka til samningsgerðar eins og á stóð verður hitt hjónanna eigi bundið við samninginn.
+
+#### 70. gr.
+
+Nú getur annað hjóna, meðan sambúðin varir, eigi gætt fjármálefna sinna vegna fjarveru eða veikinda og er hinu þá heimilt, ef þörf krefur vegna framfærslu fjölskyldunnar, að gera nauðsynlegar ráðstafanir fyrir hönd maka síns svo að skuldbindi hann, þar á meðal að innheimta laun hans eða tekjur af eignum, taka út bankainnstæður hans eða taka við greiðslum úr hendi annarra og kvitta fyrir þær, enda hafi öðrum eigi verið falin þessi umsýsla.
+
+Samningur skuldbindur ekki makann ef viðsemjanda var ljóst eða átti að vera ljóst að eigi var þörf á samningsgerðinni eins og á stóð.
+
+## XI. kafli. Samningar milli hjóna o.fl.
+
+### Reglur um séreignir.
+
+### A. Almennt ákvæði.
+
+#### 71. gr.
+
+Hjón geta gert samninga sín á milli með þeim takmörkunum sem lög mæla fyrir um.
+
+Um samninga milli hjóna varðandi framfærslu eru fyrirmæli í VII. kafla og um fjárskipti í XIII. og XIV. kafla.
+
+### B. Gjafir milli hjónaefna og hjóna.
+
+### 1. Nauðsyn kaupmála.
+
+#### 72. gr.
+
+Gjafir milli hjónaefna sem gjafþegi á að fá við hjúskaparstofnun og gjafir milli hjóna eru því aðeins gildar að um þær sé gerður kaupmáli.
+
+Þetta á þó ekki við um venjulegar gjafir sem eigi eru úr hófi miðað við efnahag gefanda og eigi heldur gjafir sem fólgnar eru í líftryggingu, lífrentu, lífeyri eða þess konar framfærslutryggingum af hendi annars hjóna til hagsbóta hinu.
+
+Með kaupmála, eða annars konar löggerningi, er eigi hægt að ákveða svo að gilt sé að það sem annað hjóna kann að eignast framvegis verði endurgjaldslaust eign hins. Þetta á þó ekki við um venjulegt innbú á sameiginlegu heimili hjóna.
+
+### 2. Aðgangur kröfuhafa að gjöfum milli hjóna.
+
+#### 73. gr.
+
+Nú hefur annað hjóna gefið hinu verðmæti og getur sá er þá átti kröfu á hendur gefanda, sem hann fær ekki fullnustu fyrir, gengið að gjöfinni eða verðmæti hennar nema það sannist að gefandi hafi ótvírætt verið gjaldfær þrátt fyrir gjafagerninginn. Ef endurgjald hefur að einhverju leyti komið fyrir dregst það frá því verðmæti sem unnt er að ganga að. Ef bú þess hjóna, sem gefið hefur hinu verðmæti, er tekið til gjaldþrotaskipta gildir ákvæðið eingöngu að svo miklu leyti sem búið krefst ekki riftunar á gjöf eða afsali.
+
+Ákvæði 1. mgr. á ekki við um gjafir skv. 2. mgr. 72. gr.
+
+### C. Séreignir.
+
+### 1. Séreignir samkvæmt kaupmála.
+
+#### 74. gr.
+
+Hjón eða hjónaefni geta ákveðið í kaupmála að tiltekin verðmæti skuli verða séreign annars þeirra. Séreign kemur eigi til skipta við skilnað milli hjóna eða milli annars þeirra og erfingja hins nema sérstakar heimildir leiði til annars.
+
+Séreignarákvæði er hægt að tímabinda, svo og skilyrða með þeim hætti að kaupmáli gildi ekki ef hjón eignast sameiginlegan skylduerfingja.
+
+Hjón geta enn fremur ákveðið í kaupmála að eign skuli vera séreign meðan bæði eru á lífi, en hlíta reglum um hjúskapareign að öðru hvoru látnu, ótilgreint eða einskorðað við að annað þeirra, sem nafngreint er, látist.
+
+#### 75. gr.
+
+Verðmæti, sem koma í stað séreignar, verða einnig séreign, svo og arður af þessum verðmætum, nema annars sé getið í kaupmála eða í fyrirmælum gefanda eða arfleiðanda.
+
+#### 76. gr.
+
+Ákvæðum kaupmála um séreignir er hægt að breyta eða fella þau niður með nýjum kaupmála.
+
+### 2. Séreignir samkvæmt ákvörðun gefenda eða arfleiðenda.
+
+#### 77. gr.
+
+Gefandi eða arfleiðandi getur ákveðið að gjöf eða arfur, þar á meðal skylduarfur, skuli vera séreign í hjúskap gjafþega eða erfingja með því efni er greinir í 74. gr. Ákvæði 75. gr. á hér við að sínu leyti. Ákvarðanir um arf skulu vera í erfðaskrá.
+
+Hjón geta ekki breytt þessum ákvörðunum gefanda og arfleiðanda nema slíkt sé heimilað í gjafagerningi eða erfðaskrá eða leiði ótvírætt af þeim gerningum.
+
+### D. Afhending á tekjuafgangi.
+
+#### 78. gr.
+
+Annað hjóna getur án kaupmála afhent hinu endurgjaldslaust allt að helmingi af tekjuafgangi sínum umliðið almanaksár, enda sé það gert fyrir lok næsta árs eftir að tekna var aflað. Afsalið skal vera skriflegt og undirritað af viðkomandi maka í viðurvist tveggja votta svo að gilt verði gagnvart skuldheimtumönnum hans. Í skjalinu skal greina fjárhæð tekjuafgangsins. Enginn vafi má leika á um að það hjóna, er afhendir hinu verðmæti samkvæmt þessu, haldi eftir nægilegum efnum til greiðslu skuldbindinga sinna.
+
+### E. Réttur þess hjóna, sem veitir hinu aðstoð við atvinnurekstur þess, til borgunar fyrir vinnu sína.
+
+#### 79. gr.
+
+Það hjóna, sem veitir hinu aðstoð við atvinnurekstur þess, getur krafist hæfilegrar borgunar fyrir vinnu sína þótt ekki hafi verið svo um samið ef það eftir öllum atvikum þykir sanngjarnt að svo sé gert. Krafa fyrnist á einu ári.
+
+## XII. kafli. Kaupmálar.
+
+### A. Form kaupmála.
+
+#### 80. gr.
+
+Kaupmáli skal vera skriflegur. Undirritun hjóna eða hjónaefna skal staðfest af lögbókanda, [lögmanni]<sup>1)</sup> eða fulltrúa þeirra eða af tveimur vottum sem skulu vera samtímis viðstaddir og rita nöfn sín og kennitölur á kaupmálann. Í vottorði þeirra skal koma fram að skjalið, sem vottað er, sé kaupmáli. Vottarnir skulu vera lögráða og staðfestingarhæfir samkvæmt réttarfarslögum.
+
+> <sup>1)</sup>[L. 117/2016, 44. gr.](https://www.althingi.is/altext/stjt/2016.117.html)
+
+### B. Hæfi aðila.
+
+#### 81. gr.
+
+Nú er annað hjóna eða hjónaefna ólögráða og skal lögráðamaður þá einnig samþykkja kaupmálann skriflega.
+
+### C. Skráning kaupmála.
+
+#### 82. gr.
+
+Kaupmáli er ekki gildur milli hjóna og gagnvart þriðja manni nema hann sé skráður samkvæmt þeim reglum sem í lögum þessum greinir.
+
+#### 83. gr.
+
+Kaupmála skal skrá í kaupmálabók sem sýslumenn halda.
+
+Kaupmála, sem hjónaefni gera, skal skrá í lögsagnarumdæmi þar sem þau eiga lögheimili eða ætla sér að búa. Kaupmála hjóna skal skrá þar í umdæmi sem þau eiga lögheimili. Ef þau eiga ekki lögheimili hér á landi skal skrá kaupmálann í Reykjavík.
+
+Ekki þarf að skrá kaupmála að nýju þótt hjónin flytjist í annað lögsagnarumdæmi.
+
+#### 84. gr.
+
+Kaupmála skal afhenda í tvíriti, frumriti og samriti eða endurriti og fer um gerð skjals og efni samkvæmt því er segir í [5](../1978/1978-39-thinglysingalog.md). og [6. gr. þinglýsingalaga, 39/1978](../1978/1978-39-thinglysingalog.md), eftir því sem við getur átt.
+
+Kaupmáli, sem afhentur er til skráningar, skal færður í dagbók að undangenginni könnun skjals, sbr. 6. gr. þinglýsingalaga. Að lokinni færslu í dagbók skal árita skjal og endurrit þess eða samrit og greina viðtökudag þess.
+
+#### 85. gr.
+
+Skjal skal fært í kaupmálabók þegar sýslumaður hefur gengið úr skugga um að það sé skráningartækt. Eiga hér við ákvæði 2. mgr. [7. gr. laga 39/1978](../1978/1978-39-thinglysingalog.md) eftir því sem við á. Greiða skal úr því jafnfljótt og föng eru á hvort skjal verði skráð eða því vísað frá skráningu.
+
+Þegar kaupmáli hefur verið skráður í kaupmálabók skal rita á hann vottorð um innritunina og viðtökudag. Skjal verður ekki afhent þeim er óskar skráningar fyrr en að þessu loknu.
+
+Gildi skráningar telst frá viðtökudegi samkvæmt því er í dagbók greinir.
+
+[Ráðuneytið]<sup>1)</sup> getur sett nánari reglur um skráningu kaupmála með reglugerð.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+#### 86. gr.
+
+[Halda skal allsherjarskrá um kaupmála, sem skráðir hafa verið, hjá sýslumanni sem [ráðherra]<sup>1)</sup> hefur falið<sup>2)</sup> að halda slíka skrá. Sýslumanni ber, þegar eftir að kaupmáli hefur verið skráður, að senda hlutaðeigandi sýslumanni tilkynningu um kaupmálann þar sem greina skal nöfn aðila, kennitölur þeirra og heimili og enn fremur viðtökudag kaupmála.
+
+Í lok hvers mánaðar skal auglýsa í Lögbirtingablaði það sem þann mánuð hefur verið tekið á kaupmálaskrá sýslumanns.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 126/2011, 174. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>[Rg. 1126/2006](https://www.reglugerd.is/reglugerdir/allar/nr/1126-2006), sbr. [1152/2014](https://www.reglugerd.is/reglugerdir/allar/nr/1152-2014). <sup>3)</sup>[L. 143/2006, 3. gr.](https://www.althingi.is/altext/stjt/2006.143.html)
+
+#### 87. gr.
+
+Nú varðar kaupmáli fasteign, skip, 5 smálestir eða stærra, eða skráð loftfar og skal sýslumaður þá auk skráningar í kaupmálabók skrá kaupmálann í veðmálaskrá viðkomandi eignar, enda sé eignin skráð í umdæmi hans.
+
+Nú varðar kaupmálinn eign sem skráð er í öðru umdæmi og skal þá jafnframt þinglýsa kaupmálanum í því umdæmi.
+
+### D. Breyting og afturköllun á kaupmála.
+
+#### 88. gr.
+
+Við breytingu eða afturköllun á kaupmála skal gæta sömu reglna og að framan greinir.
+
+#### 89. gr.
+
+Þegar hjúskap er lokið getur hvor maki um sig krafist þess að kaupmáli verði afskráður í kaupmálabók. Hinu sama gegnir um erfingja maka. Krafa er þó ekki tæk fyrr en fjárskiptum er lokið.
+
+### E. Upplýsingar um efni kaupmála.
+
+#### 90. gr.
+
+Hver, sem þess óskar, á rétt á upplýsingum úr kaupmálabók um tilvist kaupmála og efni hans.
+
+## XIII. kafli. Um fjárskipti milli hjóna án skilnaðar.
+
+#### 91. gr.
+
+Hvort hjóna um sig getur krafist opinberra skipta vegna fjárslita milli sín og maka síns þótt hjúskapnum hafi ekki verið slitið:
+
+1\. Ef hitt rýrir hjúskapareign sína með vangæslu á fjármálum sínum, misbeitingu á ráðum yfir hjúskapareign sinni eða annarri óhæfilegri háttsemi eða gefur sérstakt tilefni til að óttast að svo verði.
+
+2\. Ef bú hins er tekið til gjaldþrotaskipta.
+
+Hjón geta að auki krafist slíkra skipta ef þau eru sammála um það.
+
+#### 92. gr.
+
+Krafa skv. 91. gr. skal vera skrifleg og skal beina henni til héraðsdómstóls í því umdæmi þar sem hjón eiga eða áttu síðast sameiginlegt lögheimili nema þau semji um annað. Um meðferð kröfu og framkvæmd opinberra skipta fer samkvæmt ákvæðum XIV. kafla laga um skipti á dánarbúum o.[fl., 20/1991](../1991/1991-20-skipti-a-danarbuum-o-fl.md).
+
+#### 93. gr.
+
+Nú er krafa skv. 91. gr. tekin til greina og skiptast þá eigur milli hjóna eftir efnisreglum um skipti við skilnað.
+
+#### 94. gr.
+
+Það sem öðru hjóna hlotnast eftir það tímamark er greinir í 1. mgr. 101. gr. og það fær við skiptin verður séreign þess.
+
+## XIV. kafli. Um fjárskipti milli hjóna vegna hjúskaparslita o.fl.
+
+### A. Um skiptahátt o.fl.
+
+### 1. Fjárskiptasamningur.
+
+#### 95. gr.
+
+Hjón geta ráðið fjárskiptum sínum vegna skilnaðar til lykta með samningi. Fjárskiptasamningur skal vera skriflegur og undirritaður af hjónum eða umboðsmönnum þeirra. Samning þennan skal staðfesta fyrir sýslumanni eða dómara. Nú eru hjón eignalaus og skal þá yfirlýsing þeirra þar að lútandi staðfest af þeim eða umboðsmönnum þeirra fyrir sýslumanni eða dómara eftir því hvar skilnaðarmálið er til meðferðar.
+
+Nú hafa hjón vegna væntanlegs skilnaðar að borði og sæng eða lögskilnaðar gert samning um fjárskipti sín og er þá unnt að fella hann úr gildi að nokkru eða öllu með dómi ef hann var bersýnilega ósanngjarn á þeim tíma er til hans var stofnað. Dómsmál skal höfða innan árs frá fullnaðardómi til skilnaðar eða frá útgáfu leyfisbréfs til skilnaðar. Tímafrestir þessir eiga þó ekki við ef freistað er að hnekkja samningi með stoð í reglum um fjármunaréttarsamninga.
+
+### 2. Opinber fjárskipti.
+
+#### 96. gr.
+
+Hafi annað hjóna eða þau bæði sótt um leyfi til skilnaðar eða dómsmál verið höfðað til skilnaðar eða til ógildingar hjúskaparins getur annað þeirra eða þau bæði krafist þess að opinber fjárskipti fari fram milli þeirra samkvæmt ákvæðum þessa kafla og lögum um skipti á dánarbúum o.[fl., 20/1991](../1991/1991-20-skipti-a-danarbuum-o-fl.md).
+
+Efnisreglur um skipti í þessum kafla eiga einnig við um skipti vegna andláts maka nema annað leiði af einstökum ákvæðum.
+
+#### 97. gr.
+
+Krafa um opinber skipti við skilnað skal vera skrifleg og skal beina henni til héraðsdómstóls er greinir í 92. gr. og fer um meðferð kröfu og framkvæmd opinberra skipta samkvæmt því er þar segir.
+
+#### 98. gr.
+
+Við opinber skipti er hjónum skylt að skýra frá eignum sínum og skuldum og veita þeim sem annast skipti allar upplýsingar um fjármál sín sem þýðingu geta haft við skiptin.
+
+### B. Til hverra eigna og skulda skiptin taki.
+
+### 1. Eignir.
+
+#### 99. gr.
+
+Skiptin taka til heildareigna hvors hjóna nema samningar um séreignir, reglur um lögmæltar séreignir eða fyrirmæli gefanda eða arfleiðanda leiði til annars, sbr. enn fremur reglur þessa kafla um verðmæti sem undanþegin eru skiptum eða geta verið það að kröfu aðila. Séreign ber þó að draga undir skiptin að svo miklu leyti sem þörf er á til að fullnægja endurgjaldskröfum, sbr. 3. mgr. 107. gr.
+
+### 2. Skuldir.
+
+#### 100. gr.
+
+Frá eignum maka skulu dregnar skuldir sem hvíla á honum eða hann á að svara til samkvæmt því er segir í [109. gr. laga 20/1991](../1991/1991-20-skipti-a-danarbuum-o-fl.md), sbr. [104. gr. sömu laga](../1991/1991-20-skipti-a-danarbuum-o-fl.md).
+
+### 3. Tímamark við úrlausn um eignir og skuldir.
+
+#### 101. gr.
+
+Við úrlausn um eignir og skuldir skv. 99. og 100. gr. skal, nema sammæli verði um annað, miða við það tímamark er sýslumaður tók fyrst fyrir umsókn um leyfi til skilnaðar, dómsmál var höfðað til skilnaðar eða ógildingar hjúskapar eða héraðsdómari tók fyrst fyrir kröfu um opinber fjárskipti milli hjóna skv. XIII. kafla. Eignir, sem maki hefur aflað sér eftir þetta tímamark og tekjur og arður af þeim, koma ekki undir skiptin. Skuldir, er maki hefur bakað sér eftir þennan tíma, koma ekki heldur til greina við skiptin.
+
+Nú stafar skuld, sem fyrr er til orðin en segir í 1. mgr., frá öflun verðmæta sem eigi koma undir skiptin eða af kostnaði vegna þeirra og kemur hún þá ekki til frádráttar við fjárskiptin.
+
+### 4. Verðmæti sem geta fallið utan skipta.
+
+#### 102. gr.
+
+Maki getur krafist þess að eftirfarandi verðmæti og munir komi ekki undir skiptin hvort sem um er að ræða hjúskapareign hans sjálfs eða hins hjónanna:
+
+1\. Munir sem eru því nauðsynlegir til að halda áfram atvinnu eða menntun sinni eða hefur eingöngu eða aðallega verið aflað til afnota þess nema verðgildi munanna sé slíkt að það verði talið ósanngjarnt gagnvart hinu hjónanna. Sama gegnir um muni sem hafa minjagildi fyrir annan maka eða fjölskyldu hans.
+
+2\. Réttindi í opinberum lífeyrissjóðum eða einkalífeyrissjóðum, svo og krafa til lífeyris eða líftryggingarfjár sem hefur ekki endurkaupsvirði samkvæmt kröfu annars makans eða þeirra sameiginlega.
+
+3\. Önnur verðmæti eða réttindi sem ekki er hægt að afhenda eða eru persónulegs eðlis.
+
+4\. Fébætur, almannatryggingabætur eða vátryggingarfé vegna líkams- eða heilsutjóns er leitt hefur til skerðingar á starfsorku til frambúðar eða vegna útgjalda sem tjónið veldur fyrirsjáanlega í framtíðinni. Sama er um bætur vegna þjáninga og annars ófjárhagslegs tjóns.
+
+Forsendan er þó ávallt sú að þessi verðmæti eða ígildi þeirra séu enn við lýði á því tímamarki er greinir í 1. mgr. 101. gr. og verði sérgreind. Nú stafar það af framlögum hins makans að fé þetta eða ígildi þess er enn fyrir hendi og ber þá að kröfu þess maka að lækka þá fjárhæð sem haldið er utan skipta með hliðsjón af þessu, svo sem sanngjarnt þykir.
+
+5\. Munir sem aflað er vegna þarfa barna. Sá maki, sem barn býr hjá, á tilkall til þess að munir þessir komi ekki undir skiptin.
+
+Það hjóna, sem fær verðmæti eða muni utan skipta með þessum hætti, tekur að sér skuldir sem orðið hafa til vegna öflunar þeirra eða hvíla á þeim. Nú þykir ósanngjarnt gagnvart hinum makanum að verðmætum eða réttindum skv. 2., 3. eða 4. tölul. sé haldið utan skipta og er þá heimilt að bæta honum það með fjárgreiðslum sem eftir atvikum má inna af hendi með nánar greindum afborgunum.
+
+### C. Helmingaskiptareglan og frávik frá henni.
+
+#### 103. gr.
+
+Hvor maki um sig eða dánarbú hans eiga tilkall til helmings úr skírri hjúskapareign hins nema annað leiði af ákvæðum laga.
+
+#### 104. gr.
+
+Víkja má frá reglum um helmingaskipti og ákvæðum um skipti á séreign ef skipti yrðu að öðrum kosti bersýnilega ósanngjörn fyrir annað hjóna. Á þetta einkum við þegar tekið er tillit til fjárhags hjónanna og lengdar hjúskapar, svo og ef annað hjóna hefur flutt í búið verulega miklu meira en hitt við hjúskaparstofnun eða hefur síðar erft fé eða fengið það að gjöf frá öðrum en maka sínum.
+
+Frávik frá helmingaskiptum geta enn fremur átt sér stað þegar annað hjóna hefur með vinnu, framlögum til framfærslu fjölskyldunnar eða á annan hátt stuðlað verulega að aukningu á þeirri fjáreign sem falla ætti hinu hjóna í skaut eða hefur átt hlut að því að bæta fjáreign hins að öðru leyti.
+
+Fráviki frá helmingaskiptum samkvæmt þessari grein er einnig hægt að beita til hagsbóta fyrir erfingja maka ef hagir þeirra mæla sérstaklega með því, að öðrum skilyrðum fullnægðum.
+
+#### 105. gr.
+
+Nú getur maki ekki innan marka hlutdeildar sinnar í samanlögðum eignum fengið búsgögn og annað lausafé sem er nauðsynlegt til að halda uppi heimili. Er þá heimilt samkvæmt kröfu hans að kveða svo á að hlutdeild hans skuli aukast enda séu ekki horfur á að hann geti á annan hátt aflað sér þessara nauðsynja.
+
+Réttur skv. 1. mgr. víkur þó fyrir rétti hins makans til að fá verðmæti í sinn hlut til greiðslu skuldbindinga sem á honum hvíla og til greina geta komið við skiptin.
+
+### D. Úthlutun til greiðslu skuldbindinga.
+
+#### 106. gr.
+
+Við skiptin skal hvoru hjóna úthlutað svo miklu af hjúskapareign sinni að það nægi til greiðslu skuldbindinga sem á því hvíldu á þeim tíma sem hér ber við að miða, sbr. 1. mgr. 101. gr. laga þessara, svo og [109. gr. skiptalaga, 20/1991](../1991/1991-20-skipti-a-danarbuum-o-fl.md), þar á meðal til greiðslu á hluta hvors um sig í sameiginlegum skuldum ef því er að skipta, sbr. þó ákvæði 2. mgr. 101. gr.
+
+Skuldir, sem annað hjóna hefur bakað sér með vanhirðu á fjármálum sínum eða með annarri óhæfilegri aðferð, koma því aðeins til frádráttar skv. 1. mgr. að önnur efni maka hrökkvi ekki til greiðslu þeirra.
+
+### E. Endurgjaldskröfur.
+
+#### 107. gr.
+
+Nú hefur maki notað eigur sínar, er koma skyldu til skipta, til þess að auka verðmæti er ekki eiga að hlíta skiptum samkvæmt samningi makanna, ákvörðun gefanda eða arfleiðanda eða samkvæmt lagaákvæðum eða til að afla sér réttinda sem hafa verið þegin undan skiptum skv. 1. og 3. tölul. 102. gr. og getur hinn makinn eða dánarbú hans þá krafist endurgjalds af þessu tilefni. Sama gegnir um réttindi skv. 2. tölul. 102. gr. ef útgjöld til þessa fara út yfir eðlileg og sanngjörn mörk.
+
+Nú hefur annað hjóna rýrt hjúskapareign sína eða sameign hjóna með því að misbeita ráðum yfir hjúskapareigninni eða með öðru óhæfilegu atferli og slíkt hefur leitt til verulegrar skerðingar á fjárhlut þeim sem hitt hjóna á tilkall til og getur þá hitt hjóna eða dánarbú þess krafist endurgjalds af hjúskapareign beggja þegar skipti fara fram.
+
+Krafa skv. 1. og 2. mgr. verður því aðeins tekin til greina að eigur makans, sem krafan beinist gegn, nægi fyrir skuldum sem á honum hvíla. Krefjast má greiðslu úr séreign makans ef hjúskapareign hans hrekkur ekki til.
+
+Endurgjaldskrafa, sem ekki er hægt að jafna við skiptin, verður ekki síðar uppi höfð.
+
+Nú er fallist á endurgjaldskröfu samkvæmt þessari grein og er þá hægt að ákveða að fjárhæð verði greidd með nánar greindum afborgunum.
+
+### F. Um útlagningu.
+
+#### 108. gr.
+
+Við opinber skipti vegna fjárslita getur hvort hjóna um sig krafist þess að fá eignarhluta sinn útlagðan sér eftir virðingu.
+
+Nú krefjast hjón þess að fá sama hlutinn og gengur þá það þeirra fyrir sem á hlut að hjúskapareign. Annað hjóna getur þó krafist útlagningar á eign sem hitt á að hjúskapareign í eftirfarandi tilvikum enda megi ætla að það hafi meiri þörf fyrir eignina:
+
+1\. Ef um er að ræða fasteign sem ætluð er til íbúðar fyrir það hjóna og börn þess.
+
+2\. Sama á við um sumarbústað ef telja verður mikilvægara fyrir það að fá hann í sinn hlut, einkum með tilliti til barna hjóna.
+
+3\. Þegar um er að ræða atvinnufyrirtæki sem það hjóna hefur eingöngu eða aðallega rekið.
+
+4\. Sama á við um vinnutæki og annað lausafé sem stendur í tengslum við atvinnu ef sanngirni mælir með því með tilliti til áframhaldandi atvinnu viðkomandi.
+
+5\. Þegar krafa maka beinist að húsgögnum, búsgögnum eða öðru lausafé sem hefur verið á sameiginlegu heimili hjónanna enda mæli sanngirni með því og það stuðli að því að honum sé unnt að halda uppi heimili.
+
+Um útlagningu að öðru leyti fer samkvæmt ákvæðum skiptalaga.
+
+#### 109. gr.
+
+Heimilt er að úthluta öðru hjóna verðmæti eftir virðingu þótt það fari fram úr eignarhluta þess enda megi ætla að það hafi meiri þörf fyrir verðmætið en hitt hjóna, sbr. ákvæði 108. gr. Þeim er útlagningu fær ber þá að greiða hinu eða erfingjum þess fjárhæð sem fram yfir er rétta tiltölu. Skiptastjóri getur ákveðið þegar sérstaklega stendur á, einkum með hliðsjón af fjárhagsstöðu þess sem útlagningu fær, að fjárhæð þessi sé greidd með afborgunum um tiltekinn tíma gegn tryggingum sem hann mælir fyrir um og með þeim vaxtakjörum sem hann tiltekur. Um ágreining um þetta fer samkvæmt því er segir í [112. gr. laga 20/1991](../1991/1991-20-skipti-a-danarbuum-o-fl.md).
+
+### G. Heimild maka til að gefa eftir af tilkalli sínu til eigna.
+
+#### 110. gr.
+
+Maka er heimilt við fjárskipti að gefa eftir af tilkalli sínu til eigna, enda sé eigi ástæða til að óttast að hann geti ekki fullnægt fjárskuldbindingum sem á honum hvíldu þá.
+
+### H. Brottfall skilnaðar að borði og sæng.
+
+#### 111. gr.
+
+Nú takast samvistir hjóna að nýju eftir að skilnaður að borði og sæng, er leitt hefur til fjárskipta, er fenginn. Eiga þá ákvæði 1. mgr. 104. gr. við um eigur sem komið hafa í hlut maka við skiptin og hann hefur flutt að nýju í hjúskapinn komi til fjárskipta síðar milli hjónanna eða annars þeirra og erfingja hins.
+
+### I. Leiguréttindi.
+
+#### 112. gr.
+
+Nú greinir hjón á við skilnað hvort þeirra skuli halda rétti til leigu íbúðarhúsnæðis og skal þá sýslumaður eða dómari, eftir því hvar skilnaðarmál er til meðferðar, ákveða eftir öllum aðstæðum hvort þeirra haldi áfram leigumálanum og skal einkum taka tillit til þarfa hjóna og barna þeirra.
+
+Fari fram opinber skipti milli hjónanna tekur skiptastjóri ákvörðun um hvort hjóna haldi áfram leigumála eftir sömu reglum og kveðið er á um í 1. mgr.
+
+## XV. kafli. Um réttarfar í hjúskaparmálum o.fl.
+
+### A. Hvaða mál teljist hjúskaparmál.
+
+#### 113. gr.
+
+Hjúskaparmál samkvæmt þessum kafla eru eftirfarandi dómsmál:
+
+1\. Mál sem höfðuð eru til ógildingar hjúskapar.
+
+2\. Mál sem höfðuð eru til hjónaskilnaðar.
+
+3\. Mál til úrlausnar um hvort hjúskapur sé gildur eða ekki gildur.
+
+4\. Mál til úrlausnar um hvort réttaráhrif skilnaðar að borði og sæng séu fallin niður.
+
+### B. Lögsaga.
+
+#### 114. gr.
+
+Hjúskaparmál má höfða hér á landi í eftirfarandi tilvikum:
+
+1\. Ef stefndi er búsettur hér á landi.
+
+2\. Ef stefnandi er hér búsettur og hefur verið það sl. tvö ár eða búið hér áður svo langan tíma.
+
+3\. Ef stefnandi er íslenskur ríkisborgari og leitt er í ljós að hann geti ekki vegna ríkisfangs síns höfðað mál í því landi sem hann er búsettur í.
+
+4\. Ef bæði eru íslenskir ríkisborgarar og stefndi lýsir eigi andstöðu sinni gegn því að málið sæti úrlausn dómstóls hér á landi.
+
+5\. Ef lögskilnaðar er krafist á grundvelli undanfarandi skilnaðar að borði og sæng enda hafi leyfi verið veitt eða dómur gengið hér á landi.
+
+Mál til ógildingar hjúskapar má höfða hér á landi ef hjónavígslan hefur farið fram hér.
+
+[Mál til hjónaskilnaðar má höfða hér á landi ef hjónavígslan hefur farið fram hér og leitt er í ljós að stefnandi getur ekki höfðað mál í landinu þar sem hann hefur ríkisfang eða er búsettur.]<sup>1)</sup>
+
+Ákvæði milliríkjasamninga, sem Ísland er aðili að, skulu þó ganga framar ákvæðum þessarar greinar.
+
+> <sup>1)</sup>[L. 40/2022, 7. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+### C. Varnarþing.
+
+#### 115. gr.
+
+Mál skal höfða á heimilisvarnarþingi stefnda. Ef stefndi á ekki heimilisvarnarþing hér á landi skal mál höfða þar sem stefnandi á heimilisvarnarþing. Aðilar geta samið um annað varnarþing en að framan greinir.
+
+Nú er eigi til að dreifa varnarþingi skv. 1. mgr. og skal þá höfða mál fyrir dómstóli er [ráðuneytið]<sup>1)</sup> kveður á um.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### D. Aðild.
+
+#### 116. gr.
+
+Annað hjóna og það eitt getur höfðað hjúskaparmál.
+
+Mál til ógildingar á hjúskap skv. 9. og 11. gr. má þó höfða af [ráðuneytinu]<sup>1)</sup> eða öðru hvoru hjóna. Ef ógilding er reist á ákvæði 11. gr. er málshöfðun einnig heimil því hjóna úr eldra hjúskap sem tvíkvænishjúskapur gengur í berhögg við.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### E. Málsmeðferð.
+
+#### 117. gr.
+
+Hjúskaparmál sæta meðferð einkamála nema um frávik sé mælt í lögum.
+
+Ef hvorki er vitað um heimilisfang né dvalarstað stefnda er dómara heimilt að skipa honum málsvara. Sama á við þegar stefndi er búsettur eða dvelst erlendis og ekki tekst að birta honum stefnu eða hvorki hann né umboðsmaður hans sækir þing við þingfestingu máls og sérstakar ástæður mæla að öðru leyti með því að honum verði skipaður málsvari. Málsvari skal hafa samráð við umbjóðanda sinn ef unnt er. Dómari ákveður þóknun til málsvara sem greiðist úr ríkissjóði. Dómari getur kveðið á um að stefndi skuli endurgreiða ríkissjóði kostnað vegna málsvara að öllu eða nokkru leyti ef rök mæla með því.
+
+Dómari gætir óhjákvæmilegra lagaskilyrða við úrlausn hjúskaparmáls.
+
+Hjúskap verður ekki slitið með dómsátt.
+
+#### 118. gr.
+
+Dómþing í hjúskaparmálum skulu háð fyrir luktum dyrum nema dómari kveði öðruvísi á með samþykki málsaðila.
+
+### F. Nafnleynd o.fl.
+
+#### 119. gr.
+
+Eigi má án leyfis dómara birta almenningi á nokkurn hátt annað af því sem gerst hefur í hjúskaparmáli en dóminn. Brot gegn ákvæði þessu varðar sektum.
+
+Nú er dómur í slíku máli birtur, þar á meðal að tilstuðlan dómsins, og skal þá gæta leyndar á nöfnum og upplýsingum sem bent geti til þess hverjir séu aðilar máls.
+
+### G. Andlát aðila.
+
+#### 120. gr.
+
+Hjúskaparmál verður eigi höfðað eftir dauða annars hjóna.
+
+Nú deyr annað hjóna áður en dómur gengur í hjúskaparmáli og fellur þá málið niður. Á þetta einnig við ef máli er áfrýjað.
+
+### H. Frávísun og niðurfelling máls.
+
+#### 121. gr.
+
+Nú er máli vísað frá dómi eða það fellt niður án kröfu sækjanda og getur sækjandi þá höfðað mál að nýju innan mánaðar þó að lögmæltur málshöfðunarfrestur sé þá liðinn.
+
+### I. Áfrýjun og endurupptaka máls.
+
+#### 122. gr.
+
+Heimilt er að áfrýja einstökum þáttum dóms.
+
+Hvorugur málsaðili má ganga í nýtt hjónaband innan loka áfrýjunarfrests nema því aðeins að gagnaðili og [ráðuneytið],<sup>1)</sup> þegar það á aðild máls, hafi bréflega fallið frá áfrýjun.
+
+Endurupptaka máls er ekki heimil eftir lok áfrýjunarfrests.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+## XVI. kafli. Um meðferð og úrlausn stjórnvalda á málum samkvæmt lögum þessum.
+
+### A. Lögsaga.
+
+#### 123. gr.
+
+Stjórnvöld geta leyst úr málum er tengjast öðrum ríkjum í eftirfarandi tilvikum:
+
+1\. Ef sá sem krafa beinist gegn er búsettur hér á landi.
+
+2\. Ef aðilar eru íslenskir ríkisborgarar og sá sem krafa beinist gegn samþykkir að málið sæti úrlausn hér á landi.
+
+3\. Ef lögskilnaðar er krafist á grundvelli undanfarandi skilnaðar að borði og sæng, enda hafi leyfi til skilnaðar að borði og sæng verið veitt hér á landi.
+
+[4. Ef hjónaskilnaðar er krafist, enda hafi hjónavígsla farið fram hér á landi og leitt er í ljós að sá sem óskar hjónaskilnaðar getur ekki óskað eftir hjónaskilnaði í landinu þar sem hann á ríkisfang eða er búsettur.]<sup>1)</sup>
+
+Ákvæði milliríkjasamninga, sem Ísland er aðili að, skulu þó ganga framar ákvæðum 1. mgr.
+
+> <sup>1)</sup>[L. 40/2022, 8. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+### B. Úrlausnarumdæmi.
+
+#### 124. gr.
+
+Leysa skal úr máli í því umdæmi þar sem sá sem krafa beinist gegn er búsettur. Ef hann er ekki búsettur hér á landi skal leysa úr máli í því umdæmi þar sem krefjandi er búsettur. Hjón geta samið um annað úrlausnarumdæmi.
+
+[Ráðuneytið]<sup>1)</sup> ákvarðar úrlausnarumdæmi ef hvorki sá sem krafa beinist gegn né krefjandi eru búsettir hér á landi eða ef annars leikur vafi á því hvar leysa skuli úr máli samkvæmt framangreindu.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html)
+
+### C. Leiðbeiningarskylda.
+
+#### 125. gr.
+
+Sýslumaður skal leiðbeina aðilum um réttindi þeirra og skyldur er málið varðar.
+
+### D. Sáttaumleitan.
+
+#### 126. gr.
+
+Sýslumaður leitar sátta með aðilum áður en hann leysir úr ágreiningsmáli.
+
+Ef aðilar máls búa eða dvelja hvor í sínu umdæmi má leita sátta þar sem hvor aðila býr eða dvelst.
+
+### E. Kröfur aðila og gagnaöflun.
+
+#### 127. gr.
+
+Aðilum máls ber að setja fram skýrar kröfur fyrir stjórnvaldi og afla þeirra gagna sem stjórnvald telur þörf á til úrlausnar máls. Enn fremur getur stjórnvald aflað gagna að eigin frumkvæði ef þörf krefur.
+
+Ef sá sem kröfu gerði sinnir eigi ítrekuðum kvaðningum eða tilmælum stjórnvalds um framlagningu gagna er stjórnvaldi heimilt að synja um úrlausn.
+
+Nú sinnir gagnaðili máls eigi ítrekuðum kvaðningum eða tilmælum stjórnvalds um gagnaöflun og má þá veita úrlausn á grundvelli þeirra krafna og gagna sem fyrir liggja.
+
+### F. Réttur aðila til að kynna sér gögn máls.
+
+#### 128. gr.
+
+Aðilum máls er heimilt að kynna sér skjöl og önnur gögn sem málið varðar. Réttur þessi nær ekki til vinnuskjala sem rituð hafa verið hjá stjórnvaldi til eigin afnota í sambandi við meðferð málsins.
+
+### G. Réttur aðila til að tjá sig um mál.
+
+#### 129. gr.
+
+Aðilar skulu eiga þess kost að tjá sig um mál áður en ákvörðun er tekin og getur stjórnvald sett þeim ákveðinn frest til þess.
+
+### H. Form og efni úrskurðar.
+
+#### 130. gr.
+
+Úrskurður stjórnvalds skal vera skriflegur. Þar skal greina úrlausnarefni, niðurstöðu og rökstuðning fyrir henni, þar á meðal lagaatriði er niðurstaða byggist á og önnur atriði er máli skipta, þar á meðal kæruheimild og þvingunarúrræði ef því er að skipta.
+
+### I. Tilkynning um úrskurð.
+
+#### 131. gr.
+
+Úrskurð stjórnvalds skal senda aðilum máls með ábyrgðarbréfi, hann birtur af einum stefnuvotti eða kynntur með öðrum sannanlegum hætti.
+
+### J. Stjórnsýslukæra.
+
+#### 132. gr.
+
+Kæra má úrlausn sýslumanns til [ráðuneytisins]<sup>1)</sup> innan tveggja mánaða frá dagsetningu hennar. [Útgáfa skilnaðarleyfis, hvort sem um er að ræða leyfi til skilnaðar að borði og sæng eða lögskilnaðar, verður þó ekki kærð til ráðuneytisins.]<sup>2)</sup>
+
+Sýslumaður getur ákveðið í úrskurði að kæra fresti réttaráhrifum hans.
+
+…<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 69/2006, 11. gr.](https://www.althingi.is/altext/stjt/2006.069.html)
+
+## XVII. kafli. Gildistaka, lagaskil og brottfallin lög.
+
+#### 133. gr.
+
+Lög þessi taka gildi 1. júlí 1993.
+
+[Ráðuneytið]<sup>1)</sup> setur reglugerð<sup>2)</sup> og önnur fyrirmæli um einstök atriði er varða framkvæmd laganna. [Ráðherra er heimilt að ákveða með reglugerð<sup>3)</sup> að könnun á hjónavígsluskilyrðum skv. 1. mgr. 14. gr. og viðurkenning á hjónavígslu skv. 25. gr. a verði á hendi eins sýslumanns.]<sup>4)</sup>
+
+Ráðuneytið skal gera sérstakar ráðstafanir til að kynna almenningi efni laga þessara.
+
+> <sup>1)</sup>[L. 162/2010, 127. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 230/1992](https://www.reglugerd.is/reglugerdir/allar/nr/230-1992), sbr. [271/2020](https://www.reglugerd.is/reglugerdir/allar/nr/271-2020). <sup>3)</sup>[Rg. 55/2013](https://www.reglugerd.is/reglugerdir/allar/nr/055-2013), sbr. [662/2020](https://www.reglugerd.is/reglugerdir/allar/nr/662-2020) og [987/2022](https://www.reglugerd.is/reglugerdir/allar/nr/987-2022). <sup>4)</sup>[L. 40/2022, 9. gr.](https://www.althingi.is/altext/stjt/2022.040.html)
+
+#### 134. gr.
+
+Ákvæði 2. mgr. 25. gr. gilda einnig um hjónabönd sem til er stofnað fyrir gildistöku laga þessara.
+
+#### 135. gr.
+
+[…](https://www.althingi.is/altext/stjt/1993.031.html)
+
+#### 136. gr.
+
+[…](https://www.althingi.is/altext/stjt/1993.031.html)
+
+#### 137. gr.
+
+Breyting á úrskurði um framfærslueyri, sem gengið hefur fyrir gildistöku þessara laga, hlítir ákvæðum þeirra.
+
+Sama á við um breytingu á samningum um framfærslueyri.
+
+#### 138. gr.
+
+[…](https://www.althingi.is/altext/stjt/1993.031.html)
+
+#### 139. gr.
+
+1\. Ákvæðum [12. gr. laga 20/1923](https://www.althingi.is/altext/stjtnr.html#1923020?g12) skal beita um samninga sem gerðir eru fyrir gildistöku laga þessara.
+
+2\. Ákvæðum [20](https://www.althingi.is/altext/stjtnr.html#1923020?g20). og [21. gr. laga 20/1923](https://www.althingi.is/altext/stjtnr.html#1923020?g21) skal beita um samninga sem gerðir eru fyrir gildistöku laga þessara, þar á meðal um samþykki maka.
+
+3\. Ákvæði 2. mgr. [23. gr. laga nr. 20/1923](https://www.althingi.is/altext/stjtnr.html#1923020?g23) skal beita um tekjur af séreign sem myndast hafa fyrir gildistöku laganna.
+
+4\. Ákvæðum [26](https://www.althingi.is/altext/stjtnr.html#1923020?g26). og [27. gr. laga nr. 20/1923](https://www.althingi.is/altext/stjtnr.html#1923020?g27) skal beita um samninga og skuldbindingar sem stofnast hafa fyrir gildistöku laga þessara.
+
+5\. Gildi kaupmála, sem gerðir eru fyrir gildistöku laganna, skal meta samkvæmt ákvæðum [V. kafla laga nr. 20/1923](https://www.althingi.is/altext/stjtnr.html#1923020?k5), ásamt breytingalögum. Um réttaráhrif kaupmála fer samkvæmt ákvæðum laga þessara.
+
+#### 140. gr.
+
+[…](https://www.althingi.is/altext/stjt/1993.031.html)
+
+#### [141. gr.
+
+Einstaklingar í staðfestri samvist, sem stofnað hefur verið til samkvæmt [lögum 87/1996](https://www.althingi.is/lagas/nuna/1996087.html), og hefur ekki verið slitið, geta fengið samvist sína viðurkennda sem hjúskap. Einstaklingar sem óska eftir slíkri viðurkenningu skulu báðir undirrita yfirlýsingu þess efnis sem beint skal til [Þjóðskrár Íslands].<sup>1)</sup> Breytingin miðast við þann dag þegar yfirlýsing er lögð fram í [Þjóðskrá Íslands].<sup>1)</sup>
+
+Einstaklingar í staðfestri samvist, sbr. 1. mgr., geta einnig stofnað til hjúskapar skv. IV. kafla. Vottorð um að viðkomandi séu í staðfestri samvist kemur þá í stað könnunarvottorðs skv. III. kafla.
+
+Staðfest samvist, sem stofnað hefur verið til samkvæmt [lögum 87/1996](https://www.althingi.is/lagas/nuna/1996087.html), hefur sömu réttaráhrif og hjúskapur. Ákvæði laga sem varða hjúskap og maka gilda um staðfesta samvist og einstaklinga í staðfestri samvist.
+
+Þrátt fyrir ákvæði 1. mgr. 114. gr. er ávallt heimilt að höfða mál skv. 113. gr. vegna staðfestrar samvistar fyrir íslenskum dómstólum hafi staðfesting farið fram hér á landi.
+
+Þrátt fyrir ákvæði 1. mgr. 123. gr. er íslenskum stjórnvöldum ávallt heimilt að leysa úr málum vegna staðfestrar samvistar sem stofnað hefur verið til hér á landi.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 77/2010, 5. gr.](https://www.althingi.is/altext/stjt/2010.077.html) <sup>2)</sup>[L. 65/2010, 5. gr.](https://www.althingi.is/altext/stjt/2010.065.html)

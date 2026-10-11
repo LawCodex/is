@@ -1,0 +1,38 @@
+---
+title: "Réttarbót Eiríks konungs"
+identifier: "1294027"
+lagasafn_id: "1294027"
+type: act
+jurisdiction: is
+language: is
+date: 1294-07-02
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "46.f. Jarðir"
+source: "https://www.althingi.is/lagas/158a/1294027.html"
+retrieved: 2026-10-12
+---
+
+# Réttarbót Eiríks konungs
+
+**1294 2. júlí**
+
+## 7. gr.
+
+En um allt þat búfé, er goldit er eða gefit, útan hross, eignist sá, sem mark á, ef eigi er af brugðit innan hálfs mánaðar síðan hann bannaði. …
+
+## 15. gr.
+
+Nú ferr maðr á veg með hrossi ok þó at þeir sé þrír, ok stendr hey nær götu, en bær eigi allnær, þá taki þeir at ósekju, ef þeir þurfu, þat sem hross þeira eta þar, ef nauðsyn gengr til. …
+
+## 22. gr.
+
+Ef hrútr kemr til sauða eða hafr til geita ok gerir spell á, bæti skaða allan, ef hann er heimtr áðr. …
+
+## 37. gr.
+
+Ef griðungr eltir fang úr kúm, sá er heima er gætt við búi, svá at skaði virðist, bæti fjórðungi bóta, ef sannprófat er, en engu þeim er hann lér. En ef maðr vill eigi varðveita hann eða reka í afrétt, bæti skaða þann allan sem hann gerir. …
+
+## 47. gr.
+
+… Skaðabætr skal gjalda sá er svín þau á, er skaða gera, svá sem fyrir annan fénað.

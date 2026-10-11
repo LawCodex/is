@@ -1,0 +1,115 @@
+---
+title: "Lög um heimild fyrir ríkisstjórnina til að láta öðlast gildi ákvæði í samningi milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar, um innheimtu meðlaga"
+identifier: "93/1962"
+lagasafn_id: "1962093"
+type: act
+jurisdiction: is
+language: is
+date: 1962-12-29
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+source: "https://www.althingi.is/lagas/158a/1962093.html"
+retrieved: 2026-10-12
+---
+
+# Lög um heimild fyrir ríkisstjórnina til að láta öðlast gildi ákvæði í samningi milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar, um innheimtu meðlaga
+
+**1962 93 29. desember**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=83&mnr=7) [*Frumvarp til laga.*](https://www.althingi.is/altext/pdf/83/s/0007.pdf)
+
+**Tóku gildi 2. janúar 1963.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **dómsmálaráðherra** eða **dómsmálaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 178/2000](https://www.althingi.is/altext/stjt/2000.178.html) (tóku gildi 29. des. 2000, sjá og augl. C 21/2002).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+
+#### 1. gr.
+
+Ríkisstjórninni er heimilt að ákveða með auglýsingu í Stjórnartíðindum, að samningur sá, er undirritaður var í Osló 23. mars 1962 milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar, um innheimtu meðlaga, og prentaður er sem fylgiskjal með lögum þessum, skuli öðlast gildi.
+
+#### 2. gr.
+
+[Ráðherra]<sup>1)</sup> er heimilt að setja frekari ákvæði, er kunna að vera nauðsynleg til að framfylgja greindum samningi.
+
+> <sup>1)</sup>[L. 126/2011, 36. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+#### 3. gr.
+
+[…](https://www.althingi.is/lagasafn/leidbeiningar)
+
+## Fylgiskjal.
+
+### Samningur milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar um innheimtu meðlaga.
+
+#### 1. gr.
+
+[Aðfararhæfur dómur, úrskurður stjórnvalds eða samningur, staðfestur af opinberu stjórnvaldi, sem hefur lagt einhverjum á herðar í einu samningsríkjanna að greiða meðlag til maka, fyrrverandi maka, barns, stjúpbarns eða móður barns, skal viðurkenndur í öðrum samningsríkjum án sérstakrar staðfestingar.
+
+Aðfararhæfum dómi, úrskurði stjórnvalds, samningi staðfestum af opinberu stjórnvaldi, eða öðrum skriflegum samningi, sem hefur lagt einhverjum á herðar í einu samningsríkjanna að greiða slíkt meðlag og sem unnt er að fullnusta í því ríki, skal þegar í stað fullnægt í öðru samningsríki, sé þess farið á leit. Hið sama gildir um dóm sem ekki er orðinn aðfararhæfur, svo og úrskurð eða ákvörðun dómara eða dómstóls, sem fullnægja má samkvæmt reglum um aðfararhæfa dóma.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 178/2000, fylgiskjal II.](https://www.althingi.is/altext/stjt/2000.178.html)
+
+#### 2. gr.
+
+Beiðni um fullnustu skal senda yfirvaldi í samningsríki því, þar sem sá dvelst, er meðlagið á að fá, eða í samningsríki því, þar sem dómurinn eða úrskurðurinn var kveðinn upp eða skriflega skuldbindingin gerð.
+
+[Eigi fullnusta að fara fram í öðru samningsríki en því þar sem beiðni kemur fram samkvæmt 1. mgr. skal senda beiðnina til fyrrnefnds ríkis. Í því tilviki er beiðnin send til og móttekin af:
+
+í *Danmörku* hlutaðeigandi stjórnvaldi (statsamtet, í Kaupmannahöfn Overpræsidiet) eða, ef óvíst er hvaða stjórnvald sé til þess bært að fjalla um málið, dómsmálaráðuneytinu;
+
+í *Finnlandi* hlutaðeigandi stjórnvaldi (utmätningsman) eða, ef óvíst er hvaða stjórnvald sé til þess bært að fjalla um málið, dómsmálaráðuneytinu;
+
+á *Íslandi* dómsmálaráðuneytinu;
+
+í *Noregi* utanríkismálaskrifstofu almannatrygginga (folketrygdkontoret for utenlandssaker);
+
+í *Svíþjóð* hlutaðeigandi stjórnvaldi (kronofogdemyndighet) eða, ef óvíst er hvaða stjórnvald sé til þess bært að fjalla um málið, ríkisskattstjóra (Riksskatteverket).]<sup>1)</sup>
+
+Beiðni um innheimtu í öðru samningsríki á meðlagi, sem yfirvald hefur greitt fyrir fram, má það yfirvald senda beint til yfirvalds í því ríki, samkvæmt ákvæðinu í 2. mgr., þar sem innheimtan á að fara fram.
+
+Skjali á finnsku eða íslensku skal fylgja staðfest þýðing á dönsku, norsku eða sænsku, að því leyti sem þörf er á.
+
+> <sup>1)</sup>[L. 178/2000, fylgiskjal II.](https://www.althingi.is/altext/stjt/2000.178.html)
+
+#### 3. gr.
+
+[Stjórnvaldið sem á að framkvæma innheimtuna getur, ef nauðsynlegt þykir, krafist vottorðs um að dómurinn, úrskurðurinn, ákvörðunin eða samningurinn fullnægi þeim skilyrðum sem sett eru í 2. mgr. 1. gr. fyrir fullnustu. Vottorðið skal gefið út af því stjórnvaldi sem kveðið er á um í 2. mgr. 2. gr. í ríki því þar sem dómurinn eða úrskurðurinn er kveðinn upp, ákvörðunin er tekin eða samningurinn gerður.]<sup>1)</sup>
+
+Hafi upphæð meðlags ekki verið ákveðin í dóminum, úrskurðinum eða skuldbindingunni eða sé í beiðni um fullnustu farið fram á hærri upphæð en ákveðið hefur verið, má einnig krefjast vottorðs um upphæð meðlagsins samkvæmt 1. mgr.
+
+> <sup>1)</sup>[L. 178/2000, fylgiskjal II.](https://www.althingi.is/altext/stjt/2000.178.html)
+
+#### 4. gr.
+
+Fullnustan fer fram í hverju ríki samkvæmt gildandi lögum þar.
+
+Fullnustan fer fram án kostnaðar fyrir rétthafa, nema hún eigi að fara fram samkvæmt reglunum um aðför í fasteign.
+
+Innheimt upphæð sendist þeim, sem beiðst hefur fullnustu, eða öðrum, sem hann ákveður.
+
+#### 5. gr.
+
+Ákvæðin um meðlög ná einnig til meðgjafar vegna kostnaðar við fæðingu og sængurlegu og kostnaðar við sérstaka menntun barns og enn fremur skírn þess, fermingu, veikindi, greftrun og þess háttar.
+
+#### 6. gr.
+
+Málskostnað, sem meðlagsskyldum er gert að greiða vegna ákvörðunar um meðlagsskyldu, má innheimta samkvæmt ákvæðum þessa samnings.
+
+#### [6. gr. a.
+
+Samningur þessi kemur ekki í veg fyrir að unnt sé að viðurkenna eða leita fullnustu á grundvelli heimilda í öðrum alþjóðasamningum sem gilda milli hlutaðeigandi ríkja eða samkvæmt lögum þess ríkis þar sem álitaefnið um viðurkenningu eða fullnustu kemur upp.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 178/2000, fylgiskjal II.](https://www.althingi.is/altext/stjt/2000.178.html)
+
+#### 7. gr.
+
+Samning þennan skal fullgilda og skal afhenda fullgildingarskjölin norska utanríkisráðuneytinu svo fljótt sem verða má.
+
+Samningurinn tekur gildi hinn 1. janúar eða hinn 1. júlí næstan eftir afhendingu fullgildingarskjalanna. Með samningi þessum fellur úr gildi samningur frá 10. febrúar 1931 milli samningsríkjanna um innheimtu meðlaga, eins og honum var breytt með samkomulagi hinn 1. apríl 1953.
+
+Sérhvert ríkjanna getur gagnvart hverju hinna sagt upp samningnum, og hættir hann þá að gilda hinn 1. janúar eða hinn 1. júlí næstan að liðnum sex mánuðum frá uppsögn.

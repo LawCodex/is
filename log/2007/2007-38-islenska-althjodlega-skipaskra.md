@@ -1,0 +1,145 @@
+---
+title: "Lög um íslenska alþjóðlega skipaskrá"
+identifier: "38/2007"
+lagasafn_id: "2007038"
+type: act
+jurisdiction: is
+language: is
+date: 2007-03-27
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "37.d. Siglingar og útgerð"
+source: "https://www.althingi.is/lagas/158a/2007038.html"
+retrieved: 2026-10-12
+---
+
+# Lög um íslenska alþjóðlega skipaskrá
+
+**2007 nr. 38 27. mars**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=133&mnr=667) [*Frumvarp til laga.*](https://www.althingi.is/altext/133/s/1013.html)
+
+**Tóku gildi 1. janúar 2008.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **innviðaráðherra** eða **innviðaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 88/2008](https://www.althingi.is/altext/stjt/2008.088.html) (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 59/2013](https://www.althingi.is/altext/stjt/2013.059.html) (tóku gildi 1. júlí 2013).
+
+## 1. gr. Markmið.
+
+Markmið laga þessara er að stuðla að skráningu kaupskipa á Íslandi með því að setja reglur um íslenska alþjóðlega skipaskrá.
+
+## 2. gr. Gildissvið.
+
+Lög þessi gilda um skráningu kaupskipa á Íslandi á íslenska alþjóðlega skipaskrá.
+
+## 3. gr. Orðskýringar.
+
+Í lögum þessum hafa eftirfarandi orð og hugtök þá merkingu sem hér segir:
+
+1\. *Íslensk alþjóðleg skipaskrá (IIS)* er sérstök skipaskrá á Íslandi fyrir kaupskip, á ensku Icelandic International Shipregister.
+
+2\. *Kaupskip* er hvert það skip sem flytur farm og/eða farþega gegn endurgjaldi í siglingum milli landa og farmflutningum innan lands og er 100 brúttótonn eða stærra.
+
+## 4. gr. Skráning.
+
+Skilyrði skráningar er að eigandi kaupskips sé íslenskur ríkisborgari, ríkisborgari annars ríkis á Evrópska efnahagssvæðinu eða aðildarríkis að stofnsamningi Fríverslunarsamtaka Evrópu, Færeyingur eða lögaðili skráður á Íslandi.
+
+Skráning á íslenska alþjóðlega skipaskrá verður annaðhvort með flutningi af annarri skipaskrá, hvort sem er íslenskri eða erlendri, eða frumskráningu. Óheimilt er að skrá kaupskip á íslenska alþjóðlega skipaskrá sem samtímis er skráð á aðra skipaskrá, sbr. þó 3. og 4. mgr.
+
+Heimilt er að skrá kaupskip þurrleiguskráningu þegar aðilar skv. 1. mgr. hafa umráð þess með samningi og skilyrðum um eignarhald er ekki fullnægt.
+
+Heimilt er að skrá kaupskip sem frumskráð er á íslenska alþjóðlega skipaskrá þurrleiguskráningu á erlenda skipaskrá þegar skilyrðum 1. mgr. um eignarhald er fullnægt.
+
+[Samgöngustofu]<sup>1)</sup> er heimilt að neita skipi um skráningu á íslenska alþjóðlega skipaskrá ef viðkomandi skip hefur tekið þátt í eða tengst starfsemi sem er andstæð alþjóðlegum samningum sem Ísland er aðili að.
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 5. gr. Framkvæmd.
+
+[Samgöngustofa]<sup>1)</sup> heldur íslenska alþjóðlega skipaskrá og annast skráningu kaupskipa eftir því sem kveðið er á um í lögum og reglugerðum settum samkvæmt þeim.
+
+Heimahöfn kaupskipa sem skráð eru á íslenska alþjóðlega skipaskrá er í Reykjavík og skal réttindaskrá vegna réttinda í kaupskipum haldin við embætti sýslumannsins í Reykjavík.
+
+Sækja skal um skráningu á þar til gerðum eyðublöðum sem skulu vera tiltæk á íslensku og ensku, bæði á prentuðu formi hjá [Samgöngustofu]<sup>1)</sup> og rafrænt á heimasíðu stofnunarinnar og skal þar getið um þau gögn sem fylgja þurfa umsókn.
+
+[Samgöngustofa]<sup>1)</sup> sendir sýslumanninum í Reykjavík tilkynningu um skráningu þegar hún hefur farið fram.
+
+Um skráningu, þar á meðal um skilyrði skráningar og gögn sem fylgja þurfa umsókn, upplýsinga- og tilkynningarskyldu og útgáfu skírteina, og þurrleiguskráningu skal fara eftir gildandi íslenskum lögum hverju sinni um skráningu skipa á aðalskipaskrá, eftir því sem við á, og skulu slíkar reglur ávallt uppfylla alþjóðlegar kröfur um skráningu skipa að því leyti sem Ísland er skuldbundið til að framfylgja þeim reglum. Heimilt er að kveða á um sérstakar reglur sem gilda skulu um skráningu á íslenska alþjóðlega skipaskrá eingöngu og framkvæmd skráningar í reglugerð.
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 6. gr. Réttaráhrif skráningar.
+
+Kaupskip sem skráð eru á íslenska alþjóðlega skipaskrá teljast íslensk skip og hafa rétt til að sigla undir þjóðfána Íslands. Um slík kaupskip gilda íslensk lög, þar á meðal um skráningu, eftirlit og skoðun, og eiga þau undir íslenska lögsögu nema lög þessi kveði á um annað.
+
+Kaupskipum sem skráð eru á íslenska alþjóðlega skipaskrá er óheimilt að stunda áætlunarsiglingar með farþega milli hafna á Íslandi eingöngu.
+
+## 7. gr. Eigendaskipti.
+
+Ef eigendaskipti verða á kaupskipi sem skráð er á íslenska alþjóðlega skipaskrá eða gerð er breyting á því sem máli skiptir vegna skráningar skal nýr eigandi tafarlaust tilkynna [Samgöngustofu]<sup>1)</sup> um breytinguna og leggja fram nauðsynleg skjöl og skilríki sem því tengjast.
+
+[Samgöngustofa]<sup>1)</sup> skal tilkynna sýslumanninum í Reykjavík um nýjan eiganda þegar skráning hefur farið fram.
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 8. gr. Stimpilgjöld.
+
+Afsöl og önnur eignarheimildarskjöl vegna kaupskipa sem skráð eru á íslenska alþjóðlega skipaskrá eru stimpilfrjáls. Sama gildir um skjöl sem leggja höft eða bönd á slík skip og gefin eru út vegna kaupa á skipum eða smíði þeirra.
+
+## 9. gr. Breyting á notkun kaupskips.
+
+Nú verður breyting á notkun kaupskips sem skráð er á íslenska alþjóðlega skipaskrá, þannig að það uppfyllir ekki lengur skilyrði skráningar samkvæmt lögum þessum, og er þá eiganda þess skylt að tilkynna það tafarlaust til [Samgöngustofu].<sup>1)</sup> Nú er breytingin varanleg og skal [Samgöngustofa]<sup>1)</sup> þá afskrá kaupskipið af íslensku alþjóðlegu skipaskránni.
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 10. gr. Afskráning.
+
+[Samgöngustofa]<sup>1)</sup> skal afskrá kaupskip af íslensku alþjóðlegu skipaskránni ef eitthvað af eftirfarandi á við:
+
+1\. ef skilyrðum skráningar samkvæmt lögum þessum er ekki lengur fullnægt,
+
+2\. ef kaupskip hefur farist svo um það sé kunnugt eða það hefur horfið án þess að til þess hafi spurst í sex mánuði,
+
+3\. ef kaupskip er rifið, metið ónýtt eða ekki talið þess virði að við það sé gert,
+
+4\. ef kaupskip hefur legið ónotað í höfn eða skipalægi eða staðið á landi í þrjú ár samfleytt hérlendis eða erlendis.
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 11. gr. Mönnun kaupskipa.
+
+Hver íslenskur ríkisborgari sem fullnægir skilyrðum sem ákveðin eru í reglugerð um menntun, siglingatíma, aldur og heilsufar á rétt á að fá útgefið skírteini og starfa sem skipstjóri á kaupskipi skráðu á íslensku alþjóðlegu skipaskrána. Sama rétt hafa einnig ríkisborgarar annarra ríkja Evrópska efnahagssvæðisins og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu og Færeyingar.
+
+[Samgöngustofu]<sup>1)</sup> er heimilt að veita öðrum ríkisborgurum heimild til að starfa sem skipstjórar á kaupskipum sem skráð eru á íslenska alþjóðlega skipaskrá eftir nánari skilyrðum sem ákveðin skulu í reglugerð. Að öðru leyti gilda ekki sérstakar reglur um þjóðerni áhafna skipa sem skráð eru á íslenska alþjóðlega skipaskrá.
+
+Áhafnir kaupskipa sem skráð eru á íslenska alþjóðlega skipaskrá skulu uppfylla lágmarkskröfur alþjóðasamþykktar um viðmiðanir að því er varðar menntun og þjálfun, skírteini og vaktstöður sjómanna (STCW) og skal gætt reglna um öryggismönnun.
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 12. gr. Gjaldtaka.
+
+Gjaldtaka vegna skráningar kaupskipa á íslenska alþjóðlega skipaskrá skal nánar ákveðin í reglugerð og skal kveðið á um gjöldin í gjaldskrá [Samgöngustofu].<sup>1)</sup>
+
+> <sup>1)</sup>[L. 59/2013, 32. gr.](https://www.althingi.is/altext/stjt/2013.059.html)
+
+## 13. gr. Viðurlög o.fl.
+
+Brot gegn lögum þessum varða sektum nema þyngri refsing liggi við eftir öðrum lögum …<sup>1)</sup>
+
+> <sup>1)</sup>[L. 88/2008, 233. gr.](https://www.althingi.is/altext/stjt/2008.088.html#G233)
+
+## 14. gr. Reglugerð.
+
+[Ráðherra]<sup>1)</sup> er heimilt að setja reglugerð þar sem nánar er kveðið á um framkvæmd laga þessara, þar á meðal um stofnun íslenskrar alþjóðlegrar skipaskrár, hvaða kaupskip má skrá þar, útgáfu skírteina, tilkynningar- og upplýsingaskyldu, skoðun, eftirlit og merkingu kaupskipa sem skráð eru á íslenska alþjóðlega skipaskrá, útgáfu skírteina vegna skráningarinnar og afskráningar og skilyrði um menntun, siglingatíma, aldur og heilsufar skipstjóra.
+
+> <sup>1)</sup>[L. 126/2011, 450. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+## 15. gr. Gildistaka.
+
+Lög þessi öðlast gildi 1. janúar 2008.

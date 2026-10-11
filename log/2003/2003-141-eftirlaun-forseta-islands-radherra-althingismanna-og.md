@@ -1,0 +1,203 @@
+---
+title: "Lög um eftirlaun forseta Íslands, ráðherra, alþingismanna og hæstaréttardómara"
+identifier: "141/2003"
+lagasafn_id: "2003141"
+type: act
+jurisdiction: is
+language: is
+date: 2003-12-20
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+source: "https://www.althingi.is/lagas/158a/2003141.html"
+retrieved: 2026-10-12
+---
+
+# Lög um eftirlaun forseta Íslands, ráðherra, alþingismanna og hæstaréttardómara
+
+**2003 nr. 141 20. desember**
+
+*<sup>1)</sup>Lögin voru felld úr gildi með [l. 12/2009, 1. gr.](../2009/2009-12-afnam-laga-nr-141-2003-um-eftirlaun-forseta-islands-radherra.md), sem tóku gildi 25. apríl 2009. Skv. 2. gr. s.l. skulu ákvæði laganna halda gildi sínu gagnvart hæstaréttardómurum sem skipaðir voru í Hæstarétt fyrir 25. apríl 2009 og þáverandi forseta Íslands.*
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=130&mnr=447) [*Frumvarp til laga.*](https://www.althingi.is/altext/130/s/0635.html)
+
+**Tóku gildi 30. desember 2003.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **fjármála- og efnahagsráðherra** eða **fjármála- og efnahagsráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 47/2006](https://www.althingi.is/altext/stjt/2006.047.html) (tóku gildi 1. júlí 2006).
+- [L. 169/2008](https://www.althingi.is/altext/stjt/2008.169.html) (tóku gildi 1. júlí 2009 en þá höfðu lögin verið felld úr gildi með
+- [l. 12/2009](../2009/2009-12-afnam-laga-nr-141-2003-um-eftirlaun-forseta-islands-radherra.md)).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 79/2019](https://www.althingi.is/altext/stjt/2019.079.html) (tóku gildi 6. júlí 2019; komu til framkvæmda skv. fyrirmælum í brbákv.).
+
+## I. kafli. Eftirlaunaréttur, lífeyrisiðgjald og greiðsla eftirlauna.
+
+### 1. gr.
+
+Forseti Íslands, ráðherrar, alþingismenn og hæstaréttardómarar eiga rétt til eftirlauna úr ríkissjóði þegar þeir láta af störfum samkvæmt nánari ákvæðum í lögum þessum. Þeir skulu meðan þeir gegna störfum greiða í A-deild Lífeyrissjóðs starfsmanna ríkisins iðgjald sem nemi 5% af heildarlaunum eins og þau eru á hverjum tíma. Skal upphæðin dragast frá launum mánaðarlega og greiðast sjóðnum ásamt mótframlagi úr ríkissjóði sem sé jafnhátt hlutfall og fyrir almenna sjóðfélaga, sbr. 13. gr. laga um sjóðinn.
+
+Iðgjaldagreiðslur skv. 1. mgr. skapa rétt til lífeyris úr A-deild Lífeyrissjóðs starfsmanna ríkisins samkvæmt reglum um hana. Ellilífeyrir, makalífeyrir og örorkulífeyrir úr A-deild, sem byggist á iðgjaldagreiðslum skv. 1. mgr., kemur til frádráttar greiðslum ríkissjóðs samkvæmt lögum þessum. Eftir að þeir sem lög þessi taka til hafa náð fullum réttindum samkvæmt þeim fellur niður skylda þeirra til greiðslu iðgjalda.
+
+## II. kafli. Forseti Íslands.
+
+### 2. gr.
+
+Fyrrverandi forseti Íslands á rétt á eftirlaunum að liðnum þeim sex mánuðum sem hann nýtur biðlauna, sbr. [4. gr. laga nr. 10/1990](../1990/1990-10-log-um-starfskjor-og-skrifstofu-forseta-islands.md).
+
+Eftirlaunin nema 60% af launum forseta Íslands eins og þau eru ákveðin …<sup>1)</sup> hverju sinni. Ef forseti hefur gegnt embættinu lengur en eitt kjörtímabil eru eftirlaunin 70%, en 80% hafi hann gegnt embættinu lengur en tvö kjörtímabil.
+
+> <sup>1)</sup>[L. 79/2019, 24. gr.](https://www.althingi.is/altext/stjt/2019.079.html)
+
+### 3. gr.
+
+Nú andast forseti og skal þá greiða eftirlifandi maka hans full laun í sex mánuði. Að þeim tíma liðnum skal greiða makanum helming þeirra eftirlauna sem hinn látni forseti hefði átt rétt á.
+
+Um rétt maka forseta er látið hefur af störfum fer eftir 16. gr., sbr. 2. mgr. 1. gr.
+
+## III. kafli. Ráðherrar.
+
+### 4. gr.
+
+Fyrrverandi ráðherra á rétt á eftirlaunum úr ríkissjóði þegar svo stendur á að:
+
+1\. Hann er 65 ára eða eldri.
+
+2\. Hann lætur af ráðherrastörfum og er fullra 60 ára að aldri.
+
+3\. Hann hefur gegnt ráðherrastörfum í sex ár samtals eða lengur og lækkar þá aldursmark skv. l. tölul. um fimm ár og síðan til viðbótar um þann tíma sem hann er í embætti umfram sex ár. Aldursmarkið getur þó ekki lækkað um meira en tíu ár samkvæmt þessum tölulið.
+
+### 5. gr.
+
+Eftirlaunahlutfall fyrrverandi ráðherra er 6% fyrir hvert ár í embætti og samsvarandi fyrir hluta úr ári.
+
+Eftirlaunin fylgja ráðherralaunum eins og þau eru á hverjum tíma og eru sá hundraðshluti þeirra sem eftirlaunaréttur skv. 1. mgr. segir til um.
+
+Eftirlaunaréttur samkvæmt þessari grein verður þó aldrei meiri en 70%.
+
+### 6. gr.
+
+Fyrrverandi forsætisráðherra, sem hefur gegnt embætti í a.m.k. eitt ár, á rétt til eftirlauna samkvæmt lögum þessum með sama hlutfalli eftirlauna og forseti Íslands, sbr. 2. gr. Kjörtímabil samkvæmt þessari grein skal talið vera hver fjögur ár samtals í embætti. Sé embættistími ekki samfelldur má miða við samanlagðan tíma í árum talið og deila í hann með fjórum. Hafi fyrrverandi forsætisráðherra einnig gegnt ráðherrastörfum í ráðuneyti annarra má telja þriðjung þess embættistíma með til réttinda samkvæmt þessari grein.
+
+Eftirlaunin fylgja heildarlaunum forsætisráðherra eins og þau eru á hverjum tíma, þ.e. ráðherralaunum og þingfararkaupi, og eru sá hundraðshluti þeirra sem eftirlaunaréttur skv. 1. mgr. segir til um.
+
+Ákvæði 4. gr. gilda um rétt fyrrverandi forsætisráðherra samkvæmt þessari grein. Réttur eftir þessari grein kemur þá í stað annarra réttinda skv. III. og IV. kafla.
+
+### 7. gr.
+
+Fyrrverandi ráðherra, sem jafnframt hefur gegnt þingstörfum og uppfyllir skilyrði 4. gr. til að fá eftirlaun fyrir ráðherrastörf, öðlast, þrátt fyrir ákvæði 8. gr., jafnframt rétt til eftirlauna fyrir þingmennsku sína.
+
+## IV. kafli. Alþingismenn.
+
+### 8. gr.
+
+Fyrrverandi alþingismaður á rétt á eftirlaunum úr ríkissjóði þegar svo stendur á að:
+
+1\. Hann er 65 ára eða eldri.
+
+2\. Hann lætur af þingmennsku og er fullra 60 ára að aldri.
+
+3\. Hann hefur átt sæti á Alþingi í samtals 16 ár eða lengur og lækkar þá aldursmark skv. l. tölul. um fimm ár og síðan til viðbótar um sem svarar helmingi þingsetutíma hans sem er umfram 16 ár. Aldursmarkið getur þó ekki lækkað um meira en tíu ár samkvæmt þessum tölulið.
+
+### 9. gr.
+
+Eftirlaunahlutfall fyrrverandi alþingismanns er 3% fyrir hvert heilt ár þingsetu og samsvarandi fyrir hluta úr ári.
+
+Eftirlaunin fylgja þingfararkaupi eins og það er á hverjum tíma og eru sá hundraðshluti þess sem eftirlaunarétturinn skv. 1. mgr. segir til um.
+
+Eftirlaunaréttur verður aldrei meiri en 70%.
+
+Álagsgreiðslur skv. 3. gr. laga um þingfararkaup alþingismanna og þingfararkostnað mynda viðbótarrétt til eftirlauna samkvæmt hlutfalli sínu fyrir þann tíma sem þær eru greiddar.
+
+### 10. gr.
+
+Standi þingseta skemur en þrjú ár fellur niður réttur til greiðslna úr ríkissjóði samkvæmt þessum lögum. Veita þá iðgjaldagreiðslur skv. 1. gr. almennan rétt í A-deild Lífeyrissjóðs starfsmanna ríkisins samkvæmt lögum um sjóðinn.
+
+### 11. gr.
+
+Forseti Alþingis öðlast sama rétt til eftirlaunagreiðslna og ráðherra fyrir þann tíma sem hann gegnir forsetaembættinu.
+
+### 12. gr.
+
+Ráðherra, sem er ekki jafnframt alþingismaður, öðlast, auk réttinda skv. III. kafla, sama rétt til eftirlauna og alþingismenn fyrir þann tíma sem hann gegnir ráðherrastörfum.
+
+### 13. gr.
+
+Fyrrverandi alþingismaður, sem jafnframt hefur gegnt ráðherrastörfum og uppfyllir skilyrði 8. gr. til að fá eftirlaun fyrir þingmennsku, öðlast einnig, þrátt fyrir ákvæði 4. gr., rétt til eftirlauna fyrir ráðherrastörf sín.
+
+### 14. gr.
+
+Með „alþingismaður“ er í lögum þessum átt við þann sem hefur tekið fast sæti á Alþingi. Varaþingmaður greiðir 5% af launum fyrir þingsetuna til A-deildar Lífeyrissjóðs starfsmanna ríkisins og á rétt til lífeyris úr þeim sjóði eftir almennum reglum hans í samræmi við iðgjaldagreiðslur sínar.
+
+Þegar réttindi alþingismanna samkvæmt lögum þessum eru reiknuð út er talinn með sá tími þegar þeir sátu á Alþingi sem varaþingmenn.
+
+## V. kafli. Hæstaréttardómarar.
+
+### 15. gr.
+
+Fyrrverandi hæstaréttardómari á rétt á eftirlaunum úr ríkissjóði þegar svo stendur á að:
+
+1\. Hann er 65 ára eða eldri.
+
+2\. Hann hefur gegnt dómarastörfum í Hæstarétti tólf ár eða lengur og lækkar þá aldursmark skv. l. tölul. um fimm ár og síðan til viðbótar sem svarar embættistíma hans sem er umfram tólf ár, þó ekki meira en tíu ár.
+
+Eftirlaunahlutfallið er 6% fyrir hvert ár í embætti og samsvarandi fyrir hluta úr ári.
+
+Eftirlaunin fylgja föstum hæstaréttardómaralaunum eins og þau eru á hverjum tíma og eru sá hundraðshluti þeirra sem eftirlaunarétturinn skv. 2. mgr. segir til um.
+
+Eftirlaunaréttur verður aldrei meiri en 80%.
+
+Réttur til eftirlauna samkvæmt þessari grein á ekki við um þá dómara sem fá lausn skv. [61. gr. stjórnarskrárinnar](../../stjornarskra/1944-33-stjornarskra-lydveldisins-islands.md).
+
+## VI. kafli. Maka- og örorkulífeyrir, biðlaun, skerðing greiðslna o.fl.
+
+### 16. gr.
+
+Nú andast sá sem lög þessi taka til og á þá maki hans rétt á lífeyri úr ríkissjóði er nemur helmingi þeirrar fjárhæðar sem hinn látni hefði haft í eftirlaun, þó að frádregnum greiðslum skv. 2. mgr. 1. gr.
+
+Þegar greiðslum makalífeyris úr A-deild Lífeyrissjóðs starfsmanna ríkisins lýkur eftir reglum hans skerðast makalífeyrisgreiðslur úr ríkissjóði ef makinn hefur aðrar launatekjur og nemur skerðingin þriðjungi þess sem þau laun eru umfram fjárhæð makalífeyrisins.
+
+Nú á sá sem lög þessi taka til rétt til örorkulífeyris skv. 16. gr. laga um Lífeyrissjóð starfsmanna ríkisins og skal honum þá greiddur lífeyrir úr ríkissjóði sem nemur þeim réttindum til eftirlauna, sem hann hefur aflað sér, hlutfallslega eftir orkutapi, þó að frádregnum greiðslum skv. 2. mgr. 1. gr.
+
+### 17. gr.
+
+Réttindaávinnsla samkvæmt lögum þessum helst meðan biðlaun eru greidd, enda séu þau helmingur fullra launa eða meira og iðgjöld greidd af þeim.
+
+### 18. gr.
+
+Enginn á rétt til eftirlauna samkvæmt lögum þessum meðan hann gegnir starfi sem lögin taka til eða fær biðlaun fyrir það. Sama gildir þótt eftirlaunin séu greidd samkvæmt eldri lögum, sbr. 1. mgr. 22. gr.
+
+### 19. gr.
+
+Nú tekur sá sem nýtur eftirlauna samkvæmt lögum þessum við nýju starfi og skerðast þá eftirlaunagreiðslur til hans fram að 65 ára aldri um sem nemur 0,5% af áunnum rétti fyrir hvern mánuð eða brot úr mánuði sem vantar á 65 ára aldur frá því að við starfi er tekið. Sama skerðing verður á eftirlaunum þess sem er í starfi er hann öðlast rétt til eftirlauna samkvæmt lögum þessum. Skerðing greiðslna samkvæmt þessari grein fellur þó niður þegar látið er af starfi.
+
+### 20. gr.
+
+Sá sem hefur öðlast rétt til eftirlauna samkvæmt lögum þessum skal leita eftir útreikningi Lífeyrissjóðs starfsmanna ríkisins á réttindahlutfalli sínu. Sjóðurinn sendir [ráðuneytinu]<sup>1)</sup> niðurstöðuna. Verði ágreiningur má skjóta honum til þriggja manna nefndar. Forseti Alþingis, [ráðherra]<sup>1)</sup> og forseti Hæstaréttar tilnefna einn mann hver í nefndina.
+
+[Ráðherra]<sup>1)</sup> setur nánari reglur<sup>2)</sup> um framkvæmd laganna og fyrirkomulag greiðslna úr ríkissjóði og Lífeyrissjóði starfsmanna ríkisins.
+
+> <sup>1)</sup>[L. 126/2011, 378. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>Rgl. 496/2004.
+
+## VII. kafli. Gildistaka, brottfall laga, lagaskil o.fl.
+
+### 21. gr.
+
+Lög þessi öðlast þegar gildi.
+
+[…](https://www.althingi.is/altext/stjt/2003.141.html)
+
+### 22. gr.
+
+Lög þessi taka til þeirra er rétt eiga í alþingismanna- og ráðherradeild Lífeyrissjóðs starfsmanna ríkisins og eigi hafa þegar hafið töku lífeyris við gildistöku laganna. Nú hefur maður öðlast rétt samkvæmt eldri lögum og getur hann þá tekið eftirlaun eða makalífeyri samkvæmt þeim.
+
+Eftirlaun alþingismanna og ráðherra, sem ákvörðuð hafa verið samkvæmt eldri lögum eða verða ákvörðuð síðar samkvæmt þeim lögum, skulu greidd úr ríkissjóði frá gildistöku þessara laga. Sama gildir um makalífeyri, örorkulífeyri og barnalífeyri sem byggður er á eldri lögum. Eignir alþingismanna- og ráðherradeildar í Lífeyrissjóði starfsmanna ríkisins renna í ríkissjóð.
+
+Hæstaréttardómurum, sem eiga aðild að B-deild Lífeyrissjóðs starfsmanna ríkisins við gildistöku laga þessara, er heimilt, þrátt fyrir ákvæði 1. mgr. 1. gr., að greiða iðgjald til þeirrar deildar meðan þeir eru í starfi, enda fer þá um réttindi þeirra, maka þeirra og barna samkvæmt reglum deildarinnar.
+
+Iðgjaldagreiðslur forseta Íslands skv. 1. gr. hefjast 1. ágúst 2004.
+
+### 23. gr.
+
+[…](https://www.althingi.is/altext/stjt/2003.141.html)

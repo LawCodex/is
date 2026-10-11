@@ -1,0 +1,20 @@
+---
+title: "Konungsbréf (til biskups), er löggildir máldagabók Gísla biskups Jónssonar"
+identifier: "1749054"
+lagasafn_id: "1749054"
+type: letter
+jurisdiction: is
+language: is
+date: 1749-04-05
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "20.b. Kirkjubyggingar, kirkjueignir o.fl."
+source: "https://www.althingi.is/lagas/158a/1749054.html"
+retrieved: 2026-10-12
+---
+
+# Konungsbréf (til biskups), er löggildir máldagabók Gísla biskups Jónssonar
+
+**1749 5. apríl**
+
+Vér höfum orðið þess áskynja af allraþegnsamlegustu bréfi þínu 10. júní f.á., að í stiftskistunni í Skálholtsstifti, sem þú ert allranáðarsamlegast skipaður yfir, sé, auk hinnar gömlu svokölluðu máldagabókar Vilchins biskups eða kirkjuregisturs, sem löggilt var með 16. gr. í erindisbréfi biskupa á Voru landi Íslandi, annað kirkjuregistur, sem fyrrverandi biskup í Skálholtsstifti, herra Gísli heitinn Jónsson, á að hafa samið árið 1575; tjáist registur þetta aðeins vera óstaðfest eftirrit, en konsistorialrétturinn á árið 1710 að hafa á landsþinginu kveðið upp það álit sitt, að það væri hið elsta og áreiðanlegasta kirkjuregistur sem til væri í stiftinu, því að í því eiga að vera taldar kirkjur nokkrar og réttindi þeirra, sem þær eiga enn þá, en eigi eru talin í Vilchins máldagabók, sem heldur eigi tjáist telja allar kirkjur í stiftinu. Fyrir því gefum Vér þér hér með til vitundar, að Oss hefur allramildilegast þóknast … auk fyrrnefnds kirkjuregisturs Vilchins biskups sem þegar hefur löggilt verið í Skálholtsstifti með 16. gr. í erindisbréfi biskupanna, að löggilda einnig allramildilegast fyrrtéð kirkjuregistur eða máldagabók, sem þáverandi biskup yfir Skálholtsstifti, Gísli heitinn Jónsson, samdi árið 1575, og viljum Vér því allramildilegast, að þó að eftirrit það af registri þessu, sem er í stiftskistunni, sé óstaðfest, þá skuli registrið eins fyrir það vera talið áreiðanlegt og authentiskt kirkjuregistur; þó skal að öðru leyti farið eftir oftnefndri 16. gr. í erindisbréfi því, er allramildilegast hefur verið útgefið handa biskupum á Íslandi.

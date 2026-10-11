@@ -1,0 +1,149 @@
+---
+title: "Lög um framkvæmd eignarnáms"
+identifier: "11/1973"
+lagasafn_id: "1973011"
+type: act
+jurisdiction: is
+language: is
+date: 1973-04-06
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "46.b. Stofnun eignarréttinda"
+source: "https://www.althingi.is/lagas/158a/1973011.html"
+retrieved: 2026-10-12
+---
+
+# Lög um framkvæmd eignarnáms
+
+**1973 11 6. apríl**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=93&mnr=23) [*Frumvarp til laga.*](https://www.althingi.is/altext/pdf/93/s/0023.pdf)
+
+**Tóku gildi 14. maí 1973.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **dómsmálaráðherra** eða **dómsmálaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 91/1991](https://www.althingi.is/altext/stjt/1991.091.html) (tóku gildi 1. júlí 1992).
+- [L. 92/1991](https://www.althingi.is/altext/stjt/1991.092.html) (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992).
+- [L. 61/2006](https://www.althingi.is/altext/stjt/2006.061.html) (tóku gildi 1. júlí 2006).
+- [L. 83/2008](https://www.althingi.is/altext/stjt/2008.083.html) (tóku gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008).
+- [L. 77/2010](https://www.althingi.is/altext/stjt/2010.077.html) (tóku gildi 1. júlí 2010).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 36/2022](https://www.althingi.is/altext/stjt/2022.036.html) (tóku gildi 1. júlí 2022, sbr.
+- [l. 11/2026](https://www.althingi.is/altext/stjt/2026.011.html)).
+- [L. 11/2026](https://www.althingi.is/altext/stjt/2026.011.html) (tóku gildi 5. mars 2026; um lagaskil sjá 68. gr. og brbákv.).
+
+## 1. gr.
+
+Við ákvörðun bóta vegna eignarnáms, sem heimilað er í lögum, skal gætt ákvæða laga þessara. Sama á við bætur og annað endurgjald, sem lögum samkvæmt skal ákvarða í samræmi við lög um framkvæmd eignarnáms. Í engu skal þó haggað ákvæðum laga …<sup>1)</sup> um lax- og silungsveiði, né [vatnalaga, 15/1923](../1923/1923-15-vatnalog.md). Um eignarnám til öflunar vatnsréttinda og aðstöðu til nýtingar þeirra samkvæmt öðrum lögum skal og fara eftir ákvæðum vatnalaga. Þá skulu einnig haldast ákvæði loftferðalaga, skipulagslaga, náttúruverndarlaga og vegalaga um fresti til að lýsa kröfum vegna tiltekinna eignarskerðinga samkvæmt þeim lögum.
+
+Í lögunum er merking eftirtalinna orða þessi:
+
+*Eignarnemi:* Aðili, sem neytir eða hyggst neyta eignarnámsheimildar.
+
+*Eignarnámsþoli:* Eigandi verðmætis, sem eignarnám beinist að, eða annar rétthafi, sem getur átt rétt til eignarnámsbóta.
+
+*Heimildarlög:* Lög, sem heimila eða fyrirskipa eignarnám.
+
+> <sup>1)</sup>[L. 61/2006, 57. gr.](https://www.althingi.is/altext/stjt/2006.061.html#G57)
+
+## 2. gr.
+
+Matsnefnd eignarnámsbóta sker úr ágreiningi um eignarnámsbætur og annað endurgjald, sem ákveða á samkvæmt lögum um framkvæmd eignarnáms.
+
+Ráðherra skipar formann matsnefndar til fimm ára í senn og annan til vara. Þeir skulu hafa lokið embættisprófi í lögfræði. Til meðferðar hvers máls kveður formaður tvo eða fjóra hæfa og óvilhalla menn. Um hæfi matsmanns til meðferðar einstaks máls skal fara eftir ákvæðum …<sup>1)</sup> laga …<sup>1)</sup> um meðferð einkamála …<sup>1)</sup> eftir því sem við getur átt. Afl atkvæða ræður matsniðurstöðu.
+
+> <sup>1)</sup>[L. 91/1991, 160. gr.](https://www.althingi.is/altext/stjt/1991.091.html#G160)
+
+## 3. gr.
+
+Ef eigi leiðir annað af heimildarlögum, má með eignarnámi afla eignarréttar að landi og mannvirkjum ásamt því, sem þeim fylgir, skerða um ákveðinn tíma eða fyrir fullt og allt eignarrétt eða takmörkuð eignarréttindi yfir fasteign og stofna eða fella niður afnotaréttindi, ítaksréttindi og önnur takmörkuð eignarréttindi yfir fasteignum.
+
+Þegar eignarréttar er aflað með eignarnámi, skulu öll takmörkuð eignarréttindi jafnframt afnumin, nema annað sé sérstaklega ákveðið.
+
+## 4. gr.
+
+Eignarnemi skal, þegar hann neytir eignarnámsheimildar sinnar, senda matsnefnd eignarnámsbóta beiðni um, að mat fari fram. Beiðninni skal fylgja greinargerð fyrir eignarnámsheimild þeirri, sem beiðnin styðst við, og þeim framkvæmdum, sem eru tilefni eignarnámsins. Einnig skal tilgreina þær eignir, sem eignarnám lýtur að, og þeim eignarskerðingum lýst, sem eignarnámið hefur í för með sér. Þá skal eignarnemi, að svo miklu leyti sem auðið er, láta fylgja beiðninni skrá yfir eigendur og aðra rétthafa, sem eignarnámið snertir.
+
+## 5. gr.
+
+Fallist matsnefnd á, að lagaheimild sé til eignarnámsins, ákveður hún dag til fyrirtöku málsins með a.m.k. viku fyrirvara. Skal það gert með skriflegri tilkynningu til eignarnema og eignarnámsþola, í ábyrgðarbréfi, símskeyti eða með öðrum tryggum hætti.
+
+Ef ekki þykir nægilega ljóst, hverjir eigi rétt til eignarnámsbóta, skal birta opinbera tilkynningu í Lögbirtingablaði eða með öðrum tryggilegum hætti. Matsnefnd skal taka mál fyrir, áður en liðnir eru tveir mánuðir frá því að hún fékk það til meðferðar.
+
+## 6. gr.
+
+Nú hefur aðili, sem heimild hefur til eignarnáms, tekið umráð eignar, og geta þá eigandi og aðrir rétthafar krafist fyrirtöku máls, sbr. 5. gr.
+
+## 7. gr.
+
+Við fyrirtöku máls skal matsnefnd leita sátta með aðilum um eignarnámsbætur. Takist sættir, er matsmáli þar með lokið. Færa skal sátt til bókar og skal greina bótafjárhæð, greiðsluskilmála og önnur skilyrði, sem eignarnemi skal uppfylla, áður en hann fær umráð verðmætis þess, sem eignarnámi er tekið.
+
+## 8. gr.
+
+Eigendur og aðrir rétthafar eignar, sem eignarnámi er tekin, skulu eiga þess kost að kynna sér öll gögn, er eignarnámið varða og máli skipta við ákvörðun bótafjárhæðar. Krefja má og eignarnema nánari skýringa á einstökum atriðum fyrirhugaðra framkvæmda, sem eignarskerðingu hafa í för með sér, svo og upplýsinga um ráðstafanir til að firra eignarnámsþola tjóni.
+
+Veita skal aðilum hæfilegan frest til gagnaöflunar og málatilbúnaðar að öðru leyti.
+
+## 9. gr.
+
+Eignarnemi og eignarnámsþoli skulu lýsa sjónarmiðum sínum og rökstyðja þau í skriflegum greinargerðum. Einnig má ákveða, að mál skuli auk þess munnlega flutt.
+
+Þegar nauðsyn krefur, framkvæmir matsnefnd vettvangsgöngu að tilkvöddum málsaðilum.
+
+## 10. gr.
+
+Matsnefnd skal kveða upp úrskurð um fjárhæð eignarnámsbóta til eignarnámsþola. Í úrskurðinum skal gerð grein fyrir þeim atvikum og réttarreglum, sem liggja til grundvallar niðurstöðum mats. Bótafjárhæð skal vera sundurliðuð og lýst grundvelli útreikninga. Jafnan skal taka afstöðu til ágreiningsatriða. Tiltaka skal sérstaklega, hvern matskostnað eignarnemi eigi að greiða, sbr. 11. gr.
+
+Eigi aðrir rétthafar en eigandi eignarnumins verðmætis rétt til eignarnámsbóta, skal meta og tilgreina sérstaklega þær bætur, sem hverjum þeirra ber.
+
+## 11. gr.
+
+Kostnað af starfi matsnefndar skal greiða úr ríkissjóði, en matsnefnd ákveður hverju sinni í úrskurði sínum, þegar ríkið er ekki eignarnemi, hverja greiðslu eignarnemi skuli inna af hendi til ríkissjóðs vegna slíks kostnaðar. [Ráðherra]<sup>1)</sup> getur sett nánari reglur um greiðslu þessa kostnaðar, og svo um þóknun til nefndarmanna. Eignarnemi skal greiða eignarnámsþola endurgjald vegna þess kostnaðar, sem eignarnámsþoli hefur haft af rekstri matsmáls og hæfilegur verður talinn.
+
+> <sup>1)</sup>[L. 126/2011, 57. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+## 12. gr.
+
+Skerðist fasteign með þeim hætti við eignarnám, að sá hluti hennar, sem eftir er, verður ekki nýttur á eðlilegan hátt sem sjálfstæð eign, getur matsnefnd ákveðið að kröfu eiganda, að eignarnámið skuli ná til eignarinnar allrar.
+
+Ef bersýnilegt ósamræmi reynist milli bóta vegna skerðingar eignar og verðmætis þess hluta hennar, sem eftir er, getur eignarnemi krafist þess, að eignarnámið taki til eignarinnar allrar.
+
+Þegar fasteign eða hluti fasteignar er tekinn eignarnámi, getur matsnefnd ákveðið, að eignarnámsþola verði bætt tjón hans að einhverju eða öllu leyti með fasteign eða hluta fasteignar, sem eignarnemi getur ráðstafað.
+
+## 13. gr.
+
+Þegar mat liggur fyrir, getur eignarnemi tekið umráð eignarnumins verðmætis gegn greiðslu matsfjárhæðar og kostnaðar af mati. Er eignarnema rétt að leita [aðfarargerðar án undangengins dóms eða sáttar]<sup>1)</sup> í þessu skyni. Sama gildir, þegar sátt hefur orðið um eignarnámsbætur, sbr. 7. gr., eða umráðataka verið heimiluð gegn tryggingu, ef tryggingar hefur verið krafist, sbr. 14. gr.
+
+> <sup>1)</sup>[L. 92/1991, 63. gr.](https://www.althingi.is/altext/stjt/1991.092.html)
+
+## 14. gr.
+
+Þótt mati sé ekki lokið, getur matsnefnd heimilað eignarnema að taka umráð verðmætis, sem taka á eignarnámi, og ráðast í þær framkvæmdir, sem eru tilefni eignarnámsins. Ef krafa kemur fram um það af hálfu eignarnámsþola, skal eignarnemi setja tryggingu fyrir væntanlegum bótum. Ákveður matsnefnd trygginguna.
+
+Matsnefnd er og heimilt að hafa þann hátt á, sem segir í 1. mgr. þessarar greinar, ef vandkvæði eru á að ákveða bætur fyrirfram eða mat er að öðru leyti vandasamt.
+
+## 15. gr.
+
+Eignarnemi getur horfið frá fyrirhuguðu eignarnámi, ef hann segir til þess innan mánaðar frá því að mat á eignarnámsbótum lá fyrir, en bæta skal hann allt tjón, sem rakið verður til aðgerða hans. Að kröfu eignarnámsþola er eignarnema þó skylt að greiða eignarnámsbætur, ef eignarnemi hefur tekið umráð eða hafið hagnýtingu verðmætis, eftir atvikum gegn tryggingu, sbr. 14. gr.
+
+## 16. gr.
+
+Heimilt er matsnefnd, þótt eignarnámsmati sé lokið, að taka til úrlausnar kröfur um eignarnámsbætur, sem ekki hefur verið fjallað um í matinu, ef krafa kemur fram um það, áður en ár er liðið frá því að þeim framkvæmdum lauk, sem voru tilefni eignarnámsins. Sama gildir um bótakröfur eignarnámsþola, er stafa af því, að veruleg breyting hefur orðið á bótagrundvelli þeim, sem matsniðurstaða byggist á.
+
+## 17. gr.
+
+Leita má úrlausnar dómstóla um ágreining út af lögmæti eignarnáms, þar á meðal ágreining um fjárhæð eignarnámsbóta, en um síðastgreint atriði þó ekki fyrr en úrlausn matsnefndar liggur fyrir.
+
+## 18. gr.
+
+Formaður matsnefndar varðveitir matsúrskurði og sér um útgáfu þeirra eða útdrátta úr þeim. Jafnan skal senda [Húsnæðis-, mannvirkja- og skipulagsstofnun]<sup>1)</sup> afrit matsúrskurða.
+
+> <sup>1)</sup>[L. 11/2026, 9. gr.](https://www.althingi.is/altext/stjt/2026.011.html)
+
+## 19. gr.
+
+Lög þessi öðlast þegar gildi. […](https://www.althingi.is/lagasafn/leidbeiningar)

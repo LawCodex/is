@@ -1,0 +1,107 @@
+---
+title: "Lög um skipti á upplýsingum um tæknilegar reglur um vörur og fjarþjónustu"
+identifier: "57/2000"
+lagasafn_id: "2000057"
+type: act
+jurisdiction: is
+language: is
+date: 2000-05-19
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "14.c. Ýmsar alþjóðastofnanir"
+source: "https://www.althingi.is/lagas/158a/2000057.html"
+retrieved: 2026-10-12
+---
+
+# Lög um skipti á upplýsingum um tæknilegar reglur um vörur og fjarþjónustu
+
+**2000 nr. 57 19. maí**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=125&mnr=452) [*Frumvarp til laga.*](https://www.althingi.is/altext/125/s/0726.html)
+
+**Tóku gildi 26. maí 2000.** *EES-samningurinn:* II. eða XI. viðauki tilskipun 98/34/EB.
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **utanríkisráðherra** eða **utanríkisráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 76/2002](https://www.althingi.is/altext/stjt/2002.076.html) (tóku gildi 17. maí 2002).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+
+## 1. gr. Tilgangur.
+
+Tilgangur laga þessara er að uppfylla samningsskuldbindingar Íslands varðandi skipti á upplýsingum um tæknilegar reglur um vörur og fjarþjónustu sem geta haft í för með sér óheimilar tæknilegar viðskiptahindranir.
+
+[Samningar þeir sem hér um ræðir eru samningurinn um Evrópska efnahagssvæðið, samningur Alþjóðaviðskiptastofnunarinnar um tæknilegar viðskiptahindranir og stofnsamningur Fríverslunarsamtaka Evrópu.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 76/2002, 37. gr.](https://www.althingi.is/altext/stjt/2002.076.html)
+
+## 2. gr. Skilgreiningar.
+
+Í lögum þessum er merking eftirfarandi orða og orðasambanda sem hér segir:
+
+1\. *Tæknilegar viðskiptahindranir:* Hindranir í milliríkjaviðskiptum sem stafa af mismunandi tæknilegum reglum í einstökum ríkjum.
+
+2\. *Tæknilegar reglur:* Lög, reglugerðir eða önnur stjórnvaldsfyrirmæli sem fela í sér eða vísa beint eða óbeint til tæknilýsinga, tæknilegra krafna eða annarra krafna og eru íþyngjandi við markaðssetningu eða notkun vöru eða banna framleiðslu, innflutning, markaðssetningu eða notkun vöru. Til tæknilegra reglna í skilningi laganna teljast einnig frjálsir samningar sem stjórnvöld eru aðilar að og kveða á um að tæknilegum kröfum sé hlítt. Þá falla undir skilgreininguna tæknilegar kröfur eða aðrar kröfur sem tengjast ráðstöfunum í skatta- eða peningamálum og hafa áhrif á neyslu vara með því að hvatt er til að tilteknum tæknilegum kröfum sé hlítt. Til tæknilegra reglna í skilningi laganna teljast hins vegar ekki tæknilegar kröfur eða aðrar kröfur sem settar eru við opinber útboð eða við önnur innkaup hins opinbera eða tæknilegar reglur sem tengjast almannatryggingakerfinu.
+
+3\. *Tæknilegar kröfur:* Kröfur sem skilgreina þá eiginleika sem vara skal uppfylla, til dæmis varðandi gæði, afköst, öryggi eða stærð, að meðtöldum kröfum um vörumerki, íðorð, tákn, prófun og prófunaraðferðir, umbúðir, merkingu og möguleika á að meta samhæfi. Til tæknilegra krafna teljast einnig kröfur varðandi framleiðsluferli og framleiðsluaðferðir.
+
+4\. *Aðrar kröfur:* Kröfur sem ekki eru tæknilegar kröfur en eru gerðar til vöru og hafa áhrif á feril hennar eftir að hún hefur verið sett á markað, svo sem skilyrði varðandi notkun, endurvinnslu, endurnýtingu eða vörslu, ef þessar kröfur geta haft afgerandi áhrif á samsetningu, eðli eða markaðssetningu vörunnar.
+
+5\. *Vörur:* Allar framleiðsluafurðir iðnaðar, allar landbúnaðar- og fiskafurðir.
+
+6\. *Tæknilegar reglur um fjarþjónustu:* Tæknilegar reglur um uppsetningu og starfrækslu fjarþjónustu, einkum ákvæði um þann sem veitir þjónustuna, þjónustuna sjálfa og viðtakanda hennar og eru íþyngjandi við markaðssetningu, uppsetningu eða notkun slíkrar þjónustu.
+
+7\. *Fjarþjónusta:* Þjónusta sem innt er af hendi gegn þóknun og veitt:
+
+a. úr fjarlægð, þ.e. án þess að aðilar séu staddir á sama stað á sama tíma,
+
+b. rafrænt, þ.e. þjónustan er send og móttekin með notkun rafbúnaðar sem ætlaður er til vinnslu og geymslu gagna og er algerlega send, flutt og móttekin um þráð eða þráðlaust, um ljósleiðara eða með öðrum rafsegulleiðum,
+
+c. að beiðni viðtakandans, þ.e. þjónustan er veitt þannig að gögn eru send að beiðni viðtakandans.
+
+## 3. gr. Almenn ákvæði.
+
+Stjórnvöld skulu jafnan beita sér fyrir því að alþjóðlegar skuldbindingar um frjálst flæði vöru séu virtar. Þegar settar eru tæknilegar reglur um vöruviðskipti eða fjarþjónustu skal þess gætt að ekki skapist ónauðsynlegar hindranir í milliríkjaviðskiptum. Sama á við þegar settar eru reglur um aðferðir við mat á samræmi við tæknilegar kröfur og um gagnkvæmar viðurkenningar á prófunum og vottunum. Haga skal samningu tæknilegra reglna í samræmi við alþjóðlega og evrópska staðla, svo sem kostur er.
+
+## 4. gr. Hlutverk [ráðuneytisins].<sup>1)</sup>
+
+[Ráðuneytið]<sup>1)</sup> tilkynnir alþjóðastofnunum um fyrirhugaða setningu tæknilegra reglna í samræmi við ákvæði milliríkjasamninga. Ráðuneytið veitir ráðgjöf um samningu tæknilegra reglna, tekur á móti tilkynningum um fyrirhugaða setningu tæknilegra reglna erlendis frá og miðlar upplýsingum um efni þeirra. Ráðuneytinu er heimilt að fela öðrum stofnunum framkvæmd upplýsingamiðlunar af þessum toga með samningi.
+
+> <sup>1)</sup>[L. 126/2011, 303. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+## 5. gr. Tilkynningarskylda stjórnvalda.
+
+Sá sem útbýr drög að tæknilegum reglum skal tilkynna [ráðuneytinu]<sup>1)</sup> um fyrirhugaðar reglur þegar drögin eru efnislega fullbúin. Senda skal ráðuneytinu drögin ásamt stuttri samantekt um efni þeirra. Ekki er þörf á tilkynningu til [ráðuneytisins]<sup>1)</sup> um fyrirhugaða setningu tæknilegrar reglu sem:
+
+a. eingöngu framkvæmir gerðir sem vísað er til í ákvörðunum sameiginlegu EES-nefndarinnar,
+
+b. uppfyllir skuldbindingar vegna alþjóðlegra samninga þar sem stefnt er að því að samþykkja almennar tæknilegar reglugerðir á vettvangi EES-samningsins,
+
+c. færir sér í nyt öryggisákvæði í bindandi gerðum EES-samningsins,
+
+d. byggist á Rapex-tilkynningarkerfinu um hættulega vöru á markaði í samræmi við ákvæði [laga nr. 134/1995](../1995/1995-134-oryggi-voru-og-opinbera-markadsgaeslu.md), um öryggi vöru og opinbera markaðsgæslu,
+
+e. sett er í þeim tilgangi einum að fullnægja dómum sem EFTA-dómstóllinn fellir og dómum sem nefndir eru í 6. gr. samningsins um Evrópska efnahagssvæðið og 3. gr. samningsins um Eftirlitsstofnun EFTA og EFTA-dómstólinn,
+
+f. sett er í þeim tilgangi einum að breyta tæknilegri reglu í samræmi við athugasemdir Eftirlitsstofnunar EFTA með það í huga að ryðja viðskiptahindrunum úr vegi.
+
+Þörf er á tilkynningu til Alþjóðaviðskiptastofnunarinnar ef fyrirhuguð setning tæknilegrar reglu getur haft veruleg áhrif á viðskipti annars aðila að samningnum um stofnun Alþjóðaviðskiptastofnunarinnar. Sama gildir um tæknilegar reglur sem ekki samræmast alþjóðastöðlum.
+
+> <sup>1)</sup>[L. 126/2011, 303. gr.](https://www.althingi.is/altext/stjt/2011.126.html)
+
+## 6. gr. Frestun formlegrar setningar.
+
+Fresta skal formlegri setningu tæknilegra reglna um vörur um þrjá mánuði frá þeim degi sem tilkynnt var um fyrirhugaða setningu reglnanna til alþjóðastofnana, sbr. 4. gr., en um fjóra mánuði þegar um er að ræða tæknilegar reglur um fjarþjónustu.
+
+Ákvæði 1. mgr. gildir þó ekki í þeim tilvikum þegar nauðsynlegt er vegna brýnna ástæðna sem tengjast verndun almannaheilbrigðis og -öryggis eða vernd dýra eða náttúru að grípa til setningar reglna með skömmum fyrirvara svo að ekki gefst færi til samráðs. Í þeim tilvikum ber í tilkynningu skv. 4. gr. að greina ástæður þess að ekki er unnt að fresta formlegri setningu reglnanna.
+
+## 7. gr. Reglugerðarheimild.
+
+[Ráðherra]<sup>1)</sup> er heimilt að setja í reglugerð<sup>2)</sup> nánari ákvæði um framkvæmd laga þessara.
+
+> <sup>1)</sup>[L. 126/2011, 303. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>[Rg. 557/2017](https://www.reglugerd.is/reglugerdir/allar/nr/557-2017). [Rg. 731/2026](https://www.reglugerd.is/reglugerdir/allar/nr/731-2026).
+
+## 8. gr. Gildistaka.
+
+Lög þessi öðlast þegar gildi.

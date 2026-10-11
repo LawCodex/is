@@ -1,0 +1,20 @@
+---
+title: "Opið bréf (frá kansellíinu) um meðferð á fundnu fé í kaupstöðum"
+identifier: "1811086"
+lagasafn_id: "1811086"
+type: letter
+jurisdiction: is
+language: is
+date: 1811-06-08
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "46.b. Stofnun eignarréttinda"
+source: "https://www.althingi.is/lagas/158a/1811086.html"
+retrieved: 2026-10-12
+---
+
+# Opið bréf (frá kansellíinu) um meðferð á fundnu fé í kaupstöðum
+
+**1811 8. júní**
+
+Í opnu bréfi 28. september 1767, fyrir Kaupmannahöfn, er ákveðið: að fundnir munir skulu geymdir á skrifstofu lögreglustjóra, og skuli þar bókað, hver fundið hafi hvern hlut og hvar, og það auglýst í blaði og með uppfestri skrifaðri auglýsingu; að þegar eigandinn gefur sig fram og fær hið fundna afhent á skrifstofu lögreglustjóra, skuli hann greiða dálitla þóknun í fundarlaun, eftir verði hlutarins, atvikum og úrskurði lögreglustjóra og auk þess kostnað við birtingu í blaði; og loks að, ef eigandinn kemur eigi innan árs og dags, skuli selja hið fundna handa lögreglusjóðnum, og finnandi þá fá þriðjung þess í fundarlaun. En með allrahæstum úrskurði, 5. júní síðastl., hefir Hans Hátign allramildilegast ákveðið, að fyrirmælin í ofannefndu opnu bréfi, 28. september 1767, skulu eftirleiðis einnig ná til allra annarra kaupstaða í báðum ríkjunum, þó svo, að í þeim kaupstöðum, þar sem engin blöð koma út, skal hinum fundnu munum lýst með uppfestum auglýsingum og bumbuslætti.

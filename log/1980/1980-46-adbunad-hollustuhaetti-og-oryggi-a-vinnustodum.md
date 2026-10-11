@@ -1,0 +1,1311 @@
+---
+title: "Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum"
+identifier: "46/1980"
+lagasafn_id: "1980046"
+type: act
+jurisdiction: is
+language: is
+date: 1980-05-28
+last_amended: 2026-10-01  # consolidation date (Lagasafn 158a)
+status: in_force
+subject: "26.d. Vinnustaðir og vinnutími"
+source: "https://www.althingi.is/lagas/158a/1980046.html"
+retrieved: 2026-10-12
+---
+
+# Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
+
+**1980 46 28. maí**
+
+[*Ferill málsins á Alþingi.*](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=102&mnr=18) [*Frumvarp til laga.*](https://www.althingi.is/altext/pdf/102/s/0018.pdf)
+
+**Tóku gildi 1. janúar 1981.**
+
+Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við **félags- og húsnæðismálaráðherra** eða **félags- og húsnæðismálaráðuneyti** sem fer með lög þessi. [Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði.](../2025/2025-5-forsetaurskurdur-um-skiptingu-stjornarmalefna-milli-raduneyta-i.md)
+
+*Breytt með:*
+
+- [L. 15/1986](https://www.althingi.is/altext/stjtnr.html#1986015) (tóku gildi 12. maí 1986).
+- [L. 61/1990](https://www.althingi.is/altext/stjt/1990.061.html) (tóku gildi 31. maí 1990).
+- [L. 7/1996](https://www.althingi.is/altext/stjt/1996.007.html) (tóku gildi 1. okt. 1996).
+- [L. 52/1997](https://www.althingi.is/altext/stjt/1997.052.html) (tóku gildi 1. okt. 1997; *EES-samningurinn:* XVIII. viðauki tilskipun 89/391/EBE og 94/33/EB).
+- [L. 83/1997](https://www.althingi.is/altext/stjt/1997.083.html) (tóku gildi 6. júní 1997).
+- [L. 17/2003](https://www.althingi.is/altext/stjt/2003.017.html) (tóku gildi 1. júlí 2003).
+- [L. 68/2003](https://www.althingi.is/altext/stjt/2003.068.html) (tóku gildi 7. apríl 2003; *EES-samningurinn:* XVIII. viðauki tilskipun 89/391/EBE, 93/104/EB og 94/33/EB).
+- [L. 90/2004](https://www.althingi.is/altext/stjt/2004.090.html) (tóku gildi 1. jan. 2005).
+- [L. 138/2005](https://www.althingi.is/altext/stjt/2005.138.html) (tóku gildi 30. des. 2005; *EES-samningurinn:* XVIII. viðauki tilskipun 2003/88/EB).
+- [L. 88/2008](https://www.althingi.is/altext/stjt/2008.088.html) (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+- [L. 162/2010](https://www.althingi.is/altext/stjt/2010.162.html) (tóku gildi 1. jan. 2011).
+- [L. 126/2011](https://www.althingi.is/altext/stjt/2011.126.html) (tóku gildi 30. sept. 2011).
+- [L. 59/2013](https://www.althingi.is/altext/stjt/2013.059.html) (tóku gildi 1. júlí 2013).
+- [L. 45/2015](https://www.althingi.is/altext/stjt/2015.045.html) (tóku gildi 1. jan. 2016).
+- [L. 80/2015](https://www.althingi.is/altext/stjt/2015.080.html) (tóku gildi 23. júlí 2015).
+- [L. 128/2016](https://www.althingi.is/altext/stjt/2016.128.html) (tóku gildi 31. des. 2016).
+- [L. 93/2017](https://www.althingi.is/altext/stjt/2017.093.html) (tóku gildi 1. jan. 2018).
+- [L. 75/2018](https://www.althingi.is/altext/stjt/2018.075.html) (tóku gildi 27. júní 2018 nema 9., 10., 11. og 14. gr., 34. og 35. gr., 59. gr. og 63. gr. sem tóku gildi 1. ágúst 2018 að því er varðar þau fyrirtæki og aðila sem nánar eru tilgreindir í 70. gr. s.l.).
+- [L. 81/2018](https://www.althingi.is/altext/stjt/2018.081.html) (tóku gildi 28. júní 2018).
+- [L. 152/2018](https://www.althingi.is/altext/stjt/2018.152.html) (tóku gildi 9. jan. 2019).
+- [L. 71/2019](https://www.althingi.is/altext/stjt/2019.071.html) (tóku gildi 5. júlí 2019).
+- [L. 28/2020](https://www.althingi.is/altext/stjt/2020.028.html) (tóku gildi 3. apríl 2020).
+- [L. 40/2020](https://www.althingi.is/altext/stjt/2020.040.html) (tóku gildi 1. jan. 2021 nema a-liður 2. tölul. 7. gr. sem tók gildi 27. maí 2020).
+- [L. 97/2020](https://www.althingi.is/altext/stjt/2020.097.html) (tóku gildi 23. júlí 2020).
+- [L. 62/2021](https://www.althingi.is/altext/stjt/2021.062.html) (tóku gildi 16. júní 2021).
+- [L. 108/2021](https://www.althingi.is/altext/stjt/2021.108.html) (tóku gildi 1. jan. 2022).
+- [L. 41/2022](https://www.althingi.is/altext/stjt/2022.041.html) (tóku gildi 7. júlí 2022).
+- [L. 58/2023](https://www.althingi.is/altext/stjt/2023.058.html) (tóku gildi 7. júlí 2023).
+- [L. 105/2024](https://www.althingi.is/altext/stjt/2024.105.html) (tóku gildi 1. jan. 2025).
+- [L. 110/2024](https://www.althingi.is/altext/stjt/2024.110.html) (tóku gildi 1. jan. 2025 nema 3. mgr. 2. gr. sem tók gildi 1. jan. 2026; um lagaskil sjá 7. gr. og brbákv.).
+
+## I. kafli. Tilgangur og gildissvið.
+
+##### 1. gr.
+
+Með lögum þessum er leitast við, að
+
+a. tryggja öruggt og heilsusamlegt starfsumhverfi, sem jafnan sé í samræmi við félagslega og tæknilega þróun í þjóðfélaginu,
+
+b. tryggja skilyrði fyrir því, að innan vinnustaðanna sjálfra sé hægt að leysa öryggis- og heilbrigðisvandamál, í samræmi við gildandi lög og reglur, í samræmi við ráðleggingar aðila vinnumarkaðarins og í samræmi við ráðleggingar og fyrirmæli Vinnueftirlits ríkisins.
+
+##### 2. gr.
+
+Lög þessi gilda um alla starfsemi, þar sem einn eða fleiri menn vinna, hvort sem um er að ræða eigendur fyrirtækja eða starfsmenn.
+
+Undanþegin lögum þessum eru:
+
+a. siglingamál og önnur verkefni, sem sérstaklega eru falin [Samgöngustofu],<sup>1)</sup> sbr. [lög 51/1970](https://www.althingi.is/altext/stjtnr.html#1970051)<sup>2)</sup> …<sup>3)</sup>. Einnig alþjóðasamþykktir, sem Ísland er og verður aðili að og falla undir verksvið [Samgöngustofu],<sup>1)</sup> þar með talið um gáma, um flutning á hættulegum efnum, um mengun sjávar og fleira,
+
+b. loftferðir, sbr. [lög nr. 34/1964](https://www.althingi.is/lagas/nuna/1964034.html) og [lög nr. 71/1974](https://www.althingi.is/altext/stjtnr.html#1974071) um breyting á [lögum nr. 34/1964](https://www.althingi.is/lagas/nuna/1964034.html) um loftferðir.<sup>4)</sup> Einnig alþjóðasamþykktir, sem Ísland er og verður aðili að og falla undir verksvið [Samgöngustofu],<sup>1)</sup>
+
+c. …<sup>5)</sup>
+
+> <sup>1)</sup>[L. 59/2013, 1. gr.](https://www.althingi.is/altext/stjt/2013.059.html) <sup>2)</sup>Nú [l. 6/1996](https://www.althingi.is/lagas/nuna/1996006.html). <sup>3)</sup>[L. 81/2018, 19. gr.](https://www.althingi.is/altext/stjt/2018.081.html#G19) <sup>4)</sup>Nú [l. 60/1998](https://www.althingi.is/lagas/nuna/1998060.html). <sup>5)</sup>[L. 68/2003, 1. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 3. gr.
+
+Lög þessi ná til vinnu við loftför á jörðu niðri, nema um störf áhafnar sé að ræða.
+
+Lög þessi ná einnig til fermingar og affermingar skipa, þar með talin fiskiskip, svo og til viðgerða um borð í skipum og starfsemi, sem því er tengd. Lögin ná þó ekki til búnaðar í skipum, sem notaður er í þessum tilgangi. Lögin ná heldur ekki til lögskráðra manna, nema þegar þeir starfa undir verkstjórn úr landi.
+
+Ráðherra getur í samráði við forstjóra Vinnueftirlits ríkisins mælt svo fyrir í reglugerð,<sup>1)</sup> að áhöld, vélar og mannvirki eða framkvæmdir, sem lög þessi ná ekki til, skuli vera háð því eftirliti, er lög þessi mæla fyrir um, enda séu viðkomandi atriði ekki háð öðrum lögum.
+
+> <sup>1)</sup>Rgl. 198/1983 (um réttindi til að stjórna vinnuvélum), sbr. rgl. 300/1995, rgl. 24/1999, rgl. 816/2000, rgl. 883/2002 og rgl. 1116/2021. Rgl. 503/1994 (um lyfti- og flutningabúnað). Rg. 54/1995 (um skráningu, eftirlit og umsjón með [lyftum og lyftubúnaði). Rgl. 761/2001](https://www.reglugerd.is/reglugerdir/allar/nr/761-2001) (um vélar og tæknilegan búnað). Rgl. 279/2003 (um hávaðamengun í umhverfinu af völdum tækjabúnaðar til notkunar utanhúss), sbr. rgl. 1136/2008 og rgl. 572/2025. [Rg. 1005/2009](https://www.reglugerd.is/reglugerdir/allar/nr/1005-2009) (um vélar og tæknilegan búnað), sbr. [1256/2016](https://www.reglugerd.is/reglugerdir/allar/nr/1256-2016) og [181/2017](https://www.reglugerd.is/reglugerdir/allar/nr/181-2017). [Rg. 260/2012](https://www.reglugerd.is/reglugerdir/allar/nr/260-2012) (um úðabrúsa), sbr. [307/2016](https://www.reglugerd.is/reglugerdir/allar/nr/307-2016) og [383/2018](https://www.reglugerd.is/reglugerdir/allar/nr/383-2018). [Rg. 218/2013](https://www.reglugerd.is/reglugerdir/allar/nr/218-2013) (um færanlegan þrýstibúnað). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015) (um vélknúin leiktæki). [Rg. 966/2016](https://www.reglugerd.is/reglugerdir/allar/nr/966-2016) (um lyftur og öryggisíhluti fyrir lyftur). [Rg. 1021/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1021-2017) (um einföld þrýstihylki). [Rg. 1022/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1022-2017) (um þrýstibúnað). [Rg. 727/2018](https://www.reglugerd.is/reglugerdir/allar/nr/727-2018) (um tæki sem brenna gasi). [Rg. 728/2018](https://www.reglugerd.is/reglugerdir/allar/nr/728-2018) (um gerð persónuhlífa). [Rg. 1070/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2018) (um togbrautabúnað til fólksflutninga). [Rg. 179/2021](https://www.reglugerd.is/reglugerdir/allar/nr/179-2021) (um kröfur varðandi losunarmörk mengandi lofttegunda og efnisagna og gerðarviðurkenningu brunahreyfla fyrir færanlegan vélbúnað til nota utan vega), sbr. [928/2021](https://www.reglugerd.is/reglugerdir/allar/nr/928-2021), [696/2022](https://www.reglugerd.is/reglugerdir/allar/nr/696-2022), [1469/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1469-2022) og [522/2023](https://www.reglugerd.is/reglugerdir/allar/nr/522-2023).
+
+## II. kafli. Öryggis- og heilbrigðisstarfsemi innan fyrirtækja. Samskipti atvinnurekenda og starfsmanna.
+
+##### 4. gr.
+
+Í fyrirtækjum, þar sem eru 1 til 9 starfsmenn, skal atvinnurekandi og/eða verkstjóri hans stuðla að góðum aðbúnaði, hollustuháttum og öryggi á vinnustað, í nánu samstarfi við starfsmenn fyrirtækisins og félagslegan trúnaðarmann þeirra, sbr. þó 2. mgr. þessarar greinar.
+
+Forstjóri Vinnueftirlits ríkisins getur þó ákveðið, ef þurfa þykir, að fyrirkomulag það, sem getið er um í 5. gr., gildi einnig fyrir starfshópa, sem getið er í þessari grein, þegar sérstakar aðstæður eru fyrir hendi, sbr. til dæmis 40. og 44. gr. laga þessara.
+
+##### 5. gr.
+
+Í fyrirtækjum, þar sem eru 10 starfsmenn eða fleiri, skal atvinnurekandi tilnefna einn aðila af sinni hálfu öryggisvörð og starfsmenn skulu tilnefna annan úr sínum hópi öryggistrúnaðarmann. Þeir skulu í samvinnu fylgjast með því, að aðbúnaður, hollustuhættir og öryggi á vinnustað séu í samræmi við lög þessi.
+
+##### 6. gr.
+
+Í fyrirtækjum, þar sem eru 50 starfsmenn eða fleiri, skal stofna öryggisnefnd. Starfsmenn kjósa úr sínum hópi tvo fulltrúa og atvinnurekandi tilnefnir tvo fulltrúa. Þessi nefnd skal skipuleggja aðgerðir varðandi aðbúnað, hollustuhætti og öryggi innan fyrirtækisins, annast fræðslu starfsmanna um þessi efni og hafa eftirlit á vinnustöðum með því, að ráðstafanir er varða aðbúnað, hollustuhætti og öryggi komi að tilætluðum notum.
+
+Þegar starfsmenn Vinnueftirlits ríkisins koma í eftirlitsferðir í fyrirtæki, skulu þeir hafa samband við atvinnurekanda eða umboðsmann hans, öryggistrúnaðarmann starfsmanna, félagslegan trúnaðarmann starfsmanna, sbr. 1. mgr. 4. gr., og við öryggisnefndir, þar sem þær eru starfandi. Nefndum aðilum skal auðvelda, svo sem kostur er, að leggja vandamál fyrir Vinnueftirlit ríkisins.
+
+##### 7. gr.
+
+[[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um skipulag og framkvæmd ráðstafana, er miða að auknu öryggi og bættum aðbúnaði og hollustuháttum innan fyrirtækja, svo sem um stofnun samstarfshópa og öryggisnefnda, um verkefni þeirra og um daglega stjórn þeirrar starfsemi, er lýtur að auknu öryggi og betri aðbúnaði og hollustuháttum innan fyrirtækja.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). <sup>3)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 8. gr.
+
+Atvinnurekanda er skylt, ef hann er ekki sjálfur í öryggisnefnd, að skipa í sinn stað aðila með fullu umboði.
+
+Atvinnurekandi skal stuðla að samstarfi þeirra, sem kjörnir eru til þess að fjalla um aðbúnað, hollustuhætti og öryggi á vinnustöðum, og þeirra, sem annast heilbrigðisþjónustu [og heilsuvernd starfsmanna].<sup>1)</sup> Ennfremur skal hann sjá um að þeir, sem til eru kjörnir að fjalla um aðbúnað, hollustuhætti og öryggi á vinnustað, og þeir, sem sitja í öryggisnefnd, fái hæfilegan tíma miðað við verkefnasvið, til þess að gegna skyldum sínum við eftirlit með aðbúnaði, hollustuháttum og öryggi.
+
+Atvinnurekandi skal sjá um, að þeir, sem kjörnir eru til að fjalla um aðbúnað, hollustuhætti og öryggi í fyrirtæki hans, fái tækifæri til þess að afla sér nauðsynlegrar þekkingar og menntunar varðandi aðbúnað, hollustuhætti og öryggi á vinnustöðum.
+
+Atvinnurekandi skal veita nefndum aðilum hlutdeild í skipulagningu að því er varðar aðbúnað, hollustuhætti og öryggi á vinnustað.
+
+> <sup>1)</sup>[L. 68/2003, 3. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 9. gr.
+
+Atvinnurekandi ber kostnað vegna starfs að bættum aðbúnaði, hollustuháttum og öryggi og bætir þeim, sem að því vinna, tekjutap, sem af kann að hljótast.
+
+Öryggistrúnaðarmenn og fulltrúar starfsmanna í öryggisnefnd njóta þeirrar verndar, sem ákveðin er í [11. gr. laga 80/1938](../1938/1938-80-stettarfelog-og-vinnudeilur.md) um stéttarfélög og vinnudeilur.
+
+##### 10. gr.
+
+Vinnueftirlit ríkisins skal sjá um, að þegar öryggi og heilbrigði starfsmanna krefst þess, standi viðkomandi fyrirtækjum til boða sérfræðileg þjónusta við störf að bættum aðbúnaði, hollustuháttum og öryggi.
+
+## III. kafli. …<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 4. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## IV. kafli. Almennar skyldur.
+
+#### a. Skyldur atvinnurekenda.
+
+##### 12. gr.
+
+Atvinnurekandi merkir í lögum þessum hvern þann, sem rekur atvinnustarfsemi, sbr. 90. gr. laga þessara.
+
+Sé starfsemi, sem lög þessi ná til, rekin af tveim mönnum eða fleiri í sameiningu, telst aðeins einn þeirra atvinnurekandi samkvæmt þessum lögum, en hinn/hinir teljast vera starfsmenn, enda vinni hann/þeir við fyrirtækið. Skal það tilkynnt Vinnueftirliti ríkisins hver sé talinn atvinnurekandi.
+
+Framkvæmdastjóri fyrirtækis telst atvinnurekandi í merkingu þessara laga.
+
+Sé um opinberan rekstur að ræða, telst atvinnurekandi sá, er umsjón hefur með starfseminni, og skal það tilkynnt Vinnueftirlitinu hver það er.
+
+##### 13. gr.
+
+Atvinnurekandi skal tryggja, að gætt sé fyllsta öryggis og góðs aðbúnaðar og hollustuhátta á vinnustað. Sérstaklega er vísað til:
+
+a. V. kafla um framkvæmd vinnu,
+
+b. VI. kafla um vinnustaði,
+
+c. VII. kafla um vélar, tækjabúnað og fleira,
+
+d. VIII. kafla um hættuleg efni og vörur,
+
+[e. XI. kafla um áhættumat, heilsuvernd og heilsufarsskoðanir.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 5. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 14. gr.
+
+Atvinnurekandi skal gera starfsmönnum sínum ljósa slysa- og sjúkdómshættu, sem kann að vera bundin við starf þeirra. Atvinnurekandi skal þar að auki sjá um, að starfsmenn fái nauðsynlega kennslu og þjálfun í að framkvæma störf sín á þann hátt, að ekki stafi hætta af.
+
+[[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um skyldur atvinnurekenda, samkvæmt 1. mgr. þessarar greinar.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015). <sup>3)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 15. gr.
+
+Atvinnurekandi skal skýra öryggistrúnaðarmönnum frá fyrirmælum Vinnueftirlits ríkisins og skulu öryggistrúnaðarmenn eiga aðgang að eftirlitsbók og öðrum gögnum, er varða aðbúnað, hollustuhætti og öryggi á vinnustað, sbr. 88. gr. laga þessara.
+
+##### 16. gr.
+
+Atvinnurekandi skal tryggja, að samstarf um öryggismál, aðbúnað og hollustuhætti, samkvæmt II. kafla þessara laga, geti orðið sem best, og tekur þátt í samstarfi um þessi mál.
+
+##### 17. gr.
+
+Þar sem fleiri atvinnurekendur eiga aðild að starfsemi á sama vinnustað, skulu þeir og aðrir, sem þar starfa, sameiginlega stuðla að því að tryggja góðan aðbúnað, heilsusamleg og örugg starfsskilyrði á vinnustaðnum.
+
+[[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um það hvernig samstarfi samkvæmt 1. mgr. þessarar greinar skuli fyrir komið.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 349/2004](https://www.reglugerd.is/reglugerdir/allar/nr/349-2004). [Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). <sup>3)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 18. gr.
+
+Þegar Vinnueftirlit ríkisins krefst þess eða þegar aðstæður að öðru leyti gefa tilefni til þess, skal atvinnurekandi láta gera rannsókn eða úttekt, ef við á, af sérfræðingum, til þess að ganga úr skugga um, hvort starfsskilyrðin fullnægi ákvæðum laga þessara um aðbúnað, hollustuhætti og öryggi, sbr. og 80. gr. laga þessara.
+
+##### 19. gr.
+
+Atvinnurekandi skal fullnægja tilkynningaskyldu til Vinnueftirlits ríkisins samkvæmt XII. kafla og halda skrár eftir þeim reglum, sem Vinnueftirlitið setur.
+
+Forstjóri Vinnueftirlits ríkisins getur vegna skýrslugerðar og úrvinnslu úr þeim skýrslum krafist upplýsinga frá atvinnurekanda um:
+
+a. fjölda starfsmanna, kyn þeirra og aldur,
+
+b. vélar, vélahluta, geyma, ílát, áhöld, tæki og annan tæknibúnað,
+
+c. sprengi- og eldfim efni, eiturefni og hættuleg efni,
+
+d. aðrar upplýsingar, sem þýðingu kunna að hafa varðandi aðbúnað, hollustuhætti og öryggi á vinnustöðum.
+
+Í skýrslum, sem unnar eru samkvæmt slíkum upplýsingum, má ekki nefna nöfn einstaklinga eða fyrirtækja.
+
+#### b. Skyldur verkstjóra.
+
+##### 20. gr.
+
+Verkstjóri merkir í lögum þessum hvern þann, sem á vegum atvinnurekenda hefur með höndum verkstjórn og eftirlit með starfsemi í fyrirtæki eða hluta þess.
+
+##### 21. gr.
+
+Verkstjóri er fulltrúi atvinnurekanda og sér um, að búnaður allur sé góður og öruggt skipulag sé ríkjandi á þeim vinnustöðum, sem hann hefur umsjón með.
+
+##### 22. gr.
+
+Verkstjóri skal taka þátt í samstarfi, er miðar að auknu öryggi og betri aðbúnaði og hollustuháttum á vinnustað, sbr. II. kafla laga þessara.
+
+##### 23. gr.
+
+Verkstjóri skal beita sér fyrir, að starfsskilyrði innan þess starfssviðs, sem hann stjórnar, séu fullnægjandi að því er varðar aðbúnað, hollustuhætti og öryggi. Hann skal sjá um, að þeim ráðstöfunum, sem gerðar eru til þess að auka öryggi og bæta aðbúnað og hollustuhætti, sé framfylgt.
+
+Verði verkstjóri var við einhver þau atriði, sem leitt geta til hættu á slysum eða sjúkdómum, skal hann tryggja að hættunni sé afstýrt. Sé ekki hægt að afstýra hættunni með því, sem tiltækt er á staðnum, skal hann umsvifalaust gera vinnuveitanda viðvart. Verkstjóra ber jafnframt að gæta þeirrar skyldu, sem kveðið er á um í 86. gr. laga þessara.
+
+#### c. Skyldur starfsmanna.
+
+##### 24. gr.
+
+Starfsmaður merkir í lögum þessum hvern þann, sem vinnur launuð störf í annarra þjónustu. [Nemar og lærlingar teljast einnig til starfsmanna, jafnvel þótt þeir inni af hendi vinnu án endurgjalds, enda sé vinna þeirra liður í skipulögðu námi.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 6. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 25. gr.
+
+Starfsmenn skulu taka þátt í samstarfi er miðar að auknu öryggi og betri aðbúnaði og hollustuháttum á vinnustað, sbr. II. kafla laga þessara.
+
+##### 26. gr.
+
+Starfsmenn skulu stuðla að því, að starfsskilyrði innan verksviðs þeirra séu fullnægjandi að því er varðar aðbúnað, hollustuhætti og öryggi, og einnig að því, að þeim ráðstöfunum, sem gerðar eru til þess að auka öryggi og bæta aðbúnað og hollustuhætti, samkvæmt lögum þessum, sé framfylgt.
+
+Starfsmaður, sem verður var við ágalla eða vanbúnað, sem leitt gæti til skerts öryggis eða lakari aðbúnaðar eða hollustuhátta, sem hann getur ekki sjálfur bætt úr, skal umsvifalaust tilkynna það öryggisverði, öryggistrúnaðarmanni, verkstjóra eða atvinnurekanda.
+
+##### 27. gr.
+
+Ef fjarlægja þarf öryggishlífar eða annað tilsvarandi vegna viðgerðar eða niðursetningar á tæki eða vél, skal sá, sem verkið framkvæmir umsvifalaust setja öryggisbúnað á sinn stað aftur eða gera aðrar ráðstafanir, sem jafngildar eru, að verki loknu.
+
+##### 28. gr.
+
+Þeir, sem starfa á vinnustað, þar sem fleiri atvinnurekendur eiga aðild að starfi manna, skulu fara eftir þeim reglum, sem gilda um samstarf um aðbúnað, hollustuhætti og öryggi, sbr. 17. og 36. gr. laga þessara, auk þeirra reglna, sem gilda um það starf, sem þeir sjálfir inna af hendi. Þegar starfsmaður er við vinnu utan síns venjulega vinnustaðar, skal hann fara eftir þeim reglum varðandi aðbúnað, hollustuhætti og öryggi, sem gilda fyrir viðkomandi vinnustað, auk þeirra reglna, sem gilda um það verk, sem hann á að vinna.
+
+#### d. Skyldur þeirra, sem selja, setja upp, gera við og hanna vélar, tæki, áhöld og annan búnað, sem ætlaður er til notkunar við atvinnurekstur.
+
+##### 29. gr.
+
+Sá, sem selur, afhendir eða sýnir vélar, vélahluta, geyma, ílát, katla, húseiningar, verkfæri, áhöld, tæki og annað það, sem ætlað er til notkunar við atvinnurekstur, skal tryggja, að það, sem hér um ræðir, sé, þegar það er sýnt eða afhent til notkunar, útbúið með tilskildum hlífðar- og öryggisbúnaði og notkun þess leiði ekki af sér slysa- eða sjúkdómshættu, sbr. VII. kafla laga þessara.
+
+Nauðsynlegar og auðskildar leiðbeiningar á íslensku um meðferð, viðhald, flutning, uppsetningu og frágang skulu fylgja með, þegar viðkomandi hlutir eru afhentir.
+
+Sé einhver sá búnaður, sem talinn er í 1. mgr. þessarar greinar og tilbúinn er til notkunar, afhentur áfram, endurseldur, lánaður út eða leigður, gilda þær reglur, sem að ofan greinir.
+
+Þegar Vinnueftirlit ríkisins krefst þess eða þegar aðstæður að öðru leyti gefa tilefni til, skal innflytjandi eða framleiðandi láta gera rannsóknir, athuganir, mælingar, þrýstiraunir og aðrar þær kannanir, sem nauðsynlegar eru til þess að ganga úr skugga um, að viðkomandi búnaður standist þær kröfur, sem gerðar eru varðandi aðbúnað, hollustuhætti og öryggi.
+
+##### 30. gr.
+
+Sérhver vél, sem afhent er eða sýnd hér á landi, skal vera greinilega og varanlega merkt framleiðanda og sé um innflutta vél að ræða, skal hún einnig merkt nafni og heimilisfangi þess, sem flytur vélina inn, eða merkt á annan þann hátt, að auðvelt sé að komast að raun um, hver sé framleiðandi vélarinnar, og þegar við á, hver sé innflytjandinn.
+
+##### 31. gr.
+
+Sá, sem tekur að sér að setja upp, breyta eða gera við vélar, tæki eða annan búnað, skal fara eftir þeim reglum og fyrirmælum, sem gilda fyrir viðkomandi tæki, vélar eða annan búnað.
+
+Taki viðgerð aðeins til eins eða nokkurra hluta vélar eða tækis, skal sá, sem verkið framkvæmir, fara eftir þeim reglum og fyrirmælum, sem gilda fyrir hvern einstakan hluta tækis eða vélar.
+
+Verði sá, sem setur upp, breytir eða gerir við tæki, vélar eða annan búnað, var við einhverja ágalla eða vanbúnað, sem þýðingu kynni að hafa að því er varðar aðbúnað, heilsu eða öryggi manna, skal hann umsvifalaust gera eigandanum eða þeim, sem notar tækið, viðvart.
+
+##### 32. gr.
+
+Þeir, sem annast hönnun á þeim búnaði, sem talinn er í 1. mgr. 29. gr., framleiðslusamstæðum, húsnæði vinnustaða og hverjum þeim mannvirkjum öðrum, sem ætluð eru til notkunar vegna atvinnurekstrar, skulu við hönnunarstarf taka tillit til góðs aðbúnaðar, hollustuhátta og öryggis, hvað varðar starf og rekstur í þeim byggingum og mannvirkjum, sem um er að ræða.
+
+Fylgja skal þeim lögum og reglum, sem á hverjum tíma gilda um aðbúnað, hollustuhætti og öryggi á vinnustöðum.
+
+Ákvæði þessarar greinar gilda einnig um þá, sem taka að sér ráðgjafarstörf um aðbúnað, hollustuhætti og öryggi á vinnustöðum.
+
+##### 33. gr.
+
+Ákvæðin í 29. gr., 30. gr., 32. gr. og 2. mgr. 34. gr. gilda einnig um þá, sem útvega, selja eða afhenda efni eða vörur, sem geta verið hættuleg eða á annan hátt dregið úr öryggi eða valdið sjúkdómshættu.
+
+##### 34. gr.
+
+[[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um þau atriði, sem um er fjallað í 29.–33. gr.
+
+Ákvæðin í 29.–33. gr. leysa notandann ekki undan neinum skyldum samkvæmt lögum þessum.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>Rgl. 491/1987 (um varnir gegn loftmengun við málmsuðu). Rgl. 90/1989 (um garðsláttuvélar o.fl.). Rgl. 377/1996 (um þrýstihylki). Rgl. 140/1998 (um áfyllingarstöðvar fyrir gashylki). Rgl. 761/2001 (um vélar og tæknilegan búnað). Rgl. 279/2003 (um hávaðamengun í umhverfinu af völdum tækjabúnaðar til notkunar utanhúss), sbr. rgl. 1136/2008 og rgl. 572/2025. [Rg. 1005/2009](https://www.reglugerd.is/reglugerdir/allar/nr/1005-2009) (um vélar og tæknilegan búnað), sbr. [1256/2016](https://www.reglugerd.is/reglugerdir/allar/nr/1256-2016) og [181/2017](https://www.reglugerd.is/reglugerdir/allar/nr/181-2017). [Rg. 260/2012](https://www.reglugerd.is/reglugerdir/allar/nr/260-2012) (um úðabrúsa), sbr. [307/2016](https://www.reglugerd.is/reglugerdir/allar/nr/307-2016) og [383/2018](https://www.reglugerd.is/reglugerdir/allar/nr/383-2018). [Rg. 218/2013](https://www.reglugerd.is/reglugerdir/allar/nr/218-2013) (um færanlegan þrýstibúnað). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015) (um vélknúin leiktæki). [Rg. 966/2016](https://www.reglugerd.is/reglugerdir/allar/nr/966-2016) (um lyftur og öryggisíhluti fyrir lyftur). [Rg. 1021/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1021-2017) (um einföld þrýstihylki). [Rg. 1022/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1022-2017) (um þrýstibúnað). [Rg. 727/2018](https://www.reglugerd.is/reglugerdir/allar/nr/727-2018) (um tæki sem brenna gasi). [Rg. 728/2018](https://www.reglugerd.is/reglugerdir/allar/nr/728-2018) (um gerð persónuhlífa). [Rg. 729/2018](https://www.reglugerd.is/reglugerdir/allar/nr/729-2018) (um röraverkpalla), sbr. [1153/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1153-2020). [Rg. 1070/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2018) (um togbrautabúnað til fólksflutninga). [Rg. 179/2021](https://www.reglugerd.is/reglugerdir/allar/nr/179-2021) (um kröfur varðandi losunarmörk mengandi lofttegunda og efnisagna og gerðarviðurkenningu brunahreyfla fyrir færanlegan vélbúnað til nota utan vega), sbr. [928/2021](https://www.reglugerd.is/reglugerdir/allar/nr/928-2021), [696/2022](https://www.reglugerd.is/reglugerdir/allar/nr/696-2022), [1469/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1469-2022) og [522/2023](https://www.reglugerd.is/reglugerdir/allar/nr/522-2023). <sup>3)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 35. gr.
+
+[[Ráðherra]<sup>1)</sup> getur, þegar sérstaklega stendur á, sett reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> sem víkja frá kröfunum í 29.–33. gr. Slíkar ákvarðanir getur forstjóri Vinnueftirlits ríkisins tekið í algerum undantekningartilvikum, þegar sérstakar ástæður eru fyrir hendi.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>Rgl. 761/2001. [Rg. 1005/2009](https://www.reglugerd.is/reglugerdir/allar/nr/1005-2009), sbr. [1256/2016](https://www.reglugerd.is/reglugerdir/allar/nr/1256-2016) og [181/2017](https://www.reglugerd.is/reglugerdir/allar/nr/181-2017). [Rg. 218/2013](https://www.reglugerd.is/reglugerdir/allar/nr/218-2013). [Rg. 966/2016](https://www.reglugerd.is/reglugerdir/allar/nr/966-2016). [Rg. 1022/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1022-2017). [Rg. 727/2018](https://www.reglugerd.is/reglugerdir/allar/nr/727-2018). [Rg. 728/2018](https://www.reglugerd.is/reglugerdir/allar/nr/728-2018). [Rg. 1070/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2018). [Rg. 179/2021](https://www.reglugerd.is/reglugerdir/allar/nr/179-2021), sbr. [928/2021](https://www.reglugerd.is/reglugerdir/allar/nr/928-2021), [696/2022](https://www.reglugerd.is/reglugerdir/allar/nr/696-2022), [1469/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1469-2022) og [522/2023](https://www.reglugerd.is/reglugerdir/allar/nr/522-2023). Rgl. 572/2025 <sup>3)</sup>[L. 68/2003, 7. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+#### [e. Skyldur verkkaupa, fulltrúa verkkaupa, samræmingaraðila öryggis- og heilbrigðismála og atvinnurekanda í tengslum við byggingarstarfsemi eða mannvirkjagerð.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 75/2018, 63. gr.](https://www.althingi.is/altext/stjt/2018.075.html)
+
+##### 36. gr.
+
+[Verkkaupi merkir í lögum þessum einstakling eða atvinnurekanda sem verk er unnið fyrir í tengslum við byggingarstarfsemi eða mannvirkjagerð.
+
+Fulltrúi verkkaupa merkir í lögum þessum einstakling eða atvinnurekanda sem ber ábyrgð á hönnun og/eða framkvæmd og/eða eftirliti með verki og starfar í þágu verkkaupa á grundvelli skriflegs samkomulags þar sem verkkaupi hefur falið honum að gegna tilteknum skyldum sínum samkvæmt ákvæði þessu. Gengið skal frá slíku samkomulagi áður en vinna á viðkomandi vinnustað hefst.
+
+Samræmingaraðili öryggis- og heilbrigðismála merkir í lögum þessum einstakling eða atvinnurekanda sem falið er af verkkaupa eða fulltrúa verkkaupa að gegna tilteknum skyldum við undirbúning og framkvæmd verks, svo sem hvað varðar umsjón með skipulagningu og samræmingu aðgerða, sbr. 4. mgr., þar sem fleiri en einn atvinnurekandi er að störfum samtímis við byggingarstarfsemi eða mannvirkjagerð.
+
+Þar sem fleiri en einn atvinnurekandi eru að störfum samtímis við byggingarstarfsemi eða mannvirkjagerð skal verkkaupi eða fulltrúi verkkaupa skipuleggja og samræma aðgerðir sem tryggja að við hönnun, undirbúning og framkvæmd verks verði gætt fyllsta öryggis, góðs aðbúnaðar og hollustuhátta. Í því felst m.a. gerð öryggis- og heilbrigðisáætlunar, eftir því sem við á, sbr. 6. mgr. Skal verkkaupi eða fulltrúi verkkaupa skipa einn eða fleiri samræmingaraðila öryggis- og heilbrigðismála til að gegna framangreindum skyldum við undirbúning og framkvæmd verks.
+
+Verkkaupi eða fulltrúi verkkaupa skal tilkynna til Vinnueftirlits ríkisins um vinnustað áður en vinna hefst þegar um er að ræða byggingarstarfsemi eða mannvirkjagerð og ráðgert er að vinna standi yfir lengur en í 30 daga og fleiri en 20 starfsmenn verði við vinnu samtímis. Sama á við um vinnustað þar sem um er að ræða byggingarstarfsemi eða mannvirkjagerð og ráðgert er að vinna taki lengri tíma en nemur 500 dagsverkum.
+
+Við byggingarstarfsemi eða mannvirkjagerð skv. 5. mgr. eða við byggingarstarfsemi eða mannvirkjagerð þar sem vinna telst sérstaklega hættuleg skal verkkaupi eða fulltrúi verkkaupa sjá um að gerð sé öryggis- og heilbrigðisáætlun áður en vinna hefst í því skyni að tryggja að við framkvæmd verks verði gætt fyllsta öryggis, góðs aðbúnaðar og hollustuhátta. Áætlunin skal m.a. fela í sér almennar reglur sem gilda skulu á vinnustaðnum og lýsingu á sérstökum aðgerðum sem framkvæma þarf til að unnt sé að uppfylla kröfur sem gerðar eru í lögum þessum í tengslum við öryggi, góðan aðbúnað og hollustuhætti á vinnustöðum.
+
+Þrátt fyrir að verkkaupi eða fulltrúi verkkaupa feli samræmingaraðila öryggis- og heilbrigðismála að gegna tilteknum skyldum samkvæmt ákvæði þessu leysir það verkkaupa eða fulltrúa verkkaupa ekki undan ábyrgð samkvæmt ákvæðinu.
+
+Þrátt fyrir að verkkaupi feli fulltrúa sínum að gegna tilteknum skyldum samkvæmt ákvæði þessu leysir það verkkaupa ekki undan ábyrgð fái hann vitneskju um að fulltrúi verkkaupa hafi ekki gegnt þeim skyldum sem verkkaupi hefur falið honum að gegna á grundvelli skriflegs samkomulags þess efnis.
+
+Ákvæði þetta hefur ekki áhrif á grundvallarregluna um ábyrgð atvinnurekanda samkvæmt lögum þessum.
+
+Ráðherra er heimilt að setja nánari reglur í reglugerð, að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um þau atriði sem kveðið er á um í ákvæði þessu, m.a. um gerð skriflegrar áætlunar um öryggi og heilbrigði við hönnun, undirbúning og framkvæmd verks í tengslum við byggingarstarfsemi eða mannvirkjagerð sem og í tengslum við mat á því hvers konar vinna við byggingarstarfsemi eða mannvirkjagerð telst sérstaklega hættuleg, hvaða atriði skulu koma fram í tilkynningu til Vinnueftirlits ríkisins skv. 5. mgr., skipun, skyldur og hæfni samræmingaraðila öryggis- og heilbrigðismála sem og um gerð öryggis- og heilbrigðisáætlunar skv. 6. mgr., þ.m.t. þau atriði sem koma skulu fram í slíkri áætlun.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 75/2018, 63. gr.](https://www.althingi.is/altext/stjt/2018.075.html)
+
+## V. kafli. Framkvæmd vinnu.
+
+##### 37. gr.
+
+Vinnu skal haga og framkvæma þannig, að gætt sé fyllsta öryggis og góðs aðbúnaðar og hollustuhátta.
+
+Fylgja skal viðurkenndum stöðlum, ákvæðum laga og reglugerða, svo og fyrirmælum Vinnueftirlits ríkisins, að því er varðar aðbúnað, hollustuhætti og öryggi.
+
+##### 38. gr.
+
+[[Ráðherra]<sup>1)</sup> setur [reglugerð<sup>2)</sup>],<sup>3)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>4)</sup> um, hvaða kröfur skuli uppfylltar varðandi skipulag, tilhögun og framkvæmd vinnu, svo sem:
+
+a. um öryggis- og heilbrigðisráðstafanir, er varða störf, starfsaðferðir, vinnslu- og framleiðsluaðferðir, t.d. til þess að koma í veg fyrir hrun, fall, skrið, titring, hávaða, sprengi- og brunahættu eða heilsuvá vegna geislunar, eitraðra eða hættulegra efna, gastegunda, gufu, reyks eða annarrar loftmengunar, hita, kulda, ódauns, sýkingar af smitnæmum sjúkdómum eða heilsutjón vegna rangrar stöðu við vinnu, rangra hreyfinga eða of mikils álags [eða hvernig dregið verði úr áhrifum andlega eða líkamlega einhæfra starfa og starfa sem unnin eru með fyrir fram ákveðnum hraða]<sup>5)</sup> og um aðrar þær ráðstafanir, sem þýðingu kynnu að hafa í þessu sambandi,
+
+b. um bann gegn sérlega hættulegum störfum, framleiðslu-, starfs- og vinnsluaðferðum,
+
+c. um að settar skuli upp á vinnustað greinilegar aðvaranir og/eða vinnusvæði girt eða afmörkuð með öðrum hætti,
+
+d. um gerð og notkun hlífðarbúnaðar, svo sem um hentugan fatnað, öryggishjálma, hlífðarbúnað gegn hávaða og geislun, hlífðargleraugu, vinnuskó, rykgrímur, gasgrímur, annan búnað til þess að verjast loftmengun og annan búnað ótalinn. Starfsmenn eru skyldir til þess að nota slíkan öryggisbúnað, þegar þeir, að mati Vinnueftirlits ríkisins, þarfnast hans við vinnu sína,
+
+[e. [um aðgerðir gegn einelti, kynferðislegri áreitni, kynbundinni áreitni og ofbeldi á vinnustöðum<sup>6)</sup>].<sup>3)</sup>]<sup>5)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>Rgl. 198/1983 (um réttindi til að stjórna vinnuvélum), sbr. rgl. 300/1995, rgl. 24/1999, rgl. 816/2000, rgl. 883/2002 og rgl. 1116/2021. Rgl. 491/1987 (um varnir gegn loftmengun við málmsuðu). Rgl. 90/1989 (um garðsláttuvélar). Rg. 426/1999 (um vinnu barna og ungmenna), sbr. [454/2016](https://www.reglugerd.is/reglugerdir/allar/nr/454-2016). Rgl. 498/1994 (um skjávinnu). Rgl. 499/1994 (um öryggi og hollustu þegar byrðar eru handleiknar). Rgl. 578/1995 (um meðhöndlun á fljótandi köfnunarefni). Rgl. 581/1995 (um húsnæði vinnustaða). Rgl. 707/1995 (um öryggis- og heilbrigðismerki á vinnustöðum), sbr. rgl. 455/2016. Rgl. 377/1996 (um þrýstihylki). Rgl. 547/1996 (um aðbúnað, hollustuhætti og öryggisráðstafanir á byggingarvinnustöðum), sbr. rgl. 504/1999. Rgl. 552/1996 (um öryggisráðstafanir við jarðefnanám), sbr. rgl. 349/2003. Rgl. 553/1996 (um öryggisráðstafanir við jarðefnanám með [borunum). Rgl. 140/1998](https://www.reglugerd.is/reglugerdir/allar/nr/140-1998) (um áfyllingarstöðvar fyrir gashylki). [Rg. 684/1999](https://www.reglugerd.is/reglugerdir/allar/nr/684-1999) (um sprengiefni). [Rg. 931/2000](https://www.reglugerd.is/reglugerdir/allar/nr/931-2000) (öryggi og heilbrigði kvenna sem eru þungaðar, hafa nýlega alið barn eða hafa barn á brjósti), sbr. [453/2016](https://www.reglugerd.is/reglugerdir/allar/nr/453-2016). Rgl. 761/2001 (um vélar og tæknilegan búnað). Rgl. 764/2001 (vernd gegn líffræðilegum skaðvöldum), sbr. rgl. 1291/2022. Rgl. 279/2003 (um hávaðamengun í umhverfinu af völdum tækjabúnaðar til notkunar utanhúss), sbr. rgl. 1136/2008 og rgl. 572/2025. [Rg. 349/2004](https://www.reglugerd.is/reglugerdir/allar/nr/349-2004) (um sprengifimt andrúmsloft á vinnustöðum). [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004) (verndun starfsmanna gegn hættu á heilsutjóni af völdum efna á vinnustöðum), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006) og [451/2016](https://www.reglugerd.is/reglugerdir/allar/nr/451-2016). [Rg. 384/2005](https://www.reglugerd.is/reglugerdir/allar/nr/384-2005) (um vinnu í kældu rými við matvælaframleiðslu). [Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006) (skipulag og framkvæmd vinnuverndarstarfs á vinnustöðum). [Rg. 921/2006](https://www.reglugerd.is/reglugerdir/allar/nr/921-2006) (varnir gegn álagi vegna hávaða á vinnustöðum). [Rg. 922/2006](https://www.reglugerd.is/reglugerdir/allar/nr/922-2006) (varnir gegn álagi vegna vélræns titrings á vinnustöðum). [Rg. 430/2007](https://www.reglugerd.is/reglugerdir/allar/nr/430-2007) (um bann við notkun asbests á vinnustöðum). [Rg. 390/2009](https://www.reglugerd.is/reglugerdir/allar/nr/390-2009) (um mengunarmörk og aðgerðir til að draga úr mengun á vinnustöðum), sbr. [1296/2012](https://www.reglugerd.is/reglugerdir/allar/nr/1296-2012), [1069/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1069-2018), [531/2020](https://www.reglugerd.is/reglugerdir/allar/nr/531-2020), [1137/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1137-2020), [631/2021](https://www.reglugerd.is/reglugerdir/allar/nr/631-2021) og [1309/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1309-2023). [Rg. 1005/2009](https://www.reglugerd.is/reglugerdir/allar/nr/1005-2009) (um vélar og tæknilegan búnað), sbr. [1256/2016](https://www.reglugerd.is/reglugerdir/allar/nr/1256-2016) og [181/2017](https://www.reglugerd.is/reglugerdir/allar/nr/181-2017). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011) (um varnir gegn álagi vegna tilbúinnar ljósgeislunar á vinnustöðum). [Rg. 260/2012](https://www.reglugerd.is/reglugerdir/allar/nr/260-2012) (um úðabrúsa), sbr. [307/2016](https://www.reglugerd.is/reglugerdir/allar/nr/307-2016) og [383/2018](https://www.reglugerd.is/reglugerdir/allar/nr/383-2018). [Rg. 218/2013](https://www.reglugerd.is/reglugerdir/allar/nr/218-2013) (um færanlegan þrýstibúnað). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014) (um vernd starfsmanna gegn áverkum af völdum beittra og oddhvassra áhalda við veitingu heilbrigðisþjónustu, þar á meðal á sjúkrahúsum). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015) (um vélknúin leiktæki). [Rg. 966/2016](https://www.reglugerd.is/reglugerdir/allar/nr/966-2016) (um lyftur og öryggisíhluti fyrir lyftur). [Rg. 1021/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1021-2017) (um einföld þrýstihylki). [Rg. 1022/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1022-2017) (um þrýstibúnað). [Rg. 1051/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1051-2017) (um varnir gegn skaðlegum áhrifum rafsegulsviðs á vinnustöðum). [Rg. 727/2018](https://www.reglugerd.is/reglugerdir/allar/nr/727-2018) (um tæki sem brenna gasi). [Rg. 728/2018](https://www.reglugerd.is/reglugerdir/allar/nr/728-2018) (um gerð persónuhlífa). [Rg. 729/2018](https://www.reglugerd.is/reglugerdir/allar/nr/729-2018) (um röraverkpalla), sbr. [1153/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1153-2020). [Rg. 1070/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2018) (um togbrautabúnað til fólksflutninga). [Rg. 530/2020](https://www.reglugerd.is/reglugerdir/allar/nr/530-2020), sbr. [1136/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1136-2020) og [1308/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1308-2023). [Rg. 1290/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1290-2022) (um notkun persónuhlífa). [Rg. 179/2021](https://www.reglugerd.is/reglugerdir/allar/nr/179-2021) (um kröfur varðandi losunarmörk mengandi lofttegunda og efnisagna og gerðarviðurkenningu brunahreyfla fyrir færanlegan vélbúnað til nota utan vega), sbr. [928/2021](https://www.reglugerd.is/reglugerdir/allar/nr/928-2021), [696/2022](https://www.reglugerd.is/reglugerdir/allar/nr/696-2022), [1469/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1469-2022) og [522/2023](https://www.reglugerd.is/reglugerdir/allar/nr/522-2023). <sup>3)</sup>[L. 80/2015, 1. gr.](https://www.althingi.is/altext/stjt/2015.080.html) <sup>4)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>5)</sup>[L. 68/2003, 9. gr.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>6)</sup>[Rg. 1009/2015](https://www.reglugerd.is/reglugerdir/allar/nr/1009-2015), sbr. [211/2023](https://www.reglugerd.is/reglugerdir/allar/nr/211-2023).
+
+##### 39. gr.
+
+Þar sem aðstæður með tilliti til heilbrigðis og öryggis starfsmanna krefjast þess, [skal Vinnueftirlit ríkisins hlutast til um að]<sup>1)</sup> hlutaðeigandi fyrirtæki geri áætlanir um framleiðslu-, starfs- og vinnsluaðferðir.
+
+Slíkar áætlanir og breytingar á þeim skulu kynntar öryggisnefndum, áður en þær eru framkvæmdar.
+
+> <sup>1)</sup>[L. 68/2003, 10. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 40. gr.
+
+[[Ráðherra]<sup>1)</sup> setur reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um:
+
+a. að störf, sem í kann að vera falin veruleg hætta á slysum, eitrunum eða sjúkdómum, verði aðeins framkvæmd af einstaklingum, sem fengið hafa tiltekna fræðslu, þjálfun, lokið hafa sérstöku prófi og/eða náð hafa ákveðnum aldri,
+
+b. ráðningu manna, sem er líkamlega eða andlega áfátt, til ákveðinna starfa, þegar bæklun þeirra, sjúkdómur eða aldur getur leitt til aukinnar slysa- eða sjúkdómshættu,
+
+c. takmarkanir á eða bann við, að starfsmenn vinni einir að tilteknum verkefnum eða störfum,
+
+d. vinnu- og hvíldartíma bifreiðastjóra, sem að staðaldri flytja fólk, og stjórnenda þeirra véla og tækja, sem mönnum getur stafað sérstök hætta af, sbr. 58. gr. laga þessara,
+
+e. önnur hliðstæð tilvik ótalin.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>Rgl. 198/1983, sbr. rgl. 300/1995, rgl. 24/1999, rgl. 816/2000, rgl. 883/2002 og rgl. 1116/2021. Rgl. 764/2001, sbr. rgl. 1291/2022. [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006). [Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). [Rg. 729/2018](https://www.reglugerd.is/reglugerdir/allar/nr/729-2018), sbr. [1153/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1153-2020). <sup>3)</sup>[L. 68/2003, 11. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## VI. kafli. Vinnustaður.
+
+##### 41. gr.
+
+Vinnustaður merkir í lögum þessum umhverfi innan húss eða utan, þar sem starfsmaður hefst við eða þarf að fara um vegna starfa sinna.
+
+##### 42. gr.
+
+Vinnustaður skal þannig úr garði gerður, að þar sé gætt fyllsta öryggis og góðs aðbúnaðar og hollustuhátta.
+
+Fylgja skal viðurkenndum stöðlum, ákvæðum laga og reglugerða, svo og fyrirmælum Vinnueftirlits ríkisins, að því er varðar aðbúnað, hollustuhætti og öryggi.
+
+##### 43. gr.
+
+[[Ráðherra]<sup>1)</sup> setur reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um fyrirkomulag fastra og bráðabirgðavinnustaða, innan húss og utan, sem m.a. fjalla um:
+
+a. húsnæði, svo sem vinnurými, lofthæð, loftrými, gólf, veggi, loft, lýsingu, hita, loftræstingu og loftskipti, varnir gegn hávaða, titringi, geislun og fleira,
+
+b. aðbúnað starfsmanna og fleira, svo sem setu- og matsali, kaffistofur, búningsherbergi, fatageymslur og fatahengi, salerni og þvagstæði, þvotta- og baðherbergi, svo og um gæðakröfur og staðla slíks húsnæðis,
+
+c. neyðarútgang frá vinnustað, svo og umferðarleiðir innan vinnusvæða, svo sem göngubrautir, stiga og útgönguleiðir,
+
+d. annað ótalið, sem stuðlað getur að bættum aðbúnaði, hollustuháttum og öryggi.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 581/1995](https://www.reglugerd.is/reglugerdir/allar/nr/581-1995). [Rg. 349/2004](https://www.reglugerd.is/reglugerdir/allar/nr/349-2004). [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004). [Rg. 384/2005](https://www.reglugerd.is/reglugerdir/allar/nr/384-2005). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). [Rg. 1050/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1050-2017). <sup>3)</sup>[L. 68/2003, 11. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 44. gr.
+
+Þar sem sérstakar aðstæður með tilliti til öryggis og heilbrigðis starfsmanna krefjast þess, [setur [ráðherra]<sup>1)</sup> sérstakar reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um, að áætlanir og hönnunargögn vegna nýbygginga eða breytinga á tiltekinni starfsemi, uppsetningu á húshlutum, vélum, tækjum eða öðrum búnaði skuli lagðar fyrir Vinnueftirlit ríkisins til umsagnar eða samþykktar, áður en breyting eða uppsetning er gerð.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 581/1995](https://www.reglugerd.is/reglugerdir/allar/nr/581-1995). [Rg. 384/2005](https://www.reglugerd.is/reglugerdir/allar/nr/384-2005). <sup>3)</sup>[L. 68/2003, 12. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## VII. kafli. Vélar, tækjabúnaður og fleira.
+
+##### 45. gr.
+
+Aflvél merkir í lögum þessum vél, eða hluta vélar, sem breytir einu orkuformi í annað.
+
+Farandvél merkir í lögum þessum tæki, sem getur flutt sig úr stað með eigin aflvél.
+
+Vinnuvél merkir í lögum þessum tæki, sem knúið er af aflvél og hægt er að vinna með nánar tiltekin störf.
+
+Farandvinnuvél merkir í lögum þessum tæki, sem er hvort tveggja í senn farandvél og vinnuvél.
+
+Búvél merkir í lögum þessum hvers konar áðurnefndar vélar, sem notaðar eru við bústörf.
+
+[Sá einn má vera stjórnandi tiltekinnar vélar, sbr. 1.–5. mgr. þessarar greinar og 1. mgr. 46. gr., sem hefur öðlast fullgild réttindi til að stjórna þeirri vél sem um ræðir hverju sinni samkvæmt reglum sem settar hafa verið á grundvelli 3. mgr. 49. gr.]<sup>1)</sup>
+
+[Stjórnandi vélar, sbr. 6. mgr., skal vera líkamlega og andlega fær um að stjórna vélinni og því má enginn stjórna eða reyna að stjórna slíkri vél ef hann, svo sem vegna veikinda, hrörnunar, ofreynslu, svefnleysis, neyslu áfengis eða annarra örvandi eða deyfandi efna eða annarra orsaka, er þannig á sig kominn að hann er ekki fær um að stjórna vélinni örugglega.
+
+Enginn má stjórna eða reyna að stjórna tiltekinni vél, sbr. 1.–5. mgr. og 1. mgr. 46. gr., sem er skráningarskyld skv. 49. gr. en telst ekki vera vélknúið ökutæki skv. 43. tölul. 1. mgr. [3. gr. umferðarlaga, 77/2019](../2019/2019-77-umferdarlog.md), sem vegna neyslu lyfja telst óhæfur til að stjórna vélinni, sbr. 48. gr. umferðarlaga, eða er undir áhrifum áfengis eða ávana- og fíkniefna sem bönnuð eru hér á landi samkvæmt lögum um ávana- og fíkniefni eða reglugerðum settum samkvæmt þeim, ef magn áfengis eða ávana- og fíkniefna er yfir þeim mörkum sem kveðið er á um í 49. og 50. gr. umferðarlaga.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 75/2018, 64. gr.](https://www.althingi.is/altext/stjt/2018.075.html) <sup>2)</sup>[L. 105/2024, 3. gr.](https://www.althingi.is/altext/stjt/2024.105.html)
+
+##### 46. gr.
+
+Vélar, vélahlutar, ílát, geymar, katlar, áhöld, tæki, virki hvers konar og húshlutar, samstæður og annar búnaður skal þannig úr garði gerður, að gætt sé fyllsta öryggis og góðs aðbúnaðar og hollustuhátta.
+
+Fylgja skal viðurkenndum stöðlum, ákvæðum laga og reglugerða, svo og fyrirmælum Vinnueftirlits ríkisins, að því er varðar aðbúnað, hollustuhætti og öryggi.
+
+##### 47. gr.
+
+[[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um gerð og notkun véla, tækja og annars búnaðar, sem nota á við atvinnurekstur, svo sem um:
+
+a. gerð, útfærslu, uppsetningu, tilkynningarskyldu og prófanir,
+
+b. á hvern hátt eða hvort leggja skuli fyrir Vinnueftirlitið til umsagnar eða samþykktar áætlanir eða önnur gögn um gerð, framleiðslu eða uppsetningu slíks búnaðar,
+
+c. notkun, viðhald og gæslu slíks búnaðar.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>Rgl. 475/1985 (um heftibyssur). Rgl. 476/1985 (um naglabyssur). Rgl. 153/1986 (um dráttarvélar og hlífabúnað við aflflutning frá þeim), sbr. rgl. 424/1987, rgl. 561/1987 og rgl. 580/1995. Rgl. 90/1989 (um garðsláttuvélar). Rgl. 377/1996 (um þrýstihylki). Rgl. 140/1998 (um áfyllingarstöðvar fyrir gashylki). Rgl. 609/1999 (um öryggisbúnað krana og lyftibúnaðar), sbr. rgl. 236/2001. Rgl. 761/2001 (um vélar og tæknilegan búnað). Rgl. 279/2003 (um hávaðamengun í umhverfinu af völdum tækjabúnaðar til notkunar utanhúss), sbr. rgl. 1136/2008 og rgl. 572/2025. [Rg. 349/2004](https://www.reglugerd.is/reglugerdir/allar/nr/349-2004) (um sprengifimt andrúmsloft á vinnustöðum). [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004) (verndun starfsmanna gegn hættu á heilsutjóni af völdum efna á vinnustöðum), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006). [Rg. 367/2006](https://www.reglugerd.is/reglugerdir/allar/nr/367-2006) (um notkun tækja). [Rg. 1005/2009](https://www.reglugerd.is/reglugerdir/allar/nr/1005-2009) (um vélar og tæknilegan búnað), sbr. [1256/2016](https://www.reglugerd.is/reglugerdir/allar/nr/1256-2016) og [181/2017](https://www.reglugerd.is/reglugerdir/allar/nr/181-2017). [Rg. 260/2012](https://www.reglugerd.is/reglugerdir/allar/nr/260-2012) (um úðabrúsa), sbr. [307/2016](https://www.reglugerd.is/reglugerdir/allar/nr/307-2016) og [383/2018](https://www.reglugerd.is/reglugerdir/allar/nr/383-2018). [Rg. 218/2013](https://www.reglugerd.is/reglugerdir/allar/nr/218-2013) (um færanlegan þrýstibúnað). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015) (um vélknúin leiktæki). [Rg. 966/2016](https://www.reglugerd.is/reglugerdir/allar/nr/966-2016) (um lyftur og öryggisíhluti fyrir lyftur). [Rg. 1021/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1021-2017) (um einföld þrýstihylki). [Rg. 1022/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1022-2017) (um þrýstibúnað). [Rg. 727/2018](https://www.reglugerd.is/reglugerdir/allar/nr/727-2018) (um tæki sem brenna gasi). [Rg. 728/2018](https://www.reglugerd.is/reglugerdir/allar/nr/728-2018) (um gerð persónuhlífa). [Rg. 729/2018](https://www.reglugerd.is/reglugerdir/allar/nr/729-2018) (um röraverkpalla), sbr. [1153/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1153-2020). [Rg. 1070/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1070-2018) (um togbrautabúnað til fólksflutninga). [Rg. 179/2021](https://www.reglugerd.is/reglugerdir/allar/nr/179-2021) (um kröfur varðandi losunarmörk mengandi lofttegunda og efnisagna og gerðarviðurkenningu brunahreyfla fyrir færanlegan vélbúnað til nota utan vega), sbr. [928/2021](https://www.reglugerd.is/reglugerdir/allar/nr/928-2021), [696/2022](https://www.reglugerd.is/reglugerdir/allar/nr/696-2022), [1469/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1469-2022) og [522/2023](https://www.reglugerd.is/reglugerdir/allar/nr/522-2023). [Rg. 1290/2022](https://www.reglugerd.is/reglugerdir/allar/nr/1290-2022) (um notkun persónuhlífa). <sup>3)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 48. gr.
+
+[Óheimilt er að setja á markað eða taka í notkun tegund véla, tækja eða annars búnaðar sem uppfyllir ekki reglur um öryggi og formskilyrði, svo sem um merkingar, leiðbeiningar, vottorð, yfirlýsingar um samræmi eða prófunarskýrslur, sem sett eru samkvæmt lögum þessum, sérreglum sem settar eru á grundvelli þeirra eða viðurkenndum stöðlum er gilda á sameiginlegum markaði ríkja Evrópska efnahagssvæðisins.
+
+[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um kröfur sem tegund véla, tækja eða annars búnaðar verður að uppfylla til þess að teljast örugg og þær aðferðir sem framleiðandi getur beitt til að sýna fram á samræmi tegundar við settar reglur.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 1005/2009](https://www.reglugerd.is/reglugerdir/allar/nr/1005-2009) (um vélar og tæknilegan búnað), sbr. [1256/2016](https://www.reglugerd.is/reglugerdir/allar/nr/1256-2016) og [181/2017](https://www.reglugerd.is/reglugerdir/allar/nr/181-2017). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015) (um vélknúin leiktæki). [Rg. 260/2012](https://www.reglugerd.is/reglugerdir/allar/nr/260-2012) (um úðabrúsa), sbr. [383/2018](https://www.reglugerd.is/reglugerdir/allar/nr/383-2018). <sup>3)</sup>[L. 68/2003, 13. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [48. gr. a.
+
+Vinnueftirliti ríkisins er heimilt að banna markaðssetningu og notkun á þeim tegundum véla, tækja eða annars búnaðar sem fullnægja ekki ákvæðum laga þessara, annarra sérreglna sem settar eru á grundvelli þeirra eða viðurkenndra staðla er gilda á sameiginlegum markaði ríkja Evrópska efnahagssvæðisins. Áður en ákvörðun um bann er tekin skal atvinnurekanda, framleiðanda tegundar eða fulltrúa hans, eftir því sem við á, veittur hæfilegur frestur til að bæta úr annmörkum hennar.
+
+Telji Vinnueftirlit ríkisins tegund véla, tækja eða annars búnaðar sérstaklega hættulega getur það krafist afturköllunar allra eintaka hennar. Framleiðandi eða fulltrúi hans ber allan kostnað af slíkri afturköllun.
+
+Hafi Vinnueftirlit ríkisins rökstuddan grun um að öryggi og heilsu fólks eða eigna stafi hætta af einhverri tegund véla, tækja eða annars búnaðar er því heimilt að banna markaðssetningu og notkun hennar tímabundið í allt að fjórar vikur eða setja sérstök skilyrði fyrir markaðssetningu og notkun þótt tegundin uppfylli formskilyrði laga þessara og viðkomandi sérreglna. Starfsmenn Vinnueftirlits ríkisins skulu hefja rannsókn á öryggi tegundar án ástæðulauss dráttar. Þá er heimilt að framlengja bannið um allt að fjórar vikur ef sérstakar ástæður vegna rannsóknarinnar krefjast að bannið verði framlengt. Framleiðandi eða fulltrúi hans ber kostnað vegna þeirra sýnishorna tegundar sem eru til rannsóknar. Að lokinni rannsókn skal sýnishornum skilað eða þau eyðilögð með öruggum hætti eftir atvikum.
+
+Þegar Vinnueftirlit ríkisins hefur bannað tegund skv. 1.–3. mgr. er því heimilt að skylda framleiðendur og dreifingaraðila til að eyðileggja öll eintök tegundar með öruggum hætti eða skylda þá, eftir því sem við getur átt, til að lagfæra tegundina þannig að hún uppfylli settar reglur, afhenda sams konar tegund vélar, tækis eða annars búnaðar eða endurgreiða andvirði hennar.
+
+Torveldi atvinnurekandi, framleiðandi eða dreifingaraðili sannanlega rannsókn og skoðun Vinnueftirlits ríkisins á viðkomandi tegund eða hefur ekki tiltæk fullnægjandi gögn um öryggi hennar er stofnuninni heimilt að banna markaðssetningu og notkun hennar.
+
+Þegar tegund er ekki í samræmi við settar reglur skal framleiðandi eða fulltrúi hans bera þann kostnað sem hlýst af skoðun, rannsókn og prófun.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 14. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 49. gr.
+
+Hvers konar vélar, tæki og búnað, sem getið er um í 46. gr., nema bifreiðar og vélar, sem lúta öðrum lögum, skal skrá og skoða samkvæmt nánari fyrirmælum í reglum,<sup>1)</sup> [sem [ráðherra]<sup>2)</sup> setur, að fenginni umsögn stjórnar Vinnueftirlits ríkisins, og í samráði við forstjóra].<sup>3)</sup>
+
+[[Ráðherra]<sup>2)</sup> setur gjaldskrá, að fengnum tillögum forstjóra Vinnueftirlits ríkisins og umsögn stjórnar Vinnueftirlits ríkisins, um skráningu og skoðun farandvéla, farandvinnuvéla, búvéla, lyftna og lyftubúnaðar, rúllustiga, geyma, þrýstihylkja og katla, þar á meðal um aukaskoðun sem þarf að gera ef vanbúnaður kemur í ljós við reglubundna skoðun og aukaskoðun vegna uppsetningar, breytinga eða viðgerða á framangreindum vélum, tækjum eða öðrum búnaði sem eru með gilda reglubundna skoðun.]<sup>3)</sup>
+
+[[Ráðherra]<sup>2)</sup> setur reglur,<sup>4)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>3)</sup> um kennslu, þjálfun og próf, er gefi til kynna næga hæfni og þekkingu þeirra aðila, sem óska eftir leyfi til að mega stjórna eða fara með tilteknar vélar, enda sé ekki kveðið á um slík leyfi í öðrum lögum.
+
+> <sup>1)</sup>Rgl. 153/1986, sbr. rgl. 424/1987, rgl. 561/1987 og rgl. 580/1995. <sup>2)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>3)</sup>[L. 68/2003, 15. gr.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>4)</sup>Rgl. 198/1983 (um réttindi til að stjórna vinnuvélum), sbr. rgl. 300/1995, rgl. 24/1999, rgl. 816/2000, rgl. 883/2002 og rgl. 1116/2021. Rg. 151/2015 (um vélknúin leiktæki).
+
+## VIII. kafli. Hættuleg efni og vörur.
+
+##### 50. gr.
+
+[Á vinnustöðum þar sem hættuleg efni eða efnavörur, efnaúrgangur eða spilliefni, þar með talin sprengifim efni, eldfim efni og sprengiefni, eru notuð eða kunna að vera notuð skal atvinnurekandi gæta þess að þeim framleiðslu-, starfs- og vinnsluaðferðum sé beitt sem tryggja að starfsmenn séu varðir gegn slysum, mengun og sjúkdómum.
+
+Þegar áhættumat skv. 65. gr. a gefur til kynna að heilsu og öryggi starfsmanna er hætta búin vegna hættulegs efnis, efnavöru, efnaúrgangs eða spilliefna skal atvinnurekandi sjá til þess að öryggisblöð og skriflegar leiðbeiningar, eftir því sem við á, liggi frammi á vinnustaðnum ásamt því að kynna starfsmönnum efni þeirra. Í leiðbeiningunum skal koma fram hvaða starfsháttum skuli fylgt þegar slys eða óhapp verður í tengslum við hættuleg efni eða efnavörur.
+
+Atvinnurekandi skal grípa til nauðsynlegra forvarna til að koma í veg fyrir mengun á vinnustað eða, sé þess ekki kostur, draga úr henni eins og frekast er unnt. Hann skal ávallt leitast við, með tilliti til eðlis starfseminnar, að nota efni eða efnavöru sem teljast hættulaus eða síður hættuleg heilsu starfsmanna við þær aðstæður sem þau eru notuð.
+
+Mengun á vinnustað skal ekki fara yfir gildandi mengunarmörk efnis. Þegar mengun stafar frá fleiri en einu efni eða efnavöru skal tekið tillit til samverkandi áhrifa.
+
+Efni eða efnavara sem stofnar eða getur stofnað heilsu og öryggi starfsmanna í hættu skal vera í öruggum umbúðum á vinnustöðum. Hættulegur efnaúrgangur og spilliefni skulu geymd með öruggum hætti á vinnustað.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 16. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 51. gr.
+
+[Vinnueftirlit ríkisins gefur út eiturefnaleyfi til einstaklinga og fyrirtækja sem við framkvæmd vinnu nota að staðaldri eiturefni eða efnavöru sem flokkast sem eiturefni að uppfylltum skilyrðum 50. gr. og reglugerðar sem sett er skv. 3. mgr. Í eiturefnaleyfi skal tilgreina þau efni sem leyfið nær til. Þetta ákvæði á ekki við um eiturefnaleyfi fyrir varnarefni, nagdýra- og skordýraeitur. Vinnueftirlit ríkisins skal árlega láta [Umhverfis- og orkustofnun]<sup>1)</sup> í té upplýsingar um leyfishafa og um hvaða eiturefni leyfið á við.
+
+Vinnueftirlit ríkisins skal hafa eftirlit með að merkingar, notkun, geymsla og flutningur efnis og efnavöru á vinnustöðum fullnægi gildandi lögum, reglum og viðurkenndum stöðlum. Vinnueftirlitinu er heimilt að banna framleiðslu, flutning og notkun hættulegra efna og efnavara á vinnustöðum þegar það þykir sýnt að heilsu manna er hætta búin. Sama á við um efni þegar ekki liggja fyrir, að mati stofnunarinnar, fullnægjandi upplýsingar um innihald, samsetningu, meðferð, notkun eða vörslu þeirra.
+
+[Ráðherra]<sup>2)</sup> skal setja nánari reglur,<sup>3)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins og [þess ráðuneytis er fer með málefni efna og efnavara],<sup>4)</sup> um skilyrði eiturefnaleyfis, mengunarmörk, meðferð, umbúðir, áfyllingu, merkingu, geymslu, flutning efna og efnavöru á vinnustöðum og notkun þeirra sem geta stofnað heilsu starfsmanna í hættu eða leitt til lakari aðbúnaðar á vinnustöðum.]<sup>5)</sup>
+
+> <sup>1)</sup>[L. 110/2024, 8. gr.](https://www.althingi.is/altext/stjt/2024.110.html#G8) <sup>2)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>3)</sup>Rgl. 578/1995 (um meðhöndlun á fljótandi köfnunarefni). Rgl. 707/1995 (um öryggis- og heilbrigðismerki á vinnustöðum), sbr. rgl. 455/2016. [Rg. 426/1999](https://www.reglugerd.is/reglugerdir/allar/nr/426-1999) (um vinnu barna og ungmenna), sbr. [454/2016](https://www.reglugerd.is/reglugerdir/allar/nr/454-2016). [Rg. 931/2000](https://www.reglugerd.is/reglugerdir/allar/nr/931-2000) (öryggi og heilbrigði kvenna sem eru þungaðar, hafa nýlega alið barn eða hafa barn á brjósti), sbr. [453/2016](https://www.reglugerd.is/reglugerdir/allar/nr/453-2016). Rgl. 764/2001 (vernd gegn líffræðilegum skaðvöldum), sbr. rgl. 1291/2022. [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004) (verndun starfsmanna gegn hættu á heilsutjóni af völdum efna á vinnustöðum), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006) og [451/2016](https://www.reglugerd.is/reglugerdir/allar/nr/451-2016). [Rg. 430/2007](https://www.reglugerd.is/reglugerdir/allar/nr/430-2007) (um bann við notkun asbests á vinnustöðum). [Rg. 390/2009](https://www.reglugerd.is/reglugerdir/allar/nr/390-2009) (um mengunarmörk og aðgerðir til að draga úr mengun á vinnustöðum), sbr. [1296/2012](https://www.reglugerd.is/reglugerdir/allar/nr/1296-2012), [1137/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1137-2020), [631/2021](https://www.reglugerd.is/reglugerdir/allar/nr/631-2021), [1069/2018](https://www.reglugerd.is/reglugerdir/allar/nr/1069-2018), [531/2020](https://www.reglugerd.is/reglugerdir/allar/nr/531-2020) og [1309/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1309-2023). [Rg. 1050/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1050-2017) (um varnir gegn hættu á stórslysum af völdum hættulegra efna). [Rg. 530/2020](https://www.reglugerd.is/reglugerdir/allar/nr/530-2020), sbr. [1136/2020](https://www.reglugerd.is/reglugerdir/allar/nr/1136-2020) og [1308/2023](https://www.reglugerd.is/reglugerdir/allar/nr/1308-2023). <sup>4)</sup>[L. 126/2011, 83. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>5)</sup>[L. 68/2003, 17. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [51. gr. a.
+
+Á vinnustöðum þar sem hættuleg efni eða efnavörur eru notuð eða kunna að vera notuð í þeim mæli að við slys geti skapast umfangsmikil hætta fyrir fólk og umhverfi skal atvinnurekandi gera öryggisráðstafanir til að koma í veg fyrir slík slys. Enn fremur skal atvinnurekandi gera ráðstafanir til að unnt sé að bregðast við slíkum slysum svo að tafarlaust megi draga úr afleiðingum þeirra.
+
+Vinnueftirlit ríkisins skal hafa eftirlit með að viðeigandi skilyrðum sé fullnægt og að nauðsynlegar öryggisráðstafanir vegna hættu á slysi, sbr. 1. mgr., hafi verið gerðar.
+
+[Ráðherra]<sup>1)</sup> skal skipa sérstaka fjögurra manna samráðsnefnd um stórslysavarnir í iðnaði að fengnum tilnefningum frá Brunamálastofnun, Almannavörnum ríkisins, [Umhverfis- og orkustofnun]<sup>2)</sup> og Vinnueftirliti ríkisins.
+
+Hlutverk nefndarinnar er að tryggja samráð og samstarf hlutaðeigandi stofnana í því skyni að tryggja öryggi starfsmanna, almennings og umhverfis þegar stórslys í iðnaði ber að höndum.
+
+[Ráðherra]<sup>1)</sup> setur reglugerð<sup>3)</sup> um varnir gegn og viðbrögð við slíkum slysum á vinnustöðum að fenginni umsögn stjórnar Vinnueftirlits ríkisins og samráðsnefndar um stórslysavarnir í iðnaði.]<sup>4)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 110/2024, 8. gr.](https://www.althingi.is/altext/stjt/2024.110.html#G8) <sup>3)</sup>[Rg. 1050/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1050-2017). <sup>4)</sup>[L. 68/2003, 18. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## IX. kafli. [Hvíldartími, frídagar og hámarksvinnutími.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [52. gr.
+
+Í kafla þessum er merking eftirfarandi hugtaka sem hér segir:
+
+1\. *Vinnutími:* Sá tími sem starfsmaður er við störf, til taks fyrir atvinnurekandann og innir af hendi störf sín eða skyldur.
+
+2\. *Hvíldartími:* Sá tími sem ekki telst til vinnutíma.
+
+3\. *Næturvinnutími:* Tímabil sem ekki er skemmra en sjö klukkustundir og skal ná yfir tímabilið frá miðnætti til klukkan fimm að morgni. Um nánari afmörkun tímabilsins fer samkvæmt samkomulagi samtaka aðila vinnumarkaðarins.
+
+4\. *Næturvinnustarfsmaður* er:
+
+a. starfsmaður sem venjulega vinnur að minnsta kosti þrjár klukkustundir af daglegum vinnutíma sínum á næturvinnutíma og/eða
+
+b. starfsmaður sem ætlast er til að inni af hendi tiltekinn hluta af ársvinnuframlagi sínu á næturvinnutíma samkvæmt samkomulagi samtaka aðila vinnumarkaðarins.
+
+5\. *Vaktavinna:* Vinna sem skipt er niður samkvæmt fyrir fram ákveðnu fyrirkomulagi þar sem starfsmaður vinnur á mismunandi vöktum á tilteknu tímabili sem mælt er í dögum eða vikum.
+
+6\. *Vaktavinnustarfsmaður:* Starfsmaður sem vinnur vaktavinnu.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [52. gr. a.
+
+Ákvæði þessa kafla gilda ekki um:
+
+1\. þá sem starfa við flutning á vegum og falla undir [lög og reglugerðir sem fjalla]<sup>1)</sup> um aksturs- og hvíldartíma ökumanna o.fl. í innanlandsflutningum og við flutning innan Evrópska efnahagssvæðisins,
+
+2\. …<sup>1)</sup>
+
+3\. æðstu stjórnendur eða aðra þá sem ráða vinnutíma sínum sjálfir,
+
+4\. sérstakar aðstæður sem tengjast starfsemi hins opinbera, svo sem nauðsynlegri öryggisstarfsemi og brýnum rannsóknarhagsmunum á sviði löggæslu, vinnu sem tengist starfsemi almannavarna og eftirlitsstörfum vegna snjóflóðavarna.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 138/2005, 1. gr.](https://www.althingi.is/altext/stjt/2005.138.html) <sup>2)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [53. gr.
+
+Vinnutíma skal haga þannig að á hverjum 24 klukkustundum, reiknað frá byrjun vinnudags, fái starfsmenn að minnsta kosti 11 klukkustunda samfellda hvíld.
+
+Með samkomulagi samtaka aðila vinnumarkaðarins er heimilt að stytta samfelldan hvíldartíma í allt að átta klukkustundir ef eðli starfs eða sérstakir atvinnuhættir gera frávik nauðsynleg.
+
+Heimilt er að víkja frá ákvæði 1. mgr. verði truflun á starfsemi vegna ytri aðstæðna, svo sem vegna veðurs eða annarra náttúruafla, slysa, orkuskorts, bilunar í vélum, tækjum eða öðrum búnaði eða annarra tilsvarandi ófyrirséðra atburða, að því marki sem nauðsynlegt er, til að koma í veg fyrir verulegt tjón, þar til regluleg starfsemi hefur komist á að nýju.
+
+Sé daglegur hvíldartími styttur skv. 2. eða 3. mgr. skal starfsmaður fá samsvarandi hvíldartíma síðar.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [53. gr. a.
+
+Starfsmaður á rétt á hléi ef daglegur vinnutími hans er lengri en sex klukkustundir. Um framkvæmd þessa ákvæðis, svo sem um hve langt hléið skal vera, fer samkvæmt samkomulagi samtaka aðila vinnumarkaðarins.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [53. gr. b.
+
+Þrátt fyrir 1. mgr. 53. gr. og 1. mgr. 56. gr. er við veitingu þjónustu á grundvelli [11. gr. laga um þjónustu við fatlað fólk með langvarandi stuðningsþarfir, 38/2018](../2018/2018-38-thjonustu-vid-fatlad-folk-med-langvarandi-studningstharfir.md), í undantekningartilvikum heimilt að haga vinnutíma starfsmanna sem veita þjónustuna þannig að starfsmennirnir fái styttri hvíld en kveðið er á um í 1. mgr. 53. gr. og getur vinnutíminn þá varað samfellt í allt að 48 klukkustundir að hámarki, enda séu eftirfarandi skilyrði uppfyllt:
+
+1\. Fyrir liggi samningur milli þess sveitarfélags sem í hlut á og hlutaðeigandi umsýsluaðila um vinnufyrirkomulag starfsmanna samkvæmt þessari málsgrein sem byggist á mati sveitarfélagsins þar sem m.a. kemur fram mikilvægi þess fyrir notanda umræddrar þjónustu að vinnutíma starfsmanna sem veita þjónustuna sé hagað með þeim hætti sem um getur í þessari málsgrein. Skal að minnsta kosti annað af eftirfarandi atriðum vera til staðar:
+
+a. Það geti valdið röskun á aðstæðum notanda þjónustunnar sem í hlut á sem leitt geti til andlegs og/eða líkamlegs álags á viðkomandi, svo sem óöryggis eða kvíða, verði vinnutíma starfsmanna sem veita þjónustuna hagað skv. 1. mgr. 53. gr.
+
+b. Um sé að ræða tímabundnar breytingar á aðstæðum notanda þjónustunnar sem í hlut á, svo sem tímabundið ferðalag fjarri heimili, sem leiða til þess að þjónustuþörf viðkomandi breytist þannig að tímabundið sé nauðsynlegt fyrir viðkomandi að vinnutíma starfsmanna sem veita þjónustuna verði hagað með þeim hætti að þeir fái styttri hvíld en kveðið er á um í 1. mgr. 53. gr.
+
+2\. Starfsmenn hafi fullnægjandi hvíldaraðstöðu og geti hvílst að lágmarki í sjö klukkustundir samfellt á næturvinnutíma skv. 3. tölul. 52. gr. sem fellur innan vinnutímans, og einungis er gert ráð fyrir tveimur rofum á hvíldinni að hámarki á því tímabili í tengslum við veitingu þjónustunnar.
+
+3\. Fyrir liggi áhættumat skv. 65. gr.
+
+Þegar vinnufyrirkomulag starfsmanna er skv. 1. mgr. skal við það miðað að starfsmennirnir fái eins fljótt og við verður komið samsvarandi hvíldartíma og mælt er fyrir um í 1. mgr. 53. gr.
+
+Endurnýjun samnings sem gerður er með vísun til a-liðar 1. tölul. 1. mgr. skal koma til skoðunar samhliða stöðumati á framkvæmd þjónustu skv. [11. gr. laga um þjónustu við fatlað fólk með langvarandi stuðningsþarfir, 38/2018](../2018/2018-38-thjonustu-vid-fatlad-folk-med-langvarandi-studningstharfir.md), sbr. 22. gr. reglugerðar um notendastýrða persónulega aðstoð, nr. 1250/2018, og skulu forsendur samningsins þá jafnframt endurskoðaðar, sbr. 1. mgr. Gildistími tímabundins samnings sem gerður er með vísun til b-liðar 1. tölul. 1. mgr. getur verið allt að þrír mánuðir.
+
+Það sveitarfélag sem í hlut á og hlutaðeigandi umsýsluaðili skulu láta Vinnueftirliti ríkisins í té þær upplýsingar og þau gögn sem stofnunin telur nauðsynleg til að henni sé unnt að hafa eftirlit með framkvæmd ákvæðis þessa. Starfsmönnum Vinnueftirlits ríkisins er heimilt að fara í eftirlitsheimsóknir á vinnustaði starfsmanna sem veita þjónustu á grundvelli [11. gr. laga um þjónustu við fatlað fólk með langvarandi stuðningsþarfir, 38/2018](../2018/2018-38-thjonustu-vid-fatlad-folk-med-langvarandi-studningstharfir.md), og ber starfsmönnum Vinnueftirlitsins að sýna sérstök skilríki við slíkt eftirlit sem stofnunin gefur út.
+
+Ráðherra er heimilt að setja reglugerð, í samráði við hagsmunasamtök fatlaðs fólks, Samband íslenskra sveitarfélaga, samtök aðila vinnumarkaðarins og Vinnueftirlit ríkisins sem og að fenginni umsögn stjórnar Vinnueftirlits ríkisins, þar sem nánar er kveðið á um framkvæmd ákvæðis þessa, svo sem um hve oft er unnt að haga vinnutíma starfsmanns með þeim hætti sem um getur í 1. mgr. innan tiltekins tímabils og þau skilyrði sem þurfa að vera uppfyllt hverju sinni þannig að heimilt sé að víkja frá ákvæðum 1. mgr. 53. gr. og 1. mgr. 56. gr. á grundvelli ákvæðis þessa, þ.m.t. hvað varðar hvíldaraðstöðu starfsmanna.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 41/2022, 1. gr.](https://www.althingi.is/altext/stjt/2022.041.html)
+
+##### [54. gr.
+
+Á hverju sjö daga tímabili skal starfsmaður fá að minnsta kosti einn vikulegan frídag sem tengist beint daglegum hvíldartíma skv. 53. gr.
+
+Ef sérstök þörf er á vegna eðlis hlutaðeigandi starfa er heimilt með samningum samtaka aðila vinnumarkaðarins að fresta vikulegum frídegi þannig að starfsmaður fái samsvarandi hvíldartíma síðar og ávallt innan 14 daga. Þar sem sérstakar ástæður gera slík frávik nauðsynleg má þó ákveða með samkomulagi á vinnustað að fresta vikulegum hvíldartíma þannig að í stað vikulegs frídags komi tveir samfelldir frídagar á hverjum tveimur vikum.
+
+Enn fremur er heimilt að fresta vikulegum frídegi þegar ytri aðstæður, svo sem veður og önnur náttúruöfl, slys, orkuskortur, bilun á vélum, tækjum eða öðrum búnaði, eða aðrir tilsvarandi ófyrirséðir atburðir trufla eða hafa truflað rekstur og nauðsyn er að halda uppi þjónustu eða framleiðslu, enda fái starfsmaður samsvarandi hvíldartíma síðar og eins fljótt og við verður komið.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [55. gr.
+
+Hámarksvinnutími starfsmanna á viku að yfirvinnu meðtalinni skal ekki vera umfram 48 klukkustundir að meðaltali á hverju fjögurra mánaða tímabili.
+
+Heimilt er með samkomulagi samtaka aðila vinnumarkaðarins að reikna hámarksvinnutíma starfsmanna út frá viðmiðunartímabili sem má vera allt að sex mánuðir.
+
+Ef fyrir liggja hlutlægar eða tæknilegar ástæður eða vegna sérstaks eðlis hlutaðeigandi starfa er samtökum aðila vinnumarkaðarins heimilt að ákveða með samningum að hámarksvinnutími starfsmanna skuli reiknaður út frá viðmiðunartímabili sem er allt að 12 mánuðir, að gættum meginreglum laga þessara um öryggis- og heilsuvernd starfsmanna.
+
+Einungis vinnutími, sbr. 1. tölul. 52. gr., skal talinn við meðaltalsútreikninga skv. 1.–3. mgr. Árlegt launað lágmarksorlof samkvæmt lögum og veikindaforföll skulu ekki talin með við meðaltalsútreikningana.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [56. gr.
+
+Vinnutími næturvinnustarfsmanna skal að jafnaði ekki vera lengri en átta klukkustundir á hverju 24 klukkustunda tímabili.
+
+Heimilt er með samkomulagi samtaka aðila vinnumarkaðarins að lengja vinnutíma næturvinnustarfsmanna þannig að hann verði að jafnaði allt að 48 vinnustundir á viku. Skal þá skipuleggja vinnuna þannig að vinnutíminn verði sem reglulegastur.
+
+Um viðmiðunartímabil og viðmið við útreikning á meðalvinnutíma næturvinnustarfsmanna fer skv. 55. gr.
+
+Næturvinnustarfsmenn sem gegna sérstaklega áhættusömum störfum eða störfum sem fela í sér mikið líkamlegt eða andlegt álag skulu ekki vinna lengur en átta klukkustundir á hverju 24 klukkustunda tímabili.
+
+[Ráðherra]<sup>1)</sup> skal setja reglur, að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um hvað teljist sérstaklega áhættusöm störf eða störf sem fela í sér mikið líkamlegt eða andlegt álag, sbr. 4. mgr.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [57. gr.
+
+Næturvinnustarfsmenn sem eiga við heilsufarsvandamál að stríða sem sannanlega verða rakin til vinnutíma skulu þegar kostur er færðir til í dagvinnustörf sem henta þeim.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [57. gr. a.
+
+Atvinnurekendum er skylt að koma upp hlutlægu, áreiðanlegu og aðgengilegu kerfi vegna skráningar á vinnutíma starfsmanna sinna þar sem meðal annars koma fram upplýsingar um daglegan og vikulegan vinnutíma sem og upplýsingar um á hvaða tíma sólarhrings unnið er, samfelldan hvíldartíma og vikulegan frídag. Einnig skulu koma fram upplýsingar um tilvik þar sem vikið hefur verið frá reglum um hvíldartíma og vikulegan frídag samkvæmt lögum þessum eða kjarasamningum sem og upplýsingar um hvort starfsmenn hafi í slíkum tilvikum fengið hvíld síðar.
+
+Þrátt fyrir 1. mgr. er nægjanlegt að vinnutími starfsmanns sé skráður í ráðningarsamningi sé vinnutími viðkomandi starfsmanns reglubundinn að jafnaði og skulu frávik frá þeim vinnutíma skráð sérstaklega í samræmi við 1. mgr.
+
+Starfsmaður skal eiga þess kost að nálgast framangreindar upplýsingar 12 mánuði aftur í tímann.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 58/2023, 1. gr.](https://www.althingi.is/altext/stjt/2023.058.html)
+
+##### [58. gr.
+
+Atvinnurekendum er skylt að láta Vinnueftirliti ríkisins í té upplýsingar sem nauðsynlegar eru vegna eftirlits með framkvæmd laga þessara um vinnutíma, þar með taldar upplýsingar um fjölda næturvinnustarfsmanna og vinnutíma þeirra.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 19. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## X. kafli. Vinna barna og unglinga.
+
+##### 59. gr.
+
+[Ákvæði þessa kafla gilda um vinnu einstaklinga undir 18 ára aldri. Ákvæði kaflans gilda ekki um tilfallandi vinnu eða vinnu sem varir í skamman tíma að því er varðar heimilisaðstoð á einkaheimilum eða vinnu í fjölskyldufyrirtækjum sem hvorki telst skaðleg né hættuleg ungmennum.
+
+Ungmenni merkir í lögum þessum einstakling undir 18 ára aldri. Barn merkir í lögum þessum einstakling sem er undir 15 ára aldri eða sem er í skyldunámi. Unglingur merkir í lögum þessum einstakling sem er minnst 15 ára að aldri en hefur ekki náð 18 ára aldri og er ekki lengur í skyldunámi.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 2. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### 60. gr.
+
+[Börn má ekki ráða til vinnu.
+
+Heimilt er að víkja frá meginreglu 1. mgr. í eftirfarandi tilvikum:
+
+a. Börn er heimilt að ráða til að taka þátt í menningar- eða listviðburðum og íþrótta- eða auglýsingastarfsemi. Sá sem ræður börn sem ekki hafa náð 13 ára aldri skal afla leyfis frá Vinnueftirliti ríkisins áður en til ráðningar kemur.
+
+b. Heimilt er að ráða börn 14 ára og eldri til vinnu sem er hluti af fræðilegu eða verklegu námsfyrirkomulagi.
+
+c. Heimilt er að ráða börn sem náð hafa 14 ára aldri til starfa af léttara tagi. Börn, sem náð hafa 13 ára aldri, má ráða til starfa af léttara tagi í takmarkaðan stundafjölda á viku, svo sem léttra garðyrkju- og þjónustustarfa og annarra hliðstæðra starfa.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 3. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### 61. gr.
+
+[Unglinga er heimilt að ráða til vinnu með þeim takmörkunum sem greinir í kafla þessum.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 4. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### 62. gr.
+
+[Óheimilt er að ráða ungmenni til vinnu sem unnin er við eftirfarandi aðstæður:
+
+a. Vinnu sem líklega er ofvaxin líkamlegu eða andlegu atgervi þeirra.
+
+b. Vinnu sem líklega veldur varanlegu heilsutjóni.
+
+c. Vinnu þar sem hætta er á skaðlegri geislun.
+
+d. Vinnu þar sem fyrir hendi er slysahætta sem gera má ráð fyrir að börn og unglingar geti átt í erfiðleikum með að átta sig á eða forðast vegna andvaraleysis eða skorts á reynslu eða þjálfun.
+
+e. Vinnu sem felur í sér hættu fyrir heilsu þeirra vegna óvenjumikils kulda, hita, hávaða eða titrings.
+
+[f. Vinnu þar sem hætta er á ofbeldi eða annarri sérstakri hættu að því undanskildu að ungmennin starfi með fullorðnum.]<sup>1)</sup>
+
+Heimilt er að víkja frá þessu ákvæði þegar það er nauðsynlegt vegna starfsnáms unglinga.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 20. gr.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>2)</sup>[L. 52/1997, 5. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### 63. gr.
+
+[Virkur vinnutími barna, sem falla undir b- og c-lið 2. mgr. 60. gr., er takmarkaður með eftirfarandi hætti:
+
+a. Átta klukkustundir á dag og 40 klukkustundir á viku ef vinnan er hluti af fræðilegu eða verklegu námsfyrirkomulagi.
+
+b. Tvær klukkustundir á skóladegi og 12 klukkustundir á viku þegar um er að ræða vinnu sem fram fer á starfstíma skóla en utan skipulegs skólatíma. Daglegur vinnutími má þó aldrei vera lengri en sjö klukkustundir. Þó má daglegur vinnutími barns sem náð hefur 15 ára aldri vera átta klukkustundir.
+
+c. Sjö klukkustundir á dag og 35 klukkustundir á viku þegar um er að ræða vinnu sem fram fer á tíma sem skólinn starfar ekki. Daglegur vinnutími barns sem náð hefur 15 ára aldri má þó vera átta klukkustundir á dag og 40 klukkustundir á viku.
+
+d. Sjö klukkustundir á dag og 35 klukkustundir á viku þegar um er að ræða vinnu af léttara tagi sem unnin er af börnum sem eru ekki lengur í skyldunámi.
+
+Virkur vinnutími unglinga er takmarkaður við átta klukkustundir á dag og 40 klukkustundir á viku.
+
+Heimilt er að víkja frá ákvæðum 2. mgr. greinar þessarar í sérstökum tilvikum eða ef réttmætar ástæður leyfa.
+
+Ef daglegur, virkur vinnutími er lengri en fjórir tímar á barn og unglingur rétt á minnst 30 mínútna hléi á hverjum degi sem skal vera samfellt ef kostur er.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 6. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### [63. gr. a.
+
+Óheimilt er að láta börn, sem falla undir b- og c-lið 2. mgr. 60. gr., vinna á tímabilinu frá kl. 20 til kl. 6. Óheimilt er að láta unglinga vinna á tímabilinu frá kl. 22 til kl. 6.
+
+Heimilt er að víkja frá ákvæði 2. málsl. 1. mgr. þessarar greinar á sérstökum starfssviðum, enda skal fullorðinn einstaklingur hafa umsjón með unglingnum ef þörf er á slíkri umsjón til verndar honum. Þó er óheimilt að láta ungling vinna á tímabilinu frá kl. 24 til kl. 4.
+
+Heimilt er að víkja frá ákvæðum 2. málsl. 1. mgr. og 2. mgr. greinar þessarar þegar til þess liggja réttmætar ástæður og að því tilskildu að unglingarnir fái hæfilegan uppbótarhvíldartíma. Undanþága þessi á við þegar um er að ræða vinnu á sjúkrastofnunum eða sambærilegum stofnunum og störf á sviði menningarmála, lista, íþrótta eða auglýsinga.
+
+Unglingar eiga, áður en þeir hefja næturvinnu og með reglulegu millibili eftir það, rétt á heilbrigðisskoðun og athugun á vinnuhæfni sinni sér að kostnaðarlausu, nema þeir vinni einungis í undantekningartilvikum á þeim tíma sem vinna er bönnuð. Framkvæmd slíkrar skoðunar er á ábyrgð viðkomandi atvinnurekanda.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 7. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### [63. gr. b.
+
+Börn, sem falla undir b- og c-lið 2. mgr. 60. gr., skulu fá minnst 14 klukkustunda samfellda hvíld á hverjum sólarhring. Unglingar skulu fá minnst 12 klukkustunda samfellda hvíld á hverjum sólarhring.
+
+Á hverju sjö daga tímabili skulu börn sem falla undir b- og c-lið 2. mgr. 60. gr. laga þessara og unglingar fá minnst tveggja daga hvíldartímabil sem skal vera samfellt ef kostur er. Lágmarkshvíldartími þessi skal að jafnaði taka til sunnudags.
+
+Heimilt er að víkja frá ákvæðum 1. og 2. mgr. greinar þessarar þegar um er að ræða vinnu sem er skipt upp yfir daginn eða varir í stuttan tíma hverju sinni.
+
+Heimilt er að víkja frá ákvæðum 2. málsl. 1. mgr. og 2. mgr. greinar þessarar þegar til þess liggja réttmætar ástæður og að því tilskildu að unglingarnir fái hæfilegan uppbótarhvíldartíma. Undanþága þessi á við þegar um er að ræða vinnu á sjúkrastofnunum eða sambærilegum stofnunum, störf á sviði landbúnaðar, ferðamála eða í hótel- og veitingarekstri og vinnu sem er skipt upp yfir daginn.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 8. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### [63. gr. c.
+
+Í óviðráðanlegum tilvikum (force majeure) sem atvinnurekandi fær ekki stjórnað er heimilt að víkja frá ákvæðum laga þessara um vinnutíma, næturvinnu og hvíldartíma unglinga að því tilskildu að um sé að ræða tímabundna vinnu sem þolir enga bið, ekki sé unnt að fá fullorðna starfsmenn til starfans og unglingarnir fái samsvarandi uppbótarhvíldartíma á næstu þremur vikum.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 9. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### [63. gr. d.
+
+Börn í skyldunámi, sem falla undir b- og c-lið 2. mgr. 60. gr., eiga rétt á að fá leyfi árlega einhvern tíma á meðan á skólafríi stendur.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 10. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### [63. gr. e.
+
+Atvinnurekandi skal gera nauðsynlegar ráðstafanir til að tryggja öryggi og heilbrigði ungmenna með gerð mats á áhættu sem starf getur skapað þeim. Þetta mat skal fara fram áður en ungmenni hefja störf og í hvert sinn sem verulegar breytingar eru gerðar á starfsskilyrðum. Sýni matið að öryggi, líkamlegri eða andlegri heilsu eða þroska ungmennis geti verið stofnað í hættu skal atvinnurekandi sjá til þess að reglulega fari fram viðeigandi skoðun og eftirlit með heilsu ungmennanna þeim að kostnaðarlausu.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 52/1997, 11. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+##### [63. gr. f.
+
+Ráðherra skal [að fenginni umsögn]<sup>1)</sup> stjórnar Vinnueftirlits ríkisins setja nánari reglur<sup>2)</sup> um leyfisveitingar skv. a-lið 2. mgr. 60. gr., heimild til að ráða börn 14 ára og eldri til vinnu sem er hluti af fræðilegu eða verklegu námsfyrirkomulagi skv. b-lið 2. mgr. 60. gr., hvað teljist störf af léttara tagi og við hvaða skilyrði þau skuli unnin skv. c-lið 2. mgr. 60. gr., skilyrði og takmörk vegna frávika skv. 3. mgr. 63. gr., frávik skv. 2. og 3. mgr. 63. gr. a og 2.–4. mgr. 63. gr. b og um framkvæmd 62. gr., 63. gr. c og 63. gr. e.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 21. gr.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>2)</sup>[Rg. 426/1999](https://www.reglugerd.is/reglugerdir/allar/nr/426-1999), sbr. [454/2016](https://www.reglugerd.is/reglugerdir/allar/nr/454-2016). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015). <sup>3)</sup>[L. 52/1997, 12. gr.](https://www.althingi.is/altext/stjt/1997.052.html)
+
+## XI. kafli. [Áhættumat, heilsuvernd og heilsufarsskoðanir.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 30. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 64. gr.
+
+Rækja skal atvinnusjúkdómavarnir í samræmi við ákvæði laga þessara og laga um heilbrigðisþjónustu í samvinnu við heilbrigðisyfirvöld.
+
+##### 65. gr.
+
+[Atvinnurekandi ber ábyrgð á að gerð sé skrifleg áætlun um öryggi og heilbrigði á vinnustað. Áætlunin skal meðal annars fela í sér mat á áhættu, sbr. 65. gr. a, og áætlun um heilsuvernd, sbr. 66. gr. Hafa skal samráð við fulltrúa starfsmanna, sbr. II. kafla.
+
+Vinnueftirlit ríkisins skal hafa eftirlit með að gerð sé skrifleg áætlun um öryggi og heilbrigði á vinnustað. Skal áætlunin vera aðgengileg hjá atvinnurekanda fyrir stjórnendur þess, starfsmenn og Vinnueftirlit ríkisins.
+
+Endurskoða skal áætlun um öryggi og heilbrigði á vinnustað þegar breytingar á vinnuumhverfi breyta forsendum hennar.
+
+[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um framkvæmd þessa ákvæðis, þar á meðal um skipulag eftirlitsins.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015). [Rg. 1009/2015](https://www.reglugerd.is/reglugerdir/allar/nr/1009-2015), sbr. [211/2023](https://www.reglugerd.is/reglugerdir/allar/nr/211-2023). [Rg. 1050/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1050-2017). [Rg. 1051/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1051-2017). <sup>3)</sup>[L. 68/2003, 22. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [65. gr. a.
+
+Atvinnurekandi ber ábyrgð á að gert sé sérstakt áhættumat þar sem meta skal áhættu í starfi með tilliti til öryggis og heilsu starfsmanna og áhættuþátta í vinnuumhverfi. Við gerð áhættumatsins skal sérstaklega litið til starfa þar sem fyrirsjáanlegt er að heilsu og öryggi þeirra starfsmanna sem sinna þeim sé meiri hætta búin en öðrum starfsmönnum.
+
+Þegar áhættumat á vinnustað gefur til kynna að heilsu og öryggi starfsmanna er hætta búin skal atvinnurekandi grípa til nauðsynlegra forvarna í þeim tilgangi að koma í veg fyrir hættuna eða, þar sem þess er ekki kostur, draga úr henni eins og frekast er unnt.
+
+[Ráðherra]<sup>1)</sup> setur nánari reglur<sup>2)</sup> um áhættumat að fenginni umsögn stjórnar Vinnueftirlits ríkisins, þar á meðal um áhættumat fyrir sérstaka áhættuþætti og gerð og frágang skjala sem tengjast því.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 349/2004](https://www.reglugerd.is/reglugerdir/allar/nr/349-2004). [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006). [Rg. 384/2005](https://www.reglugerd.is/reglugerdir/allar/nr/384-2005). [Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). [Rg. 921/2006](https://www.reglugerd.is/reglugerdir/allar/nr/921-2006). [Rg. 922/2006](https://www.reglugerd.is/reglugerdir/allar/nr/922-2006). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015). [Rg. 1009/2015](https://www.reglugerd.is/reglugerdir/allar/nr/1009-2015), sbr. [211/2023](https://www.reglugerd.is/reglugerdir/allar/nr/211-2023). [Rg. 1050/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1050-2017). [Rg. 1051/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1051-2017). <sup>3)</sup>[L. 68/2003, 23. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 66. gr.
+
+[Atvinnurekandi ber ábyrgð á að gerð sé áætlun um heilsuvernd sem byggð er á áhættumati, sbr. 65. gr. a, þar sem meðal annars kemur fram áætlun um forvarnir, þar á meðal um aðgerðir sem grípa þarf til í því skyni að draga úr atvinnutengdum sjúkdómum og slysum.
+
+Markmið heilsuverndar er að:
+
+a. stuðla að því að starfsmenn séu verndaðir gegn hvers konar heilsuvá eða heilsutjóni sem stafa kann af vinnu þeirra eða vinnuskilyrðum,
+
+b. stuðla að því að vinnu sé hagað þannig að starfsmenn fái verkefni við hæfi og stuðla að andlegri og líkamlegri aðlögun þeirra að starfsumhverfi,
+
+c. draga úr fjarvistum frá vinnu vegna veikinda og slysa með því að auka öryggi og viðhalda heilsu starfsmanna á vinnustað,
+
+d. stuðla að andlegri og líkamlegri vellíðan starfsmanna.
+
+Í áætlun um forvarnir skal koma fram lýsing á hvernig hættum og þeirri áhættu sem þeim fylgir samkvæmt áhættumati skuli mætt, svo sem með skipulagi vinnunnar, fræðslu, þjálfun, vali á tækjum, efnum eða efnablöndum, notkun öryggis- eða hlífðarbúnaðar, innréttingum á vinnustað eða öðrum forvörnum. Skal leggja áherslu á almennar ráðstafanir áður en gerðar eru ráðstafanir til verndar einstökum starfsmönnum.
+
+[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um heilsuvernd, þar á meðal um heilsuvernd sem tekur mið af sérstökum áhættuþáttum, forvarnir með hliðsjón af eðli starfa, stærð vinnustaða og gerð og frágang skjala sem tengjast áætlun um heilsuvernd.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 931/2000](https://www.reglugerd.is/reglugerdir/allar/nr/931-2000) (öryggi og heilbrigði kvenna sem eru þungaðar, hafa nýlega alið barn eða hafa barn á brjósti), sbr. [453/2016](https://www.reglugerd.is/reglugerdir/allar/nr/453-2016). [Rg. 349/2004](https://www.reglugerd.is/reglugerdir/allar/nr/349-2004) (um sprengifimt andrúmsloft á vinnustöðum). [Rg. 553/2004](https://www.reglugerd.is/reglugerdir/allar/nr/553-2004) (verndun starfsmanna gegn hættu á heilsutjóni af völdum efna á vinnustöðum), sbr. [286/2006](https://www.reglugerd.is/reglugerdir/allar/nr/286-2006). [Rg. 384/2005](https://www.reglugerd.is/reglugerdir/allar/nr/384-2005) (um vinnu í kældu rými við matvælaframleiðslu). [Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006) (skipulag og framkvæmd vinnuverndarstarfs á vinnustöðum). [Rg. 921/2006](https://www.reglugerd.is/reglugerdir/allar/nr/921-2006) (varnir gegn álagi vegna hávaða á vinnustöðum). [Rg. 922/2006](https://www.reglugerd.is/reglugerdir/allar/nr/922-2006) (varnir gegn álagi vegna vélræns titrings á vinnustöðum). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011) (um varnir gegn álagi vegna tilbúinnar ljósgeislunar á vinnustöðum). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014) (um vernd starfsmanna gegn áverkum af völdum beittra og oddhvassra áhalda við veitingu heilbrigðisþjónustu, þar á meðal á sjúkrahúsum). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015) (um vélknúin leiktæki). [Rg. 1009/2015](https://www.reglugerd.is/reglugerdir/allar/nr/1009-2015) (um aðgerðir gegn einelti, kynferðislegri áreitni, kynbundinni áreitni og ofbeldi á vinnustöðum), sbr. [211/2023](https://www.reglugerd.is/reglugerdir/allar/nr/211-2023). [Rg. 1051/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1051-2017) (um varnir gegn skaðlegum áhrifum rafsegulsviðs á vinnustöðum). <sup>3)</sup>[L. 68/2003, 24. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [66. gr. a.
+
+Þegar gerð áætlunar um öryggi og heilbrigði á vinnustað, þar á meðal mat á áhættu og áætlun um heilsuvernd, krefst færni sem atvinnurekandi eða starfsmenn hans hafa ekki yfir að ráða skal atvinnurekandi leita aðstoðar til þess hæfra þjónustuaðila sem hafa hlotið viðurkenningu Vinnueftirlits ríkisins til þeirra starfa. Skal atvinnurekandi upplýsa þjónustuaðila um þá þætti sem vitað er eða grunur leikur á að hafi áhrif á öryggi og heilbrigði starfsmanna. Enda þótt atvinnurekandi njóti þjónustu slíkra aðila ber hann engu að síður ábyrgð á að áætlunin sé gerð og henni fylgt eftir.
+
+Þjónustuaðili skal hljóta viðurkenningu Vinnueftirlits ríkisins áður en hann hefur starfsemi. Vinnueftirlit ríkisins skal viðurkenna þjónustuaðila sem uppfylla skilyrði ákvæðis þessa og reglugerðar sem sett er skv. 6. mgr. Fullnægi þjónustuaðili ekki settum skilyrðum síðar er Vinnueftirliti ríkisins heimilt að afturkalla viðurkenninguna í heild eða að hluta þannig að hún takmarkist við ákveðna tegund starfsemi.
+
+Þjónustuaðili sem veitir heildstæða þjónustu á sviði öryggis og heilbrigðis á vinnustöðum skal hafa aðgang að sérfræðingum sem Vinnueftirlit ríkisins hefur viðurkennt að hafi fullnægjandi þekkingu á heilbrigðissviði, í félagsvísindum, á tæknisviði eða öðru sambærilegu sérsviði þannig að þeir séu færir um að meta og bregðast við hættum eða hvers konar öðrum óþægindum vegna eðlisfræðilegra, efnafræðilegra, líffræðilegra, vistfræðilegra og sálfræðilegra þátta. Að öðrum kosti er Vinnueftirliti ríkisins heimilt að takmarka viðurkenningu skv. 2. mgr. við ákveðna tegund starfsemi.
+
+Þjónustuaðila er heimilt að gera samninga við aðra aðila um einstaka þætti vegna þjónustu skv. 3. mgr. Skulu þeir aðilar uppfylla skilyrði þau sem sett eru fyrir viðurkenningu Vinnueftirlits ríkisins. Samningar þessir skulu liggja fyrir þegar óskað er eftir viðurkenningu Vinnueftirlits ríkisins skv. 2. mgr.
+
+Þjónustuaðili skal gæta trúnaðar í starfi sínu. Hann skal fara með allar upplýsingar sem hann kemst að í starfi sínu og varða persónuleg málefni og einkahagi starfsmanna sem trúnaðarmál. Sama gildir um upplýsingar er tengjast fyrirtækjum er hann starfar fyrir.
+
+[Ráðherra]<sup>1)</sup> skal setja reglugerð,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um nánari skilyrði sem þjónustuaðilar skulu fullnægja áður en þeir hefja starfsemi sína og um þá hæfni sem starfsmenn atvinnurekanda er sinna öryggi og heilbrigði á vinnustað skulu fullnægja.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). [Rg. 1050/2017](https://www.reglugerd.is/reglugerdir/allar/nr/1050-2017). <sup>3)</sup>[L. 68/2003, 25. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 67. gr.
+
+[Starfsmenn skulu eiga kost á heilsufarsskoðun á kostnað atvinnurekanda áður en þeir eru ráðnir til starfa, meðan þeir eru í starfi og þegar við á eftir að þeir eru hættir störfum, enda séu starfsskilyrði þeirra slík að heilsutjón geti hlotist af og ástæða til þess að ætla að á þann hátt megi koma í veg fyrir eða hefta atvinnusjúkdóma og atvinnutengda sjúkdóma.
+
+Í reglum<sup>1)</sup> sem [ráðherra]<sup>2)</sup> setur, að fenginni umsögn stjórnar Vinnueftirlits ríkisins og landlæknis, skal nánar kveðið á um í hverju heilsufarsskoðun skuli fólgin, tíðni eftirlits og hvaða mælingar og aðrar rannsóknir skuli gerðar að teknu tilliti til starfsumhverfis. Heimilt er að setja slíkar reglur fyrir einstakar starfsgreinar.]<sup>3)</sup>
+
+> <sup>1)</sup>[Rg. 920/2006](https://www.reglugerd.is/reglugerdir/allar/nr/920-2006). [Rg. 921/2006](https://www.reglugerd.is/reglugerdir/allar/nr/921-2006). [Rg. 922/2006](https://www.reglugerd.is/reglugerdir/allar/nr/922-2006). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). <sup>2)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>3)</sup>[L. 68/2003, 26. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 68. gr.
+
+[Vinnueftirlit ríkisins skal skipuleggja og halda skrár á landsvísu þar sem fram koma upplýsingar um eitranir, vinnuslys og atvinnusjúkdóma sem tilkynntir eru til stofnunarinnar skv. 79. og 80. gr. í þeim tilgangi að afla upplýsinga um tíðni og orsakir eitrana á vinnustöðum sem og vinnuslysa og atvinnusjúkdóma og að auka þannig þekkingu í því skyni að efla forvarnastarf á vinnustöðum. Vinnueftirlit ríkisins skal einnig vinna upplýsingar úr skrám skv. 1. málsl. til notkunar í forvarnastarfi, við áætlanagerð, við stefnumótun og önnur verkefni stjórnvalda.
+
+Vinnueftirliti ríkisins er heimilt, m.a. í samstarfi við sjúkratryggingastofnunina, að nýta stafræna innviði stjórnvalda við söfnun nauðsynlegra upplýsinga í skrár skv. 1. mgr. með það að markmiði að auðvelda og einfalda tilkynningar til stofnunarinnar um eitranir, vinnuslys og atvinnusjúkdóma skv. 79. og 80. gr.
+
+Vinnsla Vinnueftirlits ríkisins á persónugreinanlegum upplýsingum í tengslum við skrár skv. 1. mgr. skal vera í samræmi við ákvæði laga um persónuvernd og vinnslu persónuupplýsinga.
+
+Ráðherra er heimilt að setja reglugerð, að fenginni umsögn stjórnar Vinnueftirlits ríkisins, þar sem meðal annars er kveðið nánar á um skipulagningu og gerð skráa, sem og um vinnslu upplýsinga úr þeim í forvarnaskyni.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 105/2024, 4. gr.](https://www.althingi.is/altext/stjt/2024.105.html)
+
+##### 69. gr.
+
+Atvinnurekandi skal tryggja, að heilsuverndareftirlit, læknisskoðanir, mælingar og rannsóknir valdi ekki tekjutapi starfsmanna.
+
+Starfsmönnum og fyrrverandi starfsmönnum ber skylda til að gangast undir eftirlit, skoðanir, mælingar og rannsóknir samkvæmt reglum þeim, sem gilda á hverjum tíma.
+
+##### 70. gr.
+
+[[Ráðherra]<sup>1)</sup> getur sett sérstakar reglur, að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>2)</sup> um læknisskoðun barna og unglinga undir 18 ára aldri, þegar þau hefja störf. Í þessum tilvikum gildir 67. gr. laga þessara. Sérstaka skoðun má fella niður, ef fyrir liggur nýtt vottorð skólalæknis um það, að hann hafi skoðað viðkomandi og ekki sé vitað til að hann hafi eða hafi áður haft neinn þann sjúkdóm, sem geti haft áhrif á öryggi hans eða heilbrigði í tilteknu starfi.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 68/2003, 28. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 71. gr.
+
+Ef einstakir starfsmenn eða hópar manna vinna við skilyrði, er talist geta varasöm heilsu þeirra eða öryggi, skal Vinnueftirlit ríkisins hlutast til um, að jafnframt eftirliti með starfsmönnum sé veitt aukin fræðsla um þá slysa- og/eða sjúkdómshættu, sem kann að vera bundin við starfsumhverfi þeirra, sbr. 14. gr. og 78. gr., staflið e, laga þessara.
+
+##### 72. gr.
+
+Séu af hálfu þeirra aðila, sem fara með gæðaeftirlit á vinnustöðum vegna matvælaframleiðslu, gerðar aðrar kröfur en þær, sem Vinnueftirlit ríkisins gerir um læknisskoðun og aðrar rannsóknir með tilliti til heilbrigðis starfsmanna, [skal Vinnueftirlit ríkisins]<sup>1)</sup> taka tillit til slíkra sérþarfa við ákvörðun á umfangi læknisskoðunar og annarra rannsókna.
+
+> <sup>1)</sup>[L. 68/2003, 29. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## XII. kafli. Vinnueftirlit ríkisins.
+
+##### 73. gr.
+
+[[Ráðherra]<sup>1)</sup> fer með yfirstjórn mála samkvæmt lögum þessum.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 126/2011, 83. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>2)</sup>[L. 68/2003, 31. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 74. gr.
+
+[Vinnueftirlit ríkisins heyrir undir yfirstjórn [ráðherra]<sup>1)</sup> og annast stjórnsýslu og eftirlit á því sviði er lögin ná til.
+
+[Ráðherra]<sup>1)</sup> skipar forstjóra Vinnueftirlits ríkisins til fimm ára í senn. Forstjóri ræður starfsmenn stofnunarinnar og ber lagalega og rekstrarlega ábyrgð á henni.
+
+[Kostnaður af rekstri stofnunarinnar greiðist úr ríkissjóði og af öðrum tekjum hennar.]<sup>2)</sup>
+
+Vinnueftirlit ríkisins innheimtir gjöld fyrir þrýstiraunir, gas- og súrefnismælingar í lokuðum rýmum, mælingar á hávaða, titringi, mengun í andrúmslofti, lýsingu vinnurýmis og inniloftsþáttum, skoðun á leiktækjum og verkpöllum, átaksprófanir, námskeið og próf, útgáfu skírteina og leyfa og útgáfu- og fræðsluefni samkvæmt gjaldskrá sem [ráðherra]<sup>1)</sup> setur að fengnum tillögum forstjóra Vinnueftirlits ríkisins og umsögn stjórnar Vinnueftirlits ríkisins.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 90/2004, 13. gr.](https://www.althingi.is/altext/stjt/2004.090.html) <sup>3)</sup>[L. 68/2003, 32. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 75. gr.
+
+[Verkefni sem Vinnueftirliti ríkisins er ætlað að annast eru meðal annars að:
+
+a. hafa eftirlit með framkvæmd laga þessara,
+
+b. veita stofnunum, fyrirtækjum, félögum og starfsmönnum ráðgjöf,
+
+c. veita þeim starfsmönnum er starfa að vinnuvernd innan fyrirtækja, sbr. 4.–6. gr., leiðbeiningar í störfum þeirra,
+
+d. afla og viðhalda þekkingu á tæknilegri og félagslegri þróun í þeim tilgangi að stuðla að því að efla öryggi og bæta hollustuhætti í starfsumhverfi,
+
+e. fjalla um öryggisþætti í áætlunum um vinnslu- og framleiðsluaðferðir, vinnustaði og tækni- og tækjabúnað,
+
+f. veita fræðslu og upplýsingar varðandi hættur á vinnustöðum, svo sem um nýja tækni og þekkingu sem stuðlað getur að umbótum á aðbúnaði, hollustuháttum og öryggi á vinnustöðum,
+
+g. stuðla að forvörnum og heilsuvernd á vinnustöðum,
+
+h. vinna að rannsóknum á sviði vinnuverndar,
+
+i. sjá um að haldin sé skrá yfir hvers konar sjúkdóma, andlega sem líkamlega, sem ætla má að eigi orsakir í starfsumhverfi, tíðni þeirra og útbreiðslu,
+
+j. sjá um að haldin sé skrá yfir tíðni vinnuslysa eftir starfsgreinum,
+
+k. annast markaðsgæslu og markaðseftirlit með vélum, tækjum og búnaði sem falla undir lög þessi,
+
+l. vinna önnur verkefni í samræmi við markmið og gildissvið laganna samkvæmt nánari ákvörðun ráðherra.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 33. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 76. gr.
+
+[[Ráðherra]<sup>1)</sup> skipar stjórn Vinnueftirlits ríkisins til fjögurra ára í senn. Ráðherra skipar formann án tilnefningar, tvo stjórnarmenn tilnefnda af Alþýðusambandi Íslands, einn tilnefndan af Bandalagi háskólamanna, einn tilnefndan af Bandalagi starfsmanna ríkis og bæja, einn tilnefndan af [þeim ráðherra er fer með starfsmannamál ríkisins],<sup>2)</sup> einn tilnefndan af Sambandi íslenskra sveitarfélaga og tvo tilnefnda af Samtökum atvinnulífsins. Varamenn skulu skipaðir með sama hætti.
+
+Stjórnin ber ábyrgð gagnvart ráðherra á faglegri stefnumótun Vinnueftirlits ríkisins og er [ráðherra]<sup>1)</sup> og forstjóra Vinnueftirlits ríkisins til ráðgjafar í málum er tengjast bættum aðbúnaði, öryggi og hollustuháttum á vinnustöðum. Stjórnin skal gera tillögur til ráðherra um úrbætur á sviði vinnuverndar, þar á meðal um hvort þörf er á lagabreytingum eða setningu reglugerða eða annarra reglna. Ráðherra og forstjóri skulu leita umsagnar stjórnarinnar við undirbúning að setningu laga, reglugerða og annarra reglna um mál er heyra undir lög þessi.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 126/2011, 83. gr.](https://www.althingi.is/altext/stjt/2011.126.html) <sup>3)</sup>[L. 68/2003, 34. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 77. gr.
+
+[[Ráðherra]<sup>1)</sup> er heimilt að skipa vinnuverndarráð einstakra starfsgreina, að fenginni rökstuddri tillögu stjórnar Vinnueftirlits ríkisins, í því skyni að vinna að tillögum um úrbætur í málum er varða aðbúnað, hollustuhætti og öryggi á vinnustöðum innan viðkomandi starfsgreinar.
+
+Samtök aðila vinnumarkaðarins innan tiltekinnar starfsgreinar tilnefna hvert sinn fulltrúa í ráðið og velja þeir sér sjálfir formann og varaformann. [Ráðherra]<sup>1)</sup> ákveður skipunartíma sérhvers ráðs sem þó skal aldrei vara lengur en fjögur ár í senn. Vinnuverndarráð starfsgreina skulu senda tillögur sínar til stjórnar Vinnueftirlits ríkisins sem fjallar sérstaklega um þær og veitir [ráðherra]<sup>1)</sup> umsögn um þær.
+
+Kostnaður af starfsemi vinnuverndarráða starfsgreina skal greiðast af tekjum Vinnueftirlits ríkisins, sbr. 3. mgr. 74. gr.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 68/2003, 35. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 78. gr.
+
+[Atvinnurekandi skal skrá öll slys sem eiga sér stað á vinnustaðnum og leiða til andláts eða óvinnufærni starfsmanns í einn eða fleiri daga, auk þess dags sem slysið varð. Hið sama gildir um þá sjúkdóma sem atvinnurekandi hefur rökstuddan grun eða vitneskju um að eigi rætur sínar að rekja til starfsins eða annarra aðstæðna á vinnustaðnum. Einnig skal atvinnurekandi skrá óhöpp sem eiga sér stað á vinnustaðnum og eru til þess fallin að valda slysum.
+
+Vinnueftirlit ríkisins, þeir aðilar sem starfa að vinnuvernd innan fyrirtækja, sbr. 4.–6. gr., og þjónustuaðili, sbr. 66. gr. a, skulu hafa aðgang að skránni.
+
+Atvinnurekandi og þeir aðilar sem taldir eru upp í 2. mgr. skulu fara með persónuupplýsingar úr skránni sem trúnaðarmál.
+
+[Ráðherra]<sup>1)</sup> setur nánari reglur,<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um skráningu slysa, óhappa og sjúkdóma.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015). <sup>3)</sup>[L. 68/2003, 36. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 79. gr.
+
+[Atvinnurekandi skal án ástæðulausrar tafar tilkynna til Vinnueftirlits ríkisins öll slys þar sem starfsmaður deyr eða verður óvinnufær í einn eða fleiri daga, auk þess dags sem slysið varð. Slys þar sem líkur eru á að starfsmaður hafi orðið fyrir langvinnu eða varanlegu heilsutjóni skal tilkynna Vinnueftirlitinu eigi síðar en innan sólarhrings.
+
+Atvinnurekandi skal innan viku tilkynna skriflega um slysið til Vinnueftirlits ríkisins. Þeir aðilar sem starfa að vinnuvernd innan fyrirtækja, sbr. 4.–6. gr., og þjónustuaðili, sbr. 66. gr. a, skulu fá afhent afrit af tilkynningunni.
+
+Læknir, sem kemst að því eða fær grun um að starfsmaður eða hópur starfsmanna hafi atvinnusjúkdóm, atvinnutengdan sjúkdóm eða hafi orðið fyrir öðrum skaðlegum áhrifum vegna starfa sinna, skal án ástæðulausrar tafar tilkynna það til Vinnueftirlits ríkisins.
+
+[Sjúkratryggingastofnunin]<sup>1)</sup> skal senda Vinnueftirliti ríkisins afrit af tilkynningum um slys [og atvinnusjúkdóma]<sup>2)</sup> á vinnustöðum sem henni berast.
+
+[Ráðherra]<sup>3)</sup> setur nánari reglur<sup>4)</sup> um tilkynningu slysa [og atvinnusjúkdóma]<sup>2)</sup> að fenginni umsögn stjórnar Vinnueftirlits ríkisins.]<sup>5)</sup>
+
+> <sup>1)</sup>[L. 45/2015, 26. gr.](https://www.althingi.is/altext/stjt/2015.045.html#G26) <sup>2)</sup>[L. 108/2021, 19. gr.](https://www.althingi.is/altext/stjt/2021.108.html) <sup>3)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>4)</sup>[Rg. 612/1989](https://www.reglugerd.is/reglugerdir/allar/nr/612-1989). [Rg. 921/2006](https://www.reglugerd.is/reglugerdir/allar/nr/921-2006). [Rg. 922/2006](https://www.reglugerd.is/reglugerdir/allar/nr/922-2006). [Rg. 165/2011](https://www.reglugerd.is/reglugerdir/allar/nr/165-2011). [Rg. 980/2014](https://www.reglugerd.is/reglugerdir/allar/nr/980-2014). [Rg. 151/2015](https://www.reglugerd.is/reglugerdir/allar/nr/151-2015). <sup>5)</sup>[L. 68/2003, 37. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 80. gr.
+
+[Atvinnurekandi skal tilkynna Vinnueftirliti ríkisins án ástæðulauss dráttar og eigi síðar en innan sólarhrings um öll slys eða óhöpp þar sem vera kann að hvers konar hættuleg efni eða efnavörur geti valdið mengun. Skal atvinnurekandi veita upplýsingar um aðstæður á slysstað, um hvers konar efni er að ræða og hvaða ráðstafana gripið hefur verið til eftir því sem frekast er unnt.
+
+Atvinnurekandi skal innan viku tilkynna skriflega um slysið eða óhappið til Vinnueftirlits ríkisins. Þeir aðilar sem starfa að vinnuvernd innan fyrirtækja, sbr. 4.–6. gr., og þjónustuaðili, sbr. 66. gr. a, skulu fá afhent afrit af tilkynningunni.
+
+Atvinnurekandi skal upplýsa þá starfsmenn sem er hætta búin eða fulltrúa þeirra án tafar um öll slys eða óhöpp þar sem vera kann að hættuleg efni og efnavörur geti valdið mengun.
+
+Vinnueftirlit ríkisins skal tilkynna [Umhverfis- og orkustofnun]<sup>1)</sup> um tilvik þar sem hætta er á að mengunin dreifist út fyrir vinnustaðinn.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 110/2024, 8. gr.](https://www.althingi.is/altext/stjt/2024.110.html#G8) <sup>2)</sup>[L. 68/2003, 38. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 81. gr.
+
+[Vinnueftirlit ríkisins skal rannsaka orsakir slysa, óhappa og mengunar sem tilkynnt er um skv. 79. og 80. gr. í þeim tilgangi að stuðla að því að komið sé í veg fyrir að slíkt endurtaki sig á vinnustöðum.
+
+Þegar Vinnueftirliti ríkisins hefur borist tilkynning skulu starfsmenn þess fara á staðinn án ástæðulauss dráttar til að hefja vettvangskönnun. Óheimilt er að breyta aðstæðum á slysstað umfram það sem nauðsynlegt er vegna björgunaraðgerða áður en vettvangskönnun hefur farið fram. Telji Vinnueftirlitið ekki þörf á sérstakri vettvangskönnun skal það tilkynna atvinnurekanda þar um án ástæðulauss dráttar.]<sup>1)</sup>
+
+[Skýrslum Vinnueftirlits ríkisins um rannsókn einstakra vinnuslysa, óhappa og mengunar, sbr. 1. mgr., skal ekki beitt sem sönnunargögnum í dómsmálum auk þess sem rannsókn stofnunarinnar skal ekki miða að því að ákvarða sök eða ábyrgð.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 39. gr.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>2)</sup>[L. 105/2024, 5. gr.](https://www.althingi.is/altext/stjt/2024.105.html)
+
+##### 82. gr.
+
+[Vinnueftirlit ríkisins skal fylgjast með að atvinnurekendur, er lög þessi taka til, stuðli að góðum aðbúnaði, hollustuháttum og öryggi fyrir starfsmenn sína í starfi. Starfsmenn Vinnueftirlits ríkisins skulu fara í eftirlitsheimsóknir inn í fyrirtækin til þess að sinna eftirlitshlutverki sínu og skal þeim veittur aðgangur að vinnustöðvum þeirra í þeim tilgangi. Skulu þeir enn fremur sinna markaðsgæslu og markaðseftirliti í eftirlitsheimsóknum sínum. Starfsmenn Vinnueftirlits ríkisins skulu sýna skilríki um starf sitt.
+
+Í eftirlitsheimsóknum skulu starfsmenn Vinnueftirlits ríkisins hafa samband við atvinnurekanda eða fulltrúa hans og þá aðila sem starfa að vinnuvernd innan fyrirtækja, sbr. 4.–6. gr., og skulu þeir gefa allar nauðsynlegar upplýsingar í tengslum við eftirlitið. Enn fremur er starfsmönnum Vinnueftirlits ríkisins heimilt að krefja aðra starfsmenn sem eru í vinnu eða hafa verið í vinnu einhvern tíma síðustu þrjá mánuði um sömu upplýsingar.
+
+Starfsmenn Vinnueftirlits ríkisins skulu hafa aðgang að skjölum eða öðrum gögnum sem eiga að vera fyrir hendi innan fyrirtækja samkvæmt lögum þessum.
+
+Starfsmönnum Vinnueftirlits ríkisins er heimilt að leita aðstoðar lögreglu við eftirlitið þegar slíkt gerist nauðsynlegt.
+
+[Upplýsingar sem eiga að vera til á vinnustöðum samkvæmt lögum þessum, eða reglugerðum settum samkvæmt þeim, skal afhenda Vinnueftirliti ríkisins, fari stofnunin fram á það, og skulu þær vera skriflegar, hvort sem er á rafrænu formi eða á pappír. Sama gildir um upplýsingar sem tilkynna skal til Vinnueftirlits ríkisins samkvæmt lögum þessum.
+
+Vinnueftirlit ríkisins getur aflað upplýsinga og miðlað þeim að því marki sem stofnuninni er það heimilt samkvæmt lögum þessum, rafrænt eða á annan hátt sem stofnunin ákveður.
+
+Vinnueftirlit ríkisins skal afhenda viðeigandi stjórnvöldum upplýsingar sem stofnuninni berast á grundvelli laga þessara, enda óski viðkomandi stjórnvald eftir því í tengslum við lögbundið eftirlit þess. Berist Vinnueftirliti ríkisins upplýsingar á grundvelli laga þessara sem gefa til kynna að brotið sé gegn ákvæðum íslenskra laga eða reglugerða er stofnuninni skylt að afhenda viðeigandi stjórnvaldi upplýsingarnar án ástæðulausrar tafar.
+
+Í þeim tilvikum þegar Vinnueftirlit ríkisins býr ekki yfir upplýsingum sem eru nauðsynlegar að mati stofnunarinnar til að hún geti haft eftirlit með framkvæmd laga þessara skv. 75. gr. skal stofnunin óska eftir upplýsingum frá stjórnvöldum eða eftirlitsfulltrúum samtaka aðila vinnumarkaðarins, sbr. lög um vinnustaðaskírteini og eftirlit á vinnustöðum, sem koma stofnuninni að gagni, svo sem við mat á því hvort ákvæði laga þessara hafi verið brotin, þ.m.t. upplýsingum um nöfn og kennitölur fyrirtækja og um fjölda starfsmanna þeirra sem og um nöfn og kennitölur sjálfstætt starfandi einstaklinga, og ber hlutaðeigandi aðilum að veita Vinnueftirliti ríkisins umbeðnar upplýsingar, búi þeir yfir þeim. Berist stjórnvöldum eða eftirlitsfulltrúum samtaka aðila vinnumarkaðarins upplýsingar sem gefa til kynna að brotið sé gegn lögum þessum er þeim skylt að afhenda Vinnueftirliti ríkisins upplýsingarnar án ástæðulausrar tafar.]<sup>1)</sup>
+
+Starfsmenn Vinnueftirlits ríkisins skulu halda skrá yfir eftirlitsheimsóknir sínar samkvæmt ákvæði þessu þar sem skráðar eru athugasemdir þeirra, bönn Vinnueftirlits ríkisins og önnur fyrirmæli og tilkynningar er varða vinnuskilyrði. Skal atvinnurekanda afhent afrit af þeim hluta skrárinnar er viðkemur starfsemi hans.
+
+[Beini Vinnueftirlit ríkisins skriflegum fyrirmælum til atvinnurekanda um úrbætur á vinnustað ber viðkomandi atvinnurekanda eða fulltrúa hans að tilkynna stofnuninni formlega, svo sem bréflega eða með rafrænum hætti, þegar umræddum úrbótum er lokið á vinnustaðnum.]<sup>2)</sup>
+
+[Ráðherra]<sup>3)</sup> setur nánari reglur, að fenginni umsögn stjórnar Vinnueftirlits ríkisins, um framkvæmd eftirlitsins. Enn fremur getur [ráðherra]<sup>3)</sup> ákveðið að tiltekin eftirlitsverkefni Vinnueftirlits ríkisins verði falin annarri opinberri stofnun eða faggiltum skoðunarstofum.]<sup>4)</sup>
+
+> <sup>1)</sup>[L. 75/2018, 65. gr.](https://www.althingi.is/altext/stjt/2018.075.html) <sup>2)</sup>[L. 80/2015, 2. gr.](https://www.althingi.is/altext/stjt/2015.080.html) <sup>3)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>4)</sup>[L. 68/2003, 40. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 83. gr.
+
+[Starfsmenn Vinnueftirlits ríkisins mega ekki nota aðstöðu sína til að afla annarra upplýsinga en þeirra sem eru nauðsynlegar eða kunna að vera nauðsynlegar í þágu lögbundins hlutverks Vinnueftirlits ríkisins skv. 75. gr. að mati stofnunarinnar. …<sup>1)</sup>
+
+[Starfsmenn Vinnueftirlits ríkisins eru bundnir þagnarskyldu skv. X. kafla stjórnsýslulaga. [Starfsmenn Vinnueftirlits ríkisins eru bundnir þagnarskyldu um allar upplýsingar er varða umkvartanir til stofnunarinnar, þ.m.t. nafn þess sem beinir umkvörtun til stofnunarinnar. Þagnarskylda helst þótt látið sé af starfi. Gögn sem hafa að geyma slíkar upplýsingar eru undanþegin upplýsingarétti samkvæmt upplýsingalögum og stjórnsýslulögum.]<sup>2)</sup>]<sup>1)</sup>
+
+Þrátt fyrir 2. mgr. er starfsmönnum Vinnueftirlits ríkisins heimilt í undantekningartilvikum að greina atvinnurekanda eða fulltrúa hans frá umkvörtun til stofnunarinnar þegar um er að ræða lögmætan tilgang og ekki er gengið lengra en nauðsynlegt er auk þess sem sá sem beindi umkvörtuninni til stofnunarinnar hefur veitt samþykki fyrir því.]<sup>3)</sup>
+
+> <sup>1)</sup>[L. 71/2019, 5. gr.](https://www.althingi.is/altext/stjt/2019.071.html) <sup>2)</sup>[L. 40/2020, 7. gr.](https://www.althingi.is/altext/stjt/2020.040.html#G7) <sup>3)</sup>[L. 75/2018, 66. gr.](https://www.althingi.is/altext/stjt/2018.075.html)
+
+##### 84. gr.
+
+Hafi Vinnueftirlit ríkisins krafist þess með hæfilegum fyrirvara, að lagfæring á vanbúnaði eða öðru ástandi, sem brýtur gegn lögum þessum eða reglum og tilkynningum, sem eru í samræmi við lögin, og umbætur hafa ekki verið gerðar, þegar frestur sá er liðinn, sem gefinn var, getur Vinnueftirlitið látið stöðva vinnu eða lokað starfseminni eða þeim hluta hennar, sem krafan beinist að.
+
+##### 85. gr.
+
+Telji Vinnueftirlitið að veruleg hætta sé á ferðum fyrir líf eða heilbrigði starfsmanna eða annarra, getur það krafist þess, að strax sé bætt úr skorti á nægjanlegu öryggi, eða látið hætta vinnu í þeim hluta starfseminnar, sem þannig er á sig kominn.
+
+Áfrýjun á ákvörðunum samkvæmt 84. gr. og 85. gr. frestar ekki stöðvun vinnu eða lokun starfsemi eða hluta hennar.
+
+##### 86. gr.
+
+Ef atvinnurekanda eða starfsmönnum, sem falin hefur verið verkstjórn, öryggisvarsla eða öryggistrúnaðarstarf, sbr. 4., 5., 6., 13. og 23. gr., verður ljóst að skyndilega hafi upp komið bráð hætta á heilsutjóni eða vinnuslysum starfsmanna á vinnustað, svo sem vegna loftmengunar, eitraðra, eldfimra eða hættulegra efna, hættu á hruni jarðvegs, vörustæðu eða burðarvirkis, fallhættu, sprengihættu eða annarrar alvarlegrar hættu, er þeim skylt að hlutast til um að starfsemin verði stöðvuð strax og/eða að starfsfólk hverfi frá þeim stað þar sem hættuástand ríkir.
+
+[Atvinnurekanda ber jafnframt að tryggja að starfsmenn geti sjálfir, ef öryggi þeirra eða annarra er stefnt í bráða hættu, gripið til viðeigandi ráðstafana til að komast hjá afleiðingum hættunnar þegar ekki er unnt að ná sambandi við yfirmann eða starfsmann sem falin hefur verið öryggisvarsla eða öryggistrúnaðarstarf.
+
+Aðgerðir skv. 1. eða 2. mgr. gera þá aðila sem þar greinir ekki ábyrga fyrir því tjóni sem fyrirtækið kann að verða fyrir vegna stöðvunar eða fráhvarfa starfsmanna af vinnustað þar sem hið bráða hættuástand var talið ríkja og er óheimilt að láta þá gjalda fyrir ákvörðun sína á nokkurn hátt.]<sup>1)</sup>
+
+Vinnueftirliti ríkisins skal gert aðvart svo fljótt sem verða má, og skal það umsvifalaust senda fulltrúa sinn á staðinn til að meta ástand og kringumstæður og til að úrskurða um hvort starfsemin skuli stöðvuð áfram, hafi hún verið stöðvuð, og um nauðsynlegar úrbætur, sem gera þarf til þess að starfsemin og vinnustaðurinn teljist hættulaus.
+
+> <sup>1)</sup>[L. 68/2003, 41. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 87. gr.
+
+[Ef ákvæði laga þessara, eða reglna sem settar eru með stoð í þeim, eru brotin og ekki er farið eftir ákvörðun Vinnueftirlits ríkisins á grundvelli þeirra getur stofnunin ákveðið að sá eða þeir sem ákvörðun beinist að greiði dagsektir þar til farið verður að henni. …<sup>1)</sup>
+
+[Aðila sem fyrirhuguð ákvörðun um dagsektir skv. 1. mgr. beinist að skal veittur frestur til að koma að skriflegum athugasemdum áður en ákvörðun er tekin. Tilkynningu Vinnueftirlits ríkisins um fyrirhugaða ákvörðun um dagsektir skal fylgja skriflegur rökstuðningur.
+
+Ákvörðun um dagsektir skv. 1. mgr. skal tilkynnt skriflega á sannanlegan hátt þeim aðila sem hún beinist að eða fulltrúa hans og skal henni fylgja skriflegur rökstuðningur.
+
+Ákvörðun um dagsektir felur það í sér að sá aðili sem ákvörðunin beinist að skal greiða sekt fyrir hvern dag frá og með upphafi fyrsta virka dags eftir að honum var tilkynnt um ákvörðunina og er það tímamark jafnframt gjalddagi kröfunnar. Síðasti sektardagur skal vera sá dagur þegar bætt hefur verið úr annmörkum að mati Vinnueftirlits ríkisins.
+
+Dagsektir geta numið allt að 1 millj. kr. fyrir hvern dag. Við ákvörðun fjárhæðar dagsekta skal m.a. líta til fjölda starfsmanna þess aðila sem ákvörðun beinist að, hversu aðkallandi úrbætur teljast og hversu umfangsmikill viðkomandi atvinnurekstur er.]<sup>1)</sup>
+
+Dagsektir skulu renna í ríkissjóð [að frádregnum kostnaði við álagningu og innheimtu].<sup>1)</sup>
+
+Aðila er heimilt að kæra ákvörðun Vinnueftirlits ríkisins um beitingu dagsekta til [ráðuneytisins]<sup>2)</sup> innan fjórtán daga frá því honum var tilkynnt um ákvörðunina. Ráðuneytið skal kveða upp úrskurð eins fljótt og unnt er og að jafnaði innan mánaðar frá því að kæra barst til úrskurðar.
+
+Ákvarðanir Vinnueftirlits ríkisins um dagsektir eru aðfararhæfar. [Óinnheimtar dagsektir falla ekki niður eftir síðasta sektardag nema Vinnueftirlit ríkisins ákveði slíkt sérstaklega. Heimilt er að innheimta dagsektir eftir síðasta sektardag með fjárnámi án undangengins dóms eða sáttar.]<sup>3)</sup>
+
+[Að öðru leyti fer um ákvörðun Vinnueftirlits ríkisins um dagsektir samkvæmt ákvæðum stjórnsýslulaga.]<sup>1)</sup>]<sup>4)</sup>
+
+> <sup>1)</sup>[L. 75/2018, 67. gr.](https://www.althingi.is/altext/stjt/2018.075.html) <sup>2)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>3)</sup>[L. 105/2024, 6. gr.](https://www.althingi.is/altext/stjt/2024.105.html) <sup>4)</sup>[L. 68/2003, 42. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 88. gr.
+
+[Þrátt fyrir fyrirmæli laga, siðareglna eða samninga um þagnar- eða trúnaðarskyldu er þeim sem býr yfir upplýsingum eða gögnum um brot á lögum eða aðra ámælisverða háttsemi í starfsemi þeirra sem falla undir starfssvið Vinnueftirlits ríkisins heimilt í þágu þeirra almannahagsmuna sem það hefur eftirlit með að greina því frá slíku og afhenda því gögn þar að lútandi.
+
+Sá sem óskar eftir að greina frá eða afhenda gögn skv. 1. mgr. skal taka fram ef hann óskar eftir að njóta verndar samkvæmt þessari grein. Vinnueftirlit ríkisins greinir viðkomandi frá því hvort upplýsingarnar hafi orðið því tilefni til athafna þannig að ákvæði 4. mgr. eigi við.
+
+Vinnueftirlit ríkisins skal gæta leyndar um þær persónuupplýsingar sem það aflar eða því berast skv. 1. mgr. nema viðkomandi veiti afdráttarlaust samþykki sitt fyrir því að leynd sé aflétt. Í því felst að réttur einstaklinga til að fá vitneskju um hvaða persónuupplýsingar þeirra Vinnueftirlit ríkisins hefur unnið með er ekki fyrir hendi. Heimilt er að eyða persónugreinanlegum upplýsingum og öðrum gögnum sem Vinnueftirlit ríkisins fær skv. 1. mgr. eða aflar af því tilefni þegar Vinnueftirlitið telur ekki lengur þörf á þeim við meðferð á máli.
+
+Óheimilt er að láta hvern þann sæta óréttlátri meðferð sem í góðri trú hefur veitt Vinnueftirliti ríkisins upplýsingar sem leitt hafa til athafna Vinnueftirlitsins vegna upplýsingagjafarinnar. Til slíkrar meðferðar telst t.d. að rýra réttindi, segja upp samningi, slíta honum eða láta hvern þann sem látið hefur Vinnueftirliti ríkisins í té upplýsingar gjalda þess á annan hátt. Séu leiddar líkur að slíku skal gagnaðili sýna fram á að ákvörðun sé reist á öðrum forsendum en þeim að Vinnueftirliti ríkisins hafi verið látnar í té upplýsingar.
+
+Brot gegn 4. mgr. varða sektum eða fangelsi allt að tveimur árum.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 40/2020, 7. gr.](https://www.althingi.is/altext/stjt/2020.040.html#G7)
+
+##### 89. gr.
+
+Ráðherra setur reglur um samstarf Vinnueftirlitsins við aðra opinbera aðila og leitar áður álits meðráðherra sinna.
+
+## XIII. kafli. Tilkynningarskylda fyrirtækja, veiting starfsleyfa og fleira.
+
+##### 90. gr.
+
+Starfsemi merkir í lögum þessum skipulagða aðgerð eða framkvæmd, hvort sem um vinnustað samkvæmt 41. gr. er að ræða eða ekki.
+
+Fyrirtæki merkir í lögum þessum alla þá, sem reka starfsemi, hvort sem um er að ræða stofnanir, félagasamtök, einstaklinga eða aðra aðila. Um einstaklinga gildir einu, hvort þeir vinna einir eða hafa aðra í þjónustu sinni.
+
+##### 91. gr.
+
+Vinnueftirlit ríkisins skal halda skrá yfir þau fyrirtæki, sem lög þessi gilda um. Stofnunin hagnýtir sér í þessu efni þær skrár, sem tiltækar eru hjá [ríkisskattstjóra]<sup>1)</sup> og öðrum opinberum aðilum.
+
+Vinnueftirlit ríkisins hefur samvinnu um þessi mál við þá aðila, sem með lögum eða reglugerðum er falið að veita fyrirtækjum framleiðslu-, iðnaðar-, starfs- eða vinnsluleyfi, hverju nafni sem nefnast.
+
+> <sup>1)</sup>[L. 17/2003, 12. gr.](https://www.althingi.is/altext/stjt/2003.017.html#G12)
+
+##### 92. gr.
+
+Senda skal Vinnueftirliti ríkisins afrit af iðnaðarleyfum, sem lögreglustjórar láta af hendi samkvæmt [12. gr. iðnaðarlaga 42/1978](../1978/1978-42-log-um-handidnad.md).
+
+##### 93. gr.
+
+Sérhver, sem ætlar að hefja rekstur fyrirtækis eða breyta eldra fyrirtæki, skal leita umsagnar Vinnueftirlits ríkisins um það, hvort hin fyrirhugaða starfsemi sé í samræmi við lög þessi og reglugerðir settar samkvæmt þeim. Í því skyni skal hann láta stofnuninni í té sundurliðaða greinargerð með nægilegum uppdráttum yfir húsakynni og fyrirkomulag véla, tækja og annars búnaðar og öðrum upplýsingum, sem máli kunna að skipta, eftir [fyrirmælum Vinnueftirlits ríkisins].<sup>1)</sup>
+
+…<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 44. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 94. gr.
+
+Hver sá, sem tekur að sér byggingu verksmiðja, verkstæða eða annars þess háttar, uppsetningu véla, tækja eða annars búnaðar, hverju nafni sem nefnist, skal vera ábyrgur gagnvart Vinnueftirliti ríkisins um, að öryggisbúnaður sé samkvæmt lögum þessum, [gildandi reglum og fyrirmælum Vinnueftirlits ríkisins].<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 45. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 95. gr.
+
+Hver sá, sem hefur með höndum starfsemi, sem lög þessi gilda um, skal hafa sérstakt starfsleyfi Vinnueftirlits ríkisins til tryggingar því, að starfsemi fullnægi viðurkenndum stöðlum, ákvæðum laga og reglugerða, svo og fyrirmælum Vinnueftirlits ríkisins, að því er aðbúnað, hollustuhætti og öryggi á vinnustöðum snertir.
+
+[[Ráðherra]<sup>1)</sup> setur nánari reglur, að fenginni umsögn stjórnar Vinnueftirlits ríkisins],<sup>2)</sup> um veitingu starfsleyfa og um gildistíma þeirra.
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 68/2003, 2. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 96. gr.
+
+Sérhver starfsemi, sem lög þessi ná til, skal tilkynnt Vinnueftirliti ríkisins áður en hún hefst.
+
+Óheimilt er að hefja rekstur í fyrirtæki eða hluta fyrirtækis fyrr en eftirlitsmaður hefur gefið réttum aðilum vottorð um, að allur útbúnaður sé í fullu lagi og í samræmi við fyrirmæli forstjóra …<sup>1)</sup> Vinnueftirlits ríkisins, að mati eftirlitsmannsins.
+
+> <sup>1)</sup>[L. 68/2003, 46. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### 97. gr.
+
+Sé öðrum aðilum með lögum eða reglugerðum falið að veita fyrirtækjum framleiðslu-, iðnaðar-, starfs- eða vinnsluleyfi, hverju nafni sem nefnast, tekur starfsleyfi, sem Vinnueftirlit ríkisins gefur út, ekki gildi fyrr en viðkomandi fyrirtæki hefur aflað sér annarra tilskilinna leyfa.
+
+## XIV. kafli. [Kæruheimild.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 68/2003, 47. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+##### [98. gr.
+
+Heimilt er að kæra ákvarðanir Vinnueftirlits ríkisins til [ráðuneytisins]<sup>1)</sup> innan þriggja mánaða frá því að aðila máls var tilkynnt um ákvörðunina. Kæra telst nægjanlega snemma fram komin ef bréf sem hefur hana að geyma hefur borist ráðuneytinu eða verið afhent pósti áður en fresturinn er liðinn.
+
+[Ráðuneytið]<sup>1)</sup> skal leitast við að kveða upp úrskurð innan tveggja mánaða frá því að ráðuneytinu berst mál til úrskurðar.
+
+Að öðru leyti fer um málsmeðferð samkvæmt ákvæðum stjórnsýslulaga.]<sup>2)</sup>
+
+> <sup>1)</sup>[L. 162/2010, 3. gr.](https://www.althingi.is/altext/stjt/2010.162.html) <sup>2)</sup>[L. 68/2003, 47. gr.](https://www.althingi.is/altext/stjt/2003.068.html)
+
+## XV. kafli. [Viðurlög og refsiákvæði.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 105/2024, 9. gr.](https://www.althingi.is/altext/stjt/2024.105.html)
+
+##### 99. gr.
+
+Brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim varða sektum, nema þyngri refsing liggi við að öðrum lögum.
+
+[Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að:
+
+a. brjóta gegn 27. gr. sem og brjóti atvinnurekandi eða verkstjóri gegn 1. eða 2. mgr. 86. gr.,
+
+b. brjóta með stórfelldum hætti eða ítrekað gegn 1. mgr. 14. gr., 2. mgr. 23. gr. eða 3. mgr. 80. gr.,
+
+c. brjóta gegn 8. mgr. 45. gr. en við ákvörðun refsingar skal fara eftir 1. mgr. [95. gr. umferðarlaga, 77/2019](../2019/2019-77-umferdarlog.md),
+
+d. brjóta gegn ákvæðum laga þessara og/eða ákvæðum reglna eða reglugerða sem settar hafa verið á grundvelli þeirra leiði brotið til alvarlegs slyss eða dauða starfsmanns eða annarra eða alvarlegs óhapps þar sem verulegar líkur hafa verið á því að afleiðingarnar hefðu getað orðið þær sömu.
+
+Heimilt er að ákvarða atvinnurekendum sektir í samræmi við II. kafla A almennra [hegningarlaga, 19/1940](../1940/1940-19-almenn-hegningarlog.md), fyrir þau brot sem tilgreind eru í 2. mgr.
+
+Vinnueftirliti ríkisins er heimilt að banna stjórnanda að nota tiltekna vél, sbr. 1.–5. mgr. 45. gr., sem er skráningarskyld skv. 49. gr., ef grunur er um að hann sé undir áhrifum áfengis, ávana- og fíkniefna eða lyfja, sbr. 8. mgr. 45. gr., en þá skal lögregla jafnframt kölluð til. Lögregla hefur sömu heimildir til rannsókna á öndunar-, svita-, munnvatns-, blóð- og þvagsýnum frá stjórnanda vinnuvélar vegna gruns um brot sem tilgreint er í c-lið 2. mgr. og hún hefur skv. 1.–4. mgr. [52. gr. umferðarlaga, 77/2019](../2019/2019-77-umferdarlog.md), gagnvart ökumanni vélknúins ökutækis, sbr. 43. tölul. 1. mgr. 3. gr. sömu laga. Kostnaður vegna slíkra rannsókna telst til sakarkostnaðar með sama hætti og skv. 2. málsl. 6. mgr. 52. gr. umferðarlaga.
+
+Ef stjórnandi vélar skv. 1.–5. mgr. 45. gr., sem er skráningarskyld skv. 49. gr. en telst ekki til vélknúins ökutækis, sbr. 43. tölul. 1. mgr. [3. gr. umferðarlaga, 77/2019](../2019/2019-77-umferdarlog.md), hefur brotið gegn ákvæðum 8. mgr. 45. gr. eða stjórnandinn hefur neitað að veita atbeina sinn við rannsókn máls skv. 4. mgr. er Vinnueftirliti ríkisins heimilt að svipta hann vinnuvélaréttindum. Svipting vinnuvélaréttinda skv. 1. málsl. skal annaðhvort vara í tiltekinn tíma og þá eigi skemur en einn mánuð eða vara ótímabundið ef sakir eru miklar eða brot er endurtekið öðru sinni eða oftar. Svipting vinnuvélaréttinda felur í sér sviptingu tiltekinna réttinda sem tilgreind eru í vinnuvélaskírteini sem og réttar til að öðlast vinnuvélaréttindi. Ef svipting vinnuvélaréttinda er ótímabundin getur sá sem sviptur er réttindum ekki sótt að nýju um vinnuvélaréttindi fyrr en fimm ár eru liðin frá sviptingunni að undangengnu verklegu og bóklegu prófi á viðkomandi vél.
+
+Ef stjórnandi vélar skv. 1.–5. mgr. 45. gr., sem er skráningarskyld skv. 49. gr. en telst ekki vera vélknúið ökutæki, sbr. 43. tölul. 1. mgr. [3. gr. umferðarlaga, 77/2019](../2019/2019-77-umferdarlog.md), hefur brotið gegn 48.–50. gr. umferðarlaga er Vinnueftirliti ríkisins heimilt að svipta hann vinnuvélaréttindum í sama tíma og ökuréttarsviptingin varir.]<sup>1)</sup>
+
+Sektir renna í ríkissjóð.
+
+…<sup>2)</sup>
+
+> <sup>1)</sup>[L. 105/2024, 7. gr.](https://www.althingi.is/altext/stjt/2024.105.html) <sup>2)</sup>[L. 88/2008, 233. gr.](https://www.althingi.is/altext/stjt/2008.088.html#G233)
+
+##### [99. gr. a.
+
+Vinnueftirliti ríkisins er heimilt að leggja stjórnvaldssekt á atvinnurekanda og eftir atvikum verkkaupa eða fulltrúa verkkaupa og framleiðanda, innflutningsaðila og dreifingaraðila varnings, sbr. 4. gr. laga um öryggi vöru og opinbera markaðsgæslu, 134/1995, sem:
+
+a. brýtur gegn fyrirmælum stofnunarinnar um stöðvun vinnu eða lokun starfsemi eða hluta hennar eða um bann við notkun vélar skv. 84. eða 85. gr.,
+
+b. brýtur gegn fyrirmælum stofnunarinnar um bann við markaðssetningu eða um bann við notkun sem og afturköllun eða eyðileggingu á vélum, tækjum og öðrum búnaði skv. 48. gr. a,
+
+c. brýtur gegn fyrirmælum stofnunarinnar um bann við framleiðslu, flutningi eða notkun hættulegra efna og efnavara skv. 2. mgr. 51. gr.,
+
+d. brýtur ítrekað gegn fyrirmælum stofnunarinnar um aðbúnað, hollustuhætti og öryggi á vinnustöðum skv. 37., 42. eða 46. gr., sem veitt hafa verið vegna sambærilegrar háttsemi eða brots,
+
+e. brýtur gegn ákvæðum reglugerðar um bann við notkun asbests á vinnustöðum,
+
+f. brýtur gegn 5. mgr. 36. gr., 60. gr. eða 1. eða 2. mgr. 80. gr.,
+
+g. brýtur með stórfelldum hætti og alvarlega gegn 1. eða 2. mgr. 53. gr., 1. eða 2. mgr. 54. gr. eða 55. gr.,
+
+h. brýtur með stórfelldum hætti eða ítrekað gegn 1. mgr. 48. gr., 1. mgr. 50. gr. eða 1. mgr. 51. gr. a,
+
+i. brýtur gegn ákvæðum laga þessara og/eða ákvæðum reglna eða reglugerða sem settar hafa verið á grundvelli þeirra og brotið veldur loftmengun eitraðra eða eldfimra eða hættulegra efna, sprengihættu, klemmihættu, skurðhættu, fallhættu eða hættu á hruni jarðvegs, verkpalls, vörustæðu, gáma, kerja eða burðarvirkis sem skapar verulega hættu fyrir líf eða heilbrigði starfsmanna,
+
+j. sinnir ekki tilkynningarskyldu skv. 1. mgr. 79. gr. eða veitir rangar eða villandi upplýsingar um vinnuslys sem leiðir til dauða eða langvinns eða varanlegs heilsutjóns starfsmanns,
+
+k. ræður börn eða ungmenni til vinnu við þær aðstæður sem kveðið er á um í 62. gr.,
+
+l. veitir stofnuninni rangar eða ófullnægjandi upplýsingar að mati stofnunarinnar um þau atriði sem veita skal stofnuninni upplýsingar um skv. 5. mgr. 36. gr., 58. gr., 1. og 2. mgr. 80. gr. eða 2., 3., 5. eða 10. mgr. 82. gr.
+
+Vinnueftirliti ríkisins er heimilt að leggja stjórnvaldssekt á starfsmann sem:
+
+a. brýtur gegn 6. mgr. 45. gr., eða
+
+b. brýtur gegn fyrirmælum stofnunarinnar um bann við notkun tiltekins tækis, sbr. 1. málsl. 4. mgr. 99. gr.
+
+Stjórnvaldssekt sem lögð er á starfsmann getur numið allt að 1 millj. kr.
+
+Stjórnvaldssekt sem lögð er á atvinnurekanda getur numið allt að 15 millj. kr.
+
+Við ákvörðun stjórnvaldssektar skal Vinnueftirlit ríkisins meðal annars líta til alvarleika brots, til þess hve lengi það hefur staðið yfir, hvort um ítrekað brot hafi verið að ræða sem og samstarfsvilja hins brotlega aðila og umfangs atvinnurekstrar aðilans, sé um atvinnurekanda að ræða.
+
+Stjórnvaldssekt skal beitt óháð því hvort brotið var framið af ásetningi eða gáleysi.
+
+Ekki skal leggja stjórnvaldssekt á starfsmann og atvinnurekanda fyrir sama brot. Ef stjórnvaldssekt er lögð á verður öðrum viðurlögum samkvæmt lögum þessum ekki beitt.
+
+Ákvörðun um stjórnvaldssekt skal tilkynnt skriflega á sannanlegan hátt þeim aðila sem sektin beinist að og skal ákvörðuninni fylgja skriflegur rökstuðningur.
+
+Gjalddagi stjórnvaldssektar er 30 dögum eftir að ákvörðun um sektina var tekin. Hafi stjórnvaldssekt ekki verið greidd innan 15 daga frá gjalddaga skal greiða dráttarvexti af fjárhæð sektarinnar frá gjalddaga. Um ákvörðun og útreikning dráttarvaxta fer samkvæmt ákvæðum laga um vexti og verðtryggingu.
+
+Heimild Vinnueftirlits ríkisins til þess að leggja á stjórnvaldssekt samkvæmt ákvæði þessu fellur niður þegar fimm ár eru liðin frá því að háttsemi skv. 1. og/eða 2. mgr. lauk.
+
+Stjórnvaldssekt rennur í ríkissjóð að frádregnum kostnaði við álagningu og innheimtu sektarinnar.
+
+Ákvörðun Vinnueftirlits ríkisins um stjórnvaldssekt er aðfararhæf.
+
+Að öðru leyti fer um ákvörðun Vinnueftirlits ríkisins um stjórnvaldssekt samkvæmt ákvæðum stjórnsýslulaga.]<sup>1)</sup>
+
+> <sup>1)</sup>[L. 105/2024, 8. gr.](https://www.althingi.is/altext/stjt/2024.105.html)
+
+## XVI. kafli. Gildistaka.
+
+##### 100. gr.
+
+Lög þessi öðlast gildi 1. janúar 1981. […](https://www.althingi.is/lagasafn/leidbeiningar)
+
+##### Bráðabirgðaákvæði.
+
+1\. […](https://www.althingi.is/lagasafn/leidbeiningar)
+
+2\. […](https://www.althingi.is/lagasafn/leidbeiningar)
+
+3\. Félagsmálaráðherra skal fyrir 1. júní 1981 setja reglugerð<sup>1)</sup> um þau ákvæði laga þessara, sem snerta landbúnaðinn. Skal þar m.a. kveðið á um aðild Stéttarsambands bænda að ákvörðunum um þau ákvæði laganna er sérstaklega varða landbúnaðinn. Reglugerðin skal samin í samráði við stjórn Vinnueftirlits ríkisins, Stéttarsambands bænda og Búnaðarfélags Íslands.
+
+4\. […](https://www.althingi.is/lagasafn/leidbeiningar)
+
+5\. [Lög þessi skal endurskoða í samráði við aðila vinnumarkaðarins og stjórn Vinnueftirlits ríkisins eigi síðar en fyrir árslok 1990.]<sup>2)</sup>
+
+[6. Félagsmálaráðherra skal skipa nýja stjórn Vinnueftirlits ríkisins innan tveggja mánaða frá gildistöku laga þessara og fellur þá niður umboð fyrri stjórnar Vinnueftirlits ríkisins. Hin nýja stjórn tekur við verkefnum fráfarandi stjórnar sem lúta að faglegri stefnumótun Vinnueftirlits ríkisins en stofnunin tekur við öðrum verkefnum hennar.]<sup>3)</sup>
+
+[7. Þrátt fyrir ákvæði 1. mgr. 55. gr. laganna skal hámarksvinnutími lækna í starfsnámi á viku að yfirvinnu meðtalinni ekki vera umfram 58 klukkustundir að meðaltali á hverju fjögurra mánaða tímabili fram til 31. júlí 2007. Á tímabilinu 1. ágúst 2007 til 31. júlí 2009 skal hámarksvinnutími lækna í starfsnámi skv. 1. málsl. ekki vera umfram 56 klukkustundir að meðaltali á hverju fjögurra mánaða tímabili. Vinnuveitandi skal hafa samráð við fulltrúa starfsmanna með góðum fyrirvara með það í huga að ná samkomulagi, þar sem því verður við komið, um tilhögun vinnutíma á aðlögunartímabilinu. Hlutaðeigandi samtökum aðila vinnumarkaðarins er jafnframt heimilt að gera með sér samkomulag um tilhögun vinnutíma lækna í starfsnámi á aðlögunartímabilinu. Að öðru leyti gildir 55. gr. laganna um lækna í starfsnámi.
+
+8\. Reglur þær sem stjórn Vinnueftirlits ríkisins setti fyrir gildistöku [laga 68/2003](https://www.althingi.is/altext/stjt/2003.068.html), um breytingu á [lögum nr. 46/1980](1980-46-adbunad-hollustuhaetti-og-oryggi-a-vinnustodum.md), um aðbúnað, hollustuhætti og öryggi á vinnustöðum, skulu halda gildi sínu þar til nýjar reglur eru settar af félagsmálaráðherra að fenginni umsögn stjórnar Vinnueftirlits ríkisins.]<sup>4)</sup>
+
+[9. …<sup>5)</sup>]<sup>6)</sup>
+
+[10. …<sup>7)</sup>]<sup>8)</sup>
+
+[11. Ráðherra skal eigi síðar en fyrir árslok 2025 hefja endurskoðun á 53. gr. b í samráði við hagsmunasamtök fatlaðs fólks, Samband íslenskra sveitarfélaga, samtök aðila vinnumarkaðarins og Vinnueftirlit ríkisins og skal þeirri vinnu lokið í síðasta lagi fyrir árslok 2026.]<sup>9)</sup>
+
+> <sup>1)</sup>[Rg. 288/1981](https://www.reglugerd.is/reglugerdir/allar/nr/288-1981). <sup>2)</sup>[L. 15/1986, 1. gr.](https://www.althingi.is/altext/stjtnr.html#1986015?g1) <sup>3)</sup>[L. 68/2003, brbákv. Lögin tóku gildi 7. apríl 2003](https://www.althingi.is/altext/stjt/2003.068.html), sbr. [49. gr. s.l.](https://www.althingi.is/altext/stjt/2003.068.html) <sup>4)</sup>[L. 138/2005, 2. gr.](https://www.althingi.is/altext/stjt/2005.138.html) <sup>5)</sup>Ákvæðið gilti til 1. apríl 2022 skv. 2. mgr., sbr. [l. 62/2021, 1. gr.](https://www.althingi.is/altext/stjt/2021.062.html) <sup>6)</sup>[L. 80/2015, 3. gr.](https://www.althingi.is/altext/stjt/2015.080.html) <sup>7)</sup>Ákvæðið féll úr gildi 1. jan. 2021 skv. 3. mgr. <sup>8)</sup>[L. 28/2020, 1. gr.](https://www.althingi.is/altext/stjt/2020.028.html) <sup>9)</sup>[L. 41/2022, 2. gr.](https://www.althingi.is/altext/stjt/2022.041.html)
+
+### [Í [48. gr. laga nr. 68/2003](https://www.althingi.is/altext/stjt/2003.068.html) um breytingu á lögum þessum er svofellt ákvæði:]
+
+Lög þessi eru meðal annars sett til innleiðingar á tilskipun nr. 89/391/EBE um lögleiðingu ráðstafana er stuðla að bættu öryggi og heilsu starfsmanna á vinnustöðum, sem vísað er til í 8. lið XVIII. viðauka samningsins um Evrópska efnahagssvæðið, tilskipun nr. 93/104/EB um ákveðna þætti er varða skipulag vinnutíma, sem vísað er til í 28. lið XVIII. viðauka samningsins um Evrópska efnahagssvæðið eins og honum var breytt með ákvörðun sameiginlegu EES-nefndarinnar, nr. 42/96, og tilskipun nr. 94/33/EB um vinnuvernd barna og ungmenna, sem vísað er til í 29. lið XVIII. viðauka samningsins um Evrópska efnahagssvæðið eins og honum var breytt með ákvörðun sameiginlegu EES-nefndarinnar, nr. 43/96.
+
+### [Í [3. gr. laga nr. 138/2005](https://www.althingi.is/altext/stjt/2005.138.html) um breytingu á lögum þessum er svofellt ákvæði:]
+
+Lög þessi eru sett til innleiðingar á tilskipun nr. 2003/88/EB, um ákveðna þætti er varða skipulag vinnutíma, sem vísað er til í 32. lið h XVIII. viðauka samningsins um Evrópska efnahagssvæðið, eins og honum var breytt með ákvörðun sameiginlegu EES-nefndarinnar, nr. 45/2004, sbr. einnig tilskipun nr. 2000/34/EB, um breytingu á tilskipun ráðsins nr. 93/104/EB, um ákveðna þætti er varða skipulag vinnutíma þannig að hún taki til þeirra geira og þeirrar starfsemi sem fellur utan gildissviðs þeirrar tilskipunar.
